@@ -154,7 +154,12 @@ def parse_wikipedia_worst_films_page(url: str, max_score: int = 70):
 
 
 def load_curated_movies(max_score: int = 70):
-    """Return curated bad films from data/curated_films.json."""
+    """Return curated bad films from data/curated_films.json.
+
+    Entries with ``"featured": true`` are always included regardless of their
+    RT score — this lets actor spotlights (e.g. full Nicolas Cage filmography)
+    appear even when their scores are above the current max_score threshold.
+    """
     if not CURATED_FILMS_PATH.exists():
         return []
     raw = json.loads(CURATED_FILMS_PATH.read_text(encoding="utf-8"))
@@ -164,7 +169,8 @@ def load_curated_movies(max_score: int = 70):
             rt = int(str(m["rating"]).rstrip("%"))
         except (ValueError, KeyError):
             continue
-        if rt > max_score:
+        featured = bool(m.get("featured"))
+        if rt > max_score and not featured:
             continue
         title = m["title"]
         movies.append(
@@ -180,6 +186,7 @@ def load_curated_movies(max_score: int = 70):
                 "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                 "preview_url": build_youtube_search_url(f"{title} trailer"),
                 "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
+                "featured": featured,
             }
         )
     return movies
@@ -376,7 +383,7 @@ def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
     movies = [
         movie
         for movie in unique_movies.values()
-        if int(movie["rating"].rstrip("%")) <= max_score
+        if int(movie["rating"].rstrip("%")) <= max_score or movie.get("featured")
     ]
     movies.sort(key=lambda movie: movie["title"].lower())
     return movies[:limit]

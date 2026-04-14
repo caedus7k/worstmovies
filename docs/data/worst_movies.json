@@ -10,7 +10,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/211_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=211",
     "preview_url": "https://www.youtube.com/results?search_query=211+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/211+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/211+trailer",
+    "featured": false
   },
   {
     "title": "3 Strikes",
@@ -36,7 +37,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/8MM_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=8MM",
     "preview_url": "https://www.youtube.com/results?search_query=8MM+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/8MM+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/8MM+trailer",
+    "featured": false
   },
   {
     "title": "A Score to Settle",
@@ -49,7 +51,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/A_Score_to_Settle",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Score+to+Settle",
     "preview_url": "https://www.youtube.com/results?search_query=A+Score+to+Settle+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/A+Score+to+Settle+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/A+Score+to+Settle+trailer",
+    "featured": false
   },
   {
     "title": "A Sound of Thunder",
@@ -62,7 +65,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/A_Sound_of_Thunder_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Sound+of+Thunder",
     "preview_url": "https://www.youtube.com/results?search_query=A+Sound+of+Thunder+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/A+Sound+of+Thunder+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/A+Sound+of+Thunder+trailer",
+    "featured": false
   },
   {
     "title": "A Thousand Words",
@@ -76,6 +80,20 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Thousand+Words",
     "preview_url": "https://www.youtube.com/results?search_query=A+Thousand+Words+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/A+Thousand+Words+trailer"
+  },
+  {
+    "title": "Adaptation",
+    "year": "2002",
+    "rating": "91%",
+    "reviews": "183",
+    "genre": "Comedy/Drama",
+    "description": "Charlie Kaufman's meta-masterpiece in which Nicolas Cage plays both real-life screenwriter Charlie Kaufman and his fictional twin Donald. Cage earned an Oscar nomination for the dual performance.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Adaptation_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Adaptation",
+    "preview_url": "https://www.youtube.com/results?search_query=Adaptation+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Adaptation+trailer",
+    "featured": true
   },
   {
     "title": "Alarum",
@@ -101,7 +119,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2005_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Alone+in+the+Dark",
     "preview_url": "https://www.youtube.com/results?search_query=Alone+in+the+Dark+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Alone+in+the+Dark+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Alone+in+the+Dark+trailer",
+    "featured": false
+  },
+  {
+    "title": "Amos & Andrew",
+    "year": "1993",
+    "rating": "24%",
+    "reviews": "38",
+    "genre": "Comedy",
+    "description": "Nicolas Cage plays a petty criminal taken hostage by police who mistake a Black celebrity (Samuel L. Jackson) for a burglar. A misfire of a social satire.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Amos_%26_Andrew",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Amos+%26+Andrew",
+    "preview_url": "https://www.youtube.com/results?search_query=Amos+%26+Andrew+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Amos+%26+Andrew+trailer",
+    "featured": false
   },
   {
     "title": "Armor",
@@ -117,6 +150,20 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Armor+trailer"
   },
   {
+    "title": "Army of One",
+    "year": "2016",
+    "rating": "52%",
+    "reviews": "67",
+    "genre": "Comedy",
+    "description": "Nicolas Cage plays Gary Faulkner, the real-life Colorado handyman who believed God told him to single-handedly capture Osama bin Laden. Directed by Larry Charles.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Army_of_One_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Army+of+One",
+    "preview_url": "https://www.youtube.com/results?search_query=Army+of+One+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Army+of+One+trailer",
+    "featured": false
+  },
+  {
     "title": "Arsenal",
     "year": "2017",
     "rating": "0%",
@@ -127,7 +174,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Arsenal_(2017_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Arsenal",
     "preview_url": "https://www.youtube.com/results?search_query=Arsenal+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Arsenal+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Arsenal+trailer",
+    "featured": false
   },
   {
     "title": "Artemis Fowl",
@@ -140,7 +188,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Artemis_Fowl_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Artemis+Fowl",
     "preview_url": "https://www.youtube.com/results?search_query=Artemis+Fowl+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Artemis+Fowl+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Artemis+Fowl+trailer",
+    "featured": false
+  },
+  {
+    "title": "Bad Lieutenant: Port of Call New Orleans",
+    "year": "2009",
+    "rating": "87%",
+    "reviews": "148",
+    "genre": "Crime/Drama",
+    "description": "Werner Herzog directs Nicolas Cage as a corrupt, drug-addled New Orleans detective investigating a murder. Cage's unhinged performance — including a scene where he sees iguanas — is legendary.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Bad_Lieutenant:_Port_of_Call_New_Orleans",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bad+Lieutenant%3A+Port+of+Call+New+Orleans",
+    "preview_url": "https://www.youtube.com/results?search_query=Bad+Lieutenant%3A+Port+of+Call+New+Orleans+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Bad+Lieutenant%3A+Port+of+Call+New+Orleans+trailer",
+    "featured": true
   },
   {
     "title": "Ballistic: Ecks vs. Sever",
@@ -166,7 +229,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Bangkok_Dangerous_(2008_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bangkok+Dangerous",
     "preview_url": "https://www.youtube.com/results?search_query=Bangkok+Dangerous+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Bangkok+Dangerous+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Bangkok+Dangerous+trailer",
+    "featured": false
   },
   {
     "title": "Batman & Robin",
@@ -179,7 +243,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Batman+%26+Robin",
     "preview_url": "https://www.youtube.com/results?search_query=Batman+%26+Robin+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Batman+%26+Robin+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Batman+%26+Robin+trailer",
+    "featured": false
   },
   {
     "title": "Battlefield Earth",
@@ -192,7 +257,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Battlefield_Earth_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Battlefield+Earth",
     "preview_url": "https://www.youtube.com/results?search_query=Battlefield+Earth+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Battlefield+Earth+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Battlefield+Earth+trailer",
+    "featured": false
   },
   {
     "title": "Baywatch",
@@ -205,7 +271,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Baywatch_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Baywatch",
     "preview_url": "https://www.youtube.com/results?search_query=Baywatch+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Baywatch+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Baywatch+trailer",
+    "featured": false
   },
   {
     "title": "Ben & Arthur",
@@ -218,7 +285,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Ben_%26_Arthur",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ben+%26+Arthur",
     "preview_url": "https://www.youtube.com/results?search_query=Ben+%26+Arthur+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Ben+%26+Arthur+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Ben+%26+Arthur+trailer",
+    "featured": false
   },
   {
     "title": "Beneath the Darkness",
@@ -244,7 +312,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Birdemic:_Shock_and_Terror",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Birdemic%3A+Shock+and+Terror",
     "preview_url": "https://www.youtube.com/results?search_query=Birdemic%3A+Shock+and+Terror+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Birdemic%3A+Shock+and+Terror+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Birdemic%3A+Shock+and+Terror+trailer",
+    "featured": false
+  },
+  {
+    "title": "Birdy",
+    "year": "1984",
+    "rating": "88%",
+    "reviews": "49",
+    "genre": "Drama",
+    "description": "Alan Parker's acclaimed drama about two Vietnam veterans — Nicolas Cage and Matthew Modine — dealing with trauma. Cage plays Al who visits his catatonic friend. Cage famously had two teeth pulled for authenticity.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Birdy_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Birdy",
+    "preview_url": "https://www.youtube.com/results?search_query=Birdy+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Birdy+trailer",
+    "featured": true
   },
   {
     "title": "BloodRayne",
@@ -257,7 +340,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/BloodRayne_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=BloodRayne",
     "preview_url": "https://www.youtube.com/results?search_query=BloodRayne+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/BloodRayne+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/BloodRayne+trailer",
+    "featured": false
   },
   {
     "title": "Bolero",
@@ -283,7 +367,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Bratz_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bratz",
     "preview_url": "https://www.youtube.com/results?search_query=Bratz+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Bratz+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Bratz+trailer",
+    "featured": false
+  },
+  {
+    "title": "Bringing Out the Dead",
+    "year": "1999",
+    "rating": "76%",
+    "reviews": "81",
+    "genre": "Drama/Thriller",
+    "description": "Martin Scorsese directs Nicolas Cage as a haunted New York paramedic working brutal night shifts in Hell's Kitchen. Written by Paul Schrader, criminally underseen.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Bringing_Out_the_Dead",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bringing+Out+the+Dead",
+    "preview_url": "https://www.youtube.com/results?search_query=Bringing+Out+the+Dead+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Bringing+Out+the+Dead+trailer",
+    "featured": true
   },
   {
     "title": "Bucky Larson: Born to Be a Star",
@@ -296,7 +395,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Bucky_Larson:_Born_to_Be_a_Star",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bucky+Larson%3A+Born+to+Be+a+Star",
     "preview_url": "https://www.youtube.com/results?search_query=Bucky+Larson%3A+Born+to+Be+a+Star+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Bucky+Larson%3A+Born+to+Be+a+Star+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Bucky+Larson%3A+Born+to+Be+a+Star+trailer",
+    "featured": false
   },
   {
     "title": "Cabin Fever",
@@ -335,7 +435,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Captain_Corelli%27s_Mandolin_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Captain+Corelli%27s+Mandolin",
     "preview_url": "https://www.youtube.com/results?search_query=Captain+Corelli%27s+Mandolin+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Captain+Corelli%27s+Mandolin+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Captain+Corelli%27s+Mandolin+trailer",
+    "featured": false
   },
   {
     "title": "Cats",
@@ -348,7 +449,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Cats_(2019_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Cats",
     "preview_url": "https://www.youtube.com/results?search_query=Cats+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Cats+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Cats+trailer",
+    "featured": false
   },
   {
     "title": "Catwoman",
@@ -361,7 +463,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Catwoman_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Catwoman",
     "preview_url": "https://www.youtube.com/results?search_query=Catwoman+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Catwoman+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Catwoman+trailer",
+    "featured": false
   },
   {
     "title": "CHiPs",
@@ -374,7 +477,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/CHiPs_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=CHiPs",
     "preview_url": "https://www.youtube.com/results?search_query=CHiPs+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/CHiPs+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/CHiPs+trailer",
+    "featured": false
   },
   {
     "title": "City of Angels",
@@ -387,7 +491,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/City_of_Angels_(1998_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=City+of+Angels",
     "preview_url": "https://www.youtube.com/results?search_query=City+of+Angels+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/City+of+Angels+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/City+of+Angels+trailer",
+    "featured": false
   },
   {
     "title": "Collateral Beauty",
@@ -400,7 +505,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Collateral_Beauty",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Collateral+Beauty",
     "preview_url": "https://www.youtube.com/results?search_query=Collateral+Beauty+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Collateral+Beauty+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Collateral+Beauty+trailer",
+    "featured": false
+  },
+  {
+    "title": "Color Out of Space",
+    "year": "2019",
+    "rating": "83%",
+    "reviews": "132",
+    "genre": "Horror/Sci-fi",
+    "description": "Richard Stanley's adaptation of H.P. Lovecraft's story starring Nicolas Cage as a farmer whose rural property is hit by a meteorite that warps reality. A gloriously weird Cage showcase.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Color_Out_of_Space_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Color+Out+of+Space",
+    "preview_url": "https://www.youtube.com/results?search_query=Color+Out+of+Space+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Color+Out+of+Space+trailer",
+    "featured": true
   },
   {
     "title": "Con Air",
@@ -413,7 +533,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Con_Air",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Con+Air",
     "preview_url": "https://www.youtube.com/results?search_query=Con+Air+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Con+Air+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Con+Air+trailer",
+    "featured": false
   },
   {
     "title": "Constellation",
@@ -439,7 +560,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Cool_as_Ice",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Cool+as+Ice",
     "preview_url": "https://www.youtube.com/results?search_query=Cool+as+Ice+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Cool+as+Ice+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Cool+as+Ice+trailer",
+    "featured": false
   },
   {
     "title": "Crossroads",
@@ -452,7 +574,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Crossroads_(2002_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Crossroads",
     "preview_url": "https://www.youtube.com/results?search_query=Crossroads+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Crossroads+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Crossroads+trailer",
+    "featured": false
   },
   {
     "title": "Dark Crimes",
@@ -491,7 +614,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Date_Movie",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Date+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=Date+Movie+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Date+Movie+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Date+Movie+trailer",
+    "featured": false
   },
   {
     "title": "Deadfall",
@@ -504,7 +628,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Deadfall_(1993_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Deadfall",
     "preview_url": "https://www.youtube.com/results?search_query=Deadfall+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Deadfall+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Deadfall+trailer",
+    "featured": false
   },
   {
     "title": "Delgo",
@@ -517,7 +642,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Delgo",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Delgo",
     "preview_url": "https://www.youtube.com/results?search_query=Delgo+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Delgo+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Delgo+trailer",
+    "featured": false
   },
   {
     "title": "Derailed",
@@ -543,7 +669,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Dirty_Grandpa",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dirty+Grandpa",
     "preview_url": "https://www.youtube.com/results?search_query=Dirty+Grandpa+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Dirty+Grandpa+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Dirty+Grandpa+trailer",
+    "featured": false
   },
   {
     "title": "Disaster Movie",
@@ -569,7 +696,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Dog_Eat_Dog_(2016_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dog+Eat+Dog",
     "preview_url": "https://www.youtube.com/results?search_query=Dog+Eat+Dog+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Dog+Eat+Dog+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Dog+Eat+Dog+trailer",
+    "featured": false
   },
   {
     "title": "Dolittle",
@@ -582,7 +710,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Dolittle_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dolittle",
     "preview_url": "https://www.youtube.com/results?search_query=Dolittle+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Dolittle+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Dolittle+trailer",
+    "featured": false
   },
   {
     "title": "Dragonball Evolution",
@@ -595,7 +724,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Dragonball_Evolution",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dragonball+Evolution",
     "preview_url": "https://www.youtube.com/results?search_query=Dragonball+Evolution+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Dragonball+Evolution+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Dragonball+Evolution+trailer",
+    "featured": false
+  },
+  {
+    "title": "Dream Scenario",
+    "year": "2023",
+    "rating": "89%",
+    "reviews": "258",
+    "genre": "Comedy/Drama",
+    "description": "Nicolas Cage plays a mild-mannered biology professor who inexplicably begins appearing in millions of strangers' dreams, becoming an overnight celebrity — then a pariah. Directed by Kristoffer Borgli.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Dream_Scenario",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dream+Scenario",
+    "preview_url": "https://www.youtube.com/results?search_query=Dream+Scenario+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Dream+Scenario+trailer",
+    "featured": true
   },
   {
     "title": "Drive Angry",
@@ -608,7 +752,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Drive_Angry",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Drive+Angry",
     "preview_url": "https://www.youtube.com/results?search_query=Drive+Angry+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Drive+Angry+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Drive+Angry+trailer",
+    "featured": false
   },
   {
     "title": "Epic Movie",
@@ -621,7 +766,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Epic_Movie",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Epic+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=Epic+Movie+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Epic+Movie+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Epic+Movie+trailer",
+    "featured": false
+  },
+  {
+    "title": "Face/Off",
+    "year": "1997",
+    "rating": "92%",
+    "reviews": "112",
+    "genre": "Action/Thriller",
+    "description": "John Woo's operatic action film in which Nicolas Cage and John Travolta literally swap faces — and identities. Each actor gets to play the other's character, resulting in glorious dual-Cage chaos.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Face/Off",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Face%2FOff",
+    "preview_url": "https://www.youtube.com/results?search_query=Face%2FOff+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Face%2FOff+trailer",
+    "featured": true
   },
   {
     "title": "Far Cry",
@@ -634,7 +794,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Far_Cry_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Far+Cry",
     "preview_url": "https://www.youtube.com/results?search_query=Far+Cry+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Far+Cry+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Far+Cry+trailer",
+    "featured": false
+  },
+  {
+    "title": "Fire Birds",
+    "year": "1990",
+    "rating": "14%",
+    "reviews": "29",
+    "genre": "Action/War",
+    "description": "Nicolas Cage plays an Apache helicopter pilot training to battle South American drug cartels. Widely dismissed as a shameless Top Gun knockoff with Army helicopters instead of fighter jets.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Fire_Birds",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Fire+Birds",
+    "preview_url": "https://www.youtube.com/results?search_query=Fire+Birds+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Fire+Birds+trailer",
+    "featured": false
   },
   {
     "title": "Fire Down Below",
@@ -647,7 +822,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Fire_Down_Below_(1997_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Fire+Down+Below",
     "preview_url": "https://www.youtube.com/results?search_query=Fire+Down+Below+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Fire+Down+Below+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Fire+Down+Below+trailer",
+    "featured": false
   },
   {
     "title": "Folks!",
@@ -673,7 +849,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Foodfight!",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Foodfight%21",
     "preview_url": "https://www.youtube.com/results?search_query=Foodfight%21+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Foodfight%21+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Foodfight%21+trailer",
+    "featured": false
   },
   {
     "title": "Freddy Got Fingered",
@@ -712,7 +889,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ghost+Rider",
     "preview_url": "https://www.youtube.com/results?search_query=Ghost+Rider+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider+trailer",
+    "featured": false
   },
   {
     "title": "Ghost Rider: Spirit of Vengeance",
@@ -725,7 +903,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider:_Spirit_of_Vengeance",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ghost+Rider%3A+Spirit+of+Vengeance",
     "preview_url": "https://www.youtube.com/results?search_query=Ghost+Rider%3A+Spirit+of+Vengeance+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider%3A+Spirit+of+Vengeance+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider%3A+Spirit+of+Vengeance+trailer",
+    "featured": false
   },
   {
     "title": "Gigli",
@@ -738,7 +917,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Gigli",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gigli",
     "preview_url": "https://www.youtube.com/results?search_query=Gigli+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Gigli+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Gigli+trailer",
+    "featured": false
   },
   {
     "title": "Glitter",
@@ -764,7 +944,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Gone_in_60_Seconds_(2000_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gone+in+60+Seconds",
     "preview_url": "https://www.youtube.com/results?search_query=Gone+in+60+Seconds+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Gone+in+60+Seconds+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Gone+in+60+Seconds+trailer",
+    "featured": false
   },
   {
     "title": "Gotti",
@@ -790,7 +971,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Grand_Isle_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Grand+Isle",
     "preview_url": "https://www.youtube.com/results?search_query=Grand+Isle+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Grand+Isle+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Grand+Isle+trailer",
+    "featured": false
   },
   {
     "title": "Grown Ups 2",
@@ -803,7 +985,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Grown_Ups_2",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Grown+Ups+2",
     "preview_url": "https://www.youtube.com/results?search_query=Grown+Ups+2+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Grown+Ups+2+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Grown+Ups+2+trailer",
+    "featured": false
   },
   {
     "title": "Guardians",
@@ -817,6 +1000,20 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Guardians",
     "preview_url": "https://www.youtube.com/results?search_query=Guardians+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Guardians+trailer"
+  },
+  {
+    "title": "Guarding Tess",
+    "year": "1994",
+    "rating": "65%",
+    "reviews": "52",
+    "genre": "Comedy/Drama",
+    "description": "Nicolas Cage plays a Secret Service agent assigned against his will to protect a difficult former First Lady (Shirley MacLaine). A low-key odd-couple comedy.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Guarding_Tess",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Guarding+Tess",
+    "preview_url": "https://www.youtube.com/results?search_query=Guarding+Tess+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Guarding+Tess+trailer",
+    "featured": false
   },
   {
     "title": "Hard Kill",
@@ -842,7 +1039,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Hellboy_(2019_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Hellboy",
     "preview_url": "https://www.youtube.com/results?search_query=Hellboy+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Hellboy+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Hellboy+trailer",
+    "featured": false
   },
   {
     "title": "Highlander 2: The Quickening",
@@ -871,6 +1069,20 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Homecoming+trailer"
   },
   {
+    "title": "Honeymoon in Vegas",
+    "year": "1992",
+    "rating": "76%",
+    "reviews": "67",
+    "genre": "Romantic Comedy",
+    "description": "Nicolas Cage plays a commitment-phobic private eye who loses his girlfriend in a poker game to a smooth Vegas gambler (James Caan). Features Cage skydiving in an Elvis suit.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Honeymoon_in_Vegas",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Honeymoon+in+Vegas",
+    "preview_url": "https://www.youtube.com/results?search_query=Honeymoon+in+Vegas+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Honeymoon+in+Vegas+trailer",
+    "featured": true
+  },
+  {
     "title": "House of the Dead",
     "year": "2003",
     "rating": "4%",
@@ -881,7 +1093,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/House_of_the_Dead_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=House+of+the+Dead",
     "preview_url": "https://www.youtube.com/results?search_query=House+of+the+Dead+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/House+of+the+Dead+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/House+of+the+Dead+trailer",
+    "featured": false
   },
   {
     "title": "Howard the Duck",
@@ -894,7 +1107,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Howard_the_Duck_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Howard+the+Duck",
     "preview_url": "https://www.youtube.com/results?search_query=Howard+the+Duck+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Howard+the+Duck+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Howard+the+Duck+trailer",
+    "featured": false
   },
   {
     "title": "I Spit on Your Grave",
@@ -920,7 +1134,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/In_the_Name_of_the_King:_A_Dungeon_Siege_Tale",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale",
     "preview_url": "https://www.youtube.com/results?search_query=In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale+trailer",
+    "featured": false
   },
   {
     "title": "Inchon",
@@ -933,7 +1148,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Inchon_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Inchon",
     "preview_url": "https://www.youtube.com/results?search_query=Inchon+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Inchon+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Inchon+trailer",
+    "featured": false
   },
   {
     "title": "Inspector Gadget 2",
@@ -946,7 +1162,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Inspector_Gadget_2",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Inspector+Gadget+2",
     "preview_url": "https://www.youtube.com/results?search_query=Inspector+Gadget+2+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Inspector+Gadget+2+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Inspector+Gadget+2+trailer",
+    "featured": false
+  },
+  {
+    "title": "It Could Happen to You",
+    "year": "1994",
+    "rating": "68%",
+    "reviews": "62",
+    "genre": "Romantic Comedy",
+    "description": "Nicolas Cage plays a cop who promises to split his lottery ticket with a waitress (Bridget Fonda) instead of a tip — and actually wins. Based on a true story.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/It_Could_Happen_to_You_(1994_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=It+Could+Happen+to+You",
+    "preview_url": "https://www.youtube.com/results?search_query=It+Could+Happen+to+You+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/It+Could+Happen+to+You+trailer",
+    "featured": false
   },
   {
     "title": "Jack and Jill",
@@ -972,7 +1203,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Jem_and_the_Holograms_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Jem+and+the+Holograms",
     "preview_url": "https://www.youtube.com/results?search_query=Jem+and+the+Holograms+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Jem+and+the+Holograms+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Jem+and+the+Holograms+trailer",
+    "featured": false
   },
   {
     "title": "Jiu Jitsu",
@@ -985,7 +1217,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Jiu_Jitsu_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Jiu+Jitsu",
     "preview_url": "https://www.youtube.com/results?search_query=Jiu+Jitsu+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Jiu+Jitsu+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Jiu+Jitsu+trailer",
+    "featured": false
+  },
+  {
+    "title": "Joe",
+    "year": "2013",
+    "rating": "90%",
+    "reviews": "117",
+    "genre": "Drama",
+    "description": "David Gordon Green's gritty Southern drama starring Nicolas Cage as an ex-con with a violent past who takes a troubled teenager under his wing. One of Cage's most acclaimed performances of the 2010s.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Joe_(2013_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Joe",
+    "preview_url": "https://www.youtube.com/results?search_query=Joe+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Joe+trailer",
+    "featured": true
   },
   {
     "title": "John Henry",
@@ -1001,6 +1248,20 @@
     "alt_preview_url": "https://www.dailymotion.com/search/John+Henry+trailer"
   },
   {
+    "title": "Kick-Ass",
+    "year": "2010",
+    "rating": "76%",
+    "reviews": "254",
+    "genre": "Action/Comedy",
+    "description": "Nicolas Cage plays Big Daddy, a Batman-obsessed vigilante who trains his 11-year-old daughter Hit-Girl in this ultraviolent superhero deconstruction. Cage does his entire performance as Adam West.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kick-Ass",
+    "preview_url": "https://www.youtube.com/results?search_query=Kick-Ass+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Kick-Ass+trailer",
+    "featured": true
+  },
+  {
     "title": "Killing Gunther",
     "year": "2017",
     "rating": "0%",
@@ -1011,7 +1272,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Killing_Gunther",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Killing+Gunther",
     "preview_url": "https://www.youtube.com/results?search_query=Killing+Gunther+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Killing+Gunther+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Killing+Gunther+trailer",
+    "featured": false
   },
   {
     "title": "Killing Me Softly",
@@ -1037,7 +1299,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Saving_Christmas",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kirk+Cameron%27s+Saving+Christmas",
     "preview_url": "https://www.youtube.com/results?search_query=Kirk+Cameron%27s+Saving+Christmas+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Kirk+Cameron%27s+Saving+Christmas+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Kirk+Cameron%27s+Saving+Christmas+trailer",
+    "featured": false
+  },
+  {
+    "title": "Kiss of Death",
+    "year": "1995",
+    "rating": "67%",
+    "reviews": "58",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays a low-level car thief forced to inform on a psychotic crime boss (David Caruso) in this grimy remake of the 1947 film noir.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Kiss_of_Death_(1995_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kiss+of+Death",
+    "preview_url": "https://www.youtube.com/results?search_query=Kiss+of+Death+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Kiss+of+Death+trailer",
+    "featured": false
   },
   {
     "title": "Knowing",
@@ -1050,7 +1327,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Knowing_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Knowing",
     "preview_url": "https://www.youtube.com/results?search_query=Knowing+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Knowing+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Knowing+trailer",
+    "featured": false
+  },
+  {
+    "title": "Leaving Las Vegas",
+    "year": "1995",
+    "rating": "97%",
+    "reviews": "85",
+    "genre": "Drama/Romance",
+    "description": "Nicolas Cage won the Academy Award for Best Actor playing Ben Sanderson, a suicidal alcoholic Hollywood screenwriter who travels to Las Vegas to drink himself to death. A career-defining performance.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Leaving_Las_Vegas",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Leaving+Las+Vegas",
+    "preview_url": "https://www.youtube.com/results?search_query=Leaving+Las+Vegas+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Leaving+Las+Vegas+trailer",
+    "featured": true
   },
   {
     "title": "Left Behind",
@@ -1076,7 +1368,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Leonard_Part_6",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Leonard+Part+6",
     "preview_url": "https://www.youtube.com/results?search_query=Leonard+Part+6+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Leonard+Part+6+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Leonard+Part+6+trailer",
+    "featured": false
   },
   {
     "title": "Little Man",
@@ -1089,7 +1382,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Little_Man_(2006_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Little+Man",
     "preview_url": "https://www.youtube.com/results?search_query=Little+Man+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Little+Man+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Little+Man+trailer",
+    "featured": false
   },
   {
     "title": "London Fields",
@@ -1103,6 +1397,20 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=London+Fields",
     "preview_url": "https://www.youtube.com/results?search_query=London+Fields+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/London+Fields+trailer"
+  },
+  {
+    "title": "Longlegs",
+    "year": "2024",
+    "rating": "68%",
+    "reviews": "241",
+    "genre": "Horror/Thriller",
+    "description": "Nicolas Cage plays a satanic serial killer leaving cryptic coded messages in Osgood Perkins' atmospheric FBI procedural. Cage designed his own make-up and is unrecognisable throughout.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Longlegs_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Longlegs",
+    "preview_url": "https://www.youtube.com/results?search_query=Longlegs+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Longlegs+trailer",
+    "featured": false
   },
   {
     "title": "Look Who's Talking Now!",
@@ -1141,7 +1449,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Lord_of_War",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Lord+of+War",
     "preview_url": "https://www.youtube.com/results?search_query=Lord+of+War+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Lord+of+War+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Lord+of+War+trailer",
+    "featured": false
   },
   {
     "title": "Mac and Me",
@@ -1167,7 +1476,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Manos%3A+The+Hands+of+Fate",
     "preview_url": "https://www.youtube.com/results?search_query=Manos%3A+The+Hands+of+Fate+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Manos%3A+The+Hands+of+Fate+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Manos%3A+The+Hands+of+Fate+trailer",
+    "featured": false
+  },
+  {
+    "title": "Matchstick Men",
+    "year": "2003",
+    "rating": "82%",
+    "reviews": "181",
+    "genre": "Crime/Comedy",
+    "description": "Ridley Scott directs Nicolas Cage as a con artist with severe OCD whose teenage daughter unexpectedly shows up. One of Cage's most nuanced and controlled performances.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Matchstick_Men",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Matchstick+Men",
+    "preview_url": "https://www.youtube.com/results?search_query=Matchstick+Men+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Matchstick+Men+trailer",
+    "featured": true
   },
   {
     "title": "Max Steel",
@@ -1193,7 +1517,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Meet_the_Spartans",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Meet+the+Spartans",
     "preview_url": "https://www.youtube.com/results?search_query=Meet+the+Spartans+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Meet+the+Spartans+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Meet+the+Spartans+trailer",
+    "featured": false
   },
   {
     "title": "Merci Docteur Rey",
@@ -1209,6 +1534,34 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Merci+Docteur+Rey+trailer"
   },
   {
+    "title": "Mom and Dad",
+    "year": "2017",
+    "rating": "73%",
+    "reviews": "83",
+    "genre": "Horror/Comedy",
+    "description": "Nicolas Cage and Selma Blair play suburban parents who, along with all other adults, are suddenly struck by a murderous rage to kill their own children. Cage goes full berserk.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Mom_and_Dad_(2017_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Mom+and+Dad",
+    "preview_url": "https://www.youtube.com/results?search_query=Mom+and+Dad+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Mom+and+Dad+trailer",
+    "featured": true
+  },
+  {
+    "title": "Moonstruck",
+    "year": "1987",
+    "rating": "92%",
+    "reviews": "89",
+    "genre": "Romantic Comedy",
+    "description": "Nicolas Cage plays Ronny Cammareri, a one-handed baker who falls passionately in love with his brother's fiancée (Cher) in this Oscar-winning romantic comedy set in Brooklyn's Italian-American community.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Moonstruck",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Moonstruck",
+    "preview_url": "https://www.youtube.com/results?search_query=Moonstruck+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Moonstruck+trailer",
+    "featured": true
+  },
+  {
     "title": "Morbius",
     "year": "2022",
     "rating": "15%",
@@ -1219,7 +1572,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Morbius_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Morbius",
     "preview_url": "https://www.youtube.com/results?search_query=Morbius+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Morbius+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Morbius+trailer",
+    "featured": false
   },
   {
     "title": "Mortdecai",
@@ -1232,7 +1586,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Mortdecai_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Mortdecai",
     "preview_url": "https://www.youtube.com/results?search_query=Mortdecai+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Mortdecai+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Mortdecai+trailer",
+    "featured": false
   },
   {
     "title": "Movie 43",
@@ -1245,7 +1600,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Movie_43",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Movie+43",
     "preview_url": "https://www.youtube.com/results?search_query=Movie+43+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Movie+43+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Movie+43+trailer",
+    "featured": false
   },
   {
     "title": "National Lampoon's Gold Diggers",
@@ -1271,7 +1627,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/National_Treasure_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Treasure",
     "preview_url": "https://www.youtube.com/results?search_query=National+Treasure+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure+trailer",
+    "featured": false
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -1284,7 +1641,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Treasure%3A+Book+of+Secrets",
     "preview_url": "https://www.youtube.com/results?search_query=National+Treasure%3A+Book+of+Secrets+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure%3A+Book+of+Secrets+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure%3A+Book+of+Secrets+trailer",
+    "featured": false
   },
   {
     "title": "Next",
@@ -1297,7 +1655,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Next_(2007_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Next",
     "preview_url": "https://www.youtube.com/results?search_query=Next+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Next+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Next+trailer",
+    "featured": false
   },
   {
     "title": "Norbit",
@@ -1310,7 +1669,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Norbit",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Norbit",
     "preview_url": "https://www.youtube.com/results?search_query=Norbit+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Norbit+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Norbit+trailer",
+    "featured": false
   },
   {
     "title": "Norm of the North",
@@ -1323,7 +1683,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Norm_of_the_North",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Norm+of+the+North",
     "preview_url": "https://www.youtube.com/results?search_query=Norm+of+the+North+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Norm+of+the+North+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Norm+of+the+North+trailer",
+    "featured": false
   },
   {
     "title": "One Missed Call",
@@ -1349,7 +1710,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Outcast_(2014_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Outcast",
     "preview_url": "https://www.youtube.com/results?search_query=Outcast+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Outcast+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Outcast+trailer",
+    "featured": false
   },
   {
     "title": "Paul Blart: Mall Cop 2",
@@ -1362,7 +1724,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Paul_Blart:_Mall_Cop_2",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Paul+Blart%3A+Mall+Cop+2",
     "preview_url": "https://www.youtube.com/results?search_query=Paul+Blart%3A+Mall+Cop+2+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Paul+Blart%3A+Mall+Cop+2+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Paul+Blart%3A+Mall+Cop+2+trailer",
+    "featured": false
   },
   {
     "title": "Pay the Ghost",
@@ -1375,7 +1738,36 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Pay_the_Ghost",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pay+the+Ghost",
     "preview_url": "https://www.youtube.com/results?search_query=Pay+the+Ghost+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Pay+the+Ghost+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Pay+the+Ghost+trailer",
+    "featured": false
+  },
+  {
+    "title": "Peggy Sue Got Married",
+    "year": "1986",
+    "rating": "82%",
+    "reviews": "72",
+    "genre": "Fantasy/Romance",
+    "description": "Francis Ford Coppola's time-travel romance starring Kathleen Turner as a woman who faints at a high school reunion and wakes up in 1960. Nicolas Cage plays her teenage husband, delivering his notoriously odd, nasally voice performance.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Peggy+Sue+Got+Married",
+    "preview_url": "https://www.youtube.com/results?search_query=Peggy+Sue+Got+Married+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Peggy+Sue+Got+Married+trailer",
+    "featured": true
+  },
+  {
+    "title": "Pig",
+    "year": "2021",
+    "rating": "97%",
+    "reviews": "217",
+    "genre": "Drama",
+    "description": "Nicolas Cage plays a truffle-hunting hermit in the Oregon wilderness who ventures back into Portland's culinary underworld to find his stolen truffle pig. An unexpectedly moving, restrained masterpiece.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Pig_(2021_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pig",
+    "preview_url": "https://www.youtube.com/results?search_query=Pig+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Pig+trailer",
+    "featured": true
   },
   {
     "title": "Pinocchio",
@@ -1401,7 +1793,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Pixels_(2015_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pixels",
     "preview_url": "https://www.youtube.com/results?search_query=Pixels+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Pixels+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Pixels+trailer",
+    "featured": false
   },
   {
     "title": "Plan 9 from Outer Space",
@@ -1427,7 +1820,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Playing_for_Keeps_(2012_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Playing+for+Keeps",
     "preview_url": "https://www.youtube.com/results?search_query=Playing+for+Keeps+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Playing+for+Keeps+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Playing+for+Keeps+trailer",
+    "featured": false
   },
   {
     "title": "Police Academy 4: Citizens on Patrol",
@@ -1453,7 +1847,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Postal_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Postal",
     "preview_url": "https://www.youtube.com/results?search_query=Postal+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Postal+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Postal+trailer",
+    "featured": false
   },
   {
     "title": "Precious Cargo",
@@ -1479,7 +1874,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Primal_(2019_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Primal",
     "preview_url": "https://www.youtube.com/results?search_query=Primal+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Primal+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Primal+trailer",
+    "featured": false
   },
   {
     "title": "Prisoners of the Ghostland",
@@ -1492,7 +1888,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Prisoners_of_the_Ghostland",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Prisoners+of+the+Ghostland",
     "preview_url": "https://www.youtube.com/results?search_query=Prisoners+of+the+Ghostland+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Prisoners+of+the+Ghostland+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Prisoners+of+the+Ghostland+trailer",
+    "featured": false
   },
   {
     "title": "Problem Child",
@@ -1506,6 +1903,48 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Problem+Child",
     "preview_url": "https://www.youtube.com/results?search_query=Problem+Child+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Problem+Child+trailer"
+  },
+  {
+    "title": "Racing with the Moon",
+    "year": "1984",
+    "rating": "77%",
+    "reviews": "44",
+    "genre": "Romance/Drama",
+    "description": "Nicolas Cage and Sean Penn play two small-town friends spending their last weeks before shipping off to WWII. An early supporting role that showed Cage's range.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Racing_with_the_Moon",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Racing+with+the+Moon",
+    "preview_url": "https://www.youtube.com/results?search_query=Racing+with+the+Moon+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Racing+with+the+Moon+trailer",
+    "featured": true
+  },
+  {
+    "title": "Raising Arizona",
+    "year": "1987",
+    "rating": "90%",
+    "reviews": "76",
+    "genre": "Crime/Comedy",
+    "description": "The Coen Brothers' anarchic comedy about a petty criminal (Nicolas Cage) and his ex-cop wife (Holly Hunter) who kidnap a baby from a furniture mogul who has quintuplets. A defining Cage performance.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Raising_Arizona",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Raising+Arizona",
+    "preview_url": "https://www.youtube.com/results?search_query=Raising+Arizona+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Raising+Arizona+trailer",
+    "featured": true
+  },
+  {
+    "title": "Red Rock West",
+    "year": "1993",
+    "rating": "90%",
+    "reviews": "63",
+    "genre": "Neo-Noir/Thriller",
+    "description": "Nicolas Cage plays a drifter who is mistaken for a hitman and finds himself trapped in a deadly small-town web of murder, infidelity, and cash. A neo-noir cult gem.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Red_Rock_West",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Red+Rock+West",
+    "preview_url": "https://www.youtube.com/results?search_query=Red+Rock+West+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Red+Rock+West+trailer",
+    "featured": true
   },
   {
     "title": "Redline",
@@ -1531,7 +1970,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Renfield_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Renfield",
     "preview_url": "https://www.youtube.com/results?search_query=Renfield+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Renfield+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Renfield+trailer",
+    "featured": false
   },
   {
     "title": "Return to the Blue Lagoon",
@@ -1557,7 +1997,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Rollerball_(2002_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Rollerball",
     "preview_url": "https://www.youtube.com/results?search_query=Rollerball+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Rollerball+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Rollerball+trailer",
+    "featured": false
+  },
+  {
+    "title": "Rumble Fish",
+    "year": "1983",
+    "rating": "74%",
+    "reviews": "42",
+    "genre": "Drama",
+    "description": "Francis Ford Coppola's stylised adaptation of S.E. Hinton's novel, shot in black-and-white, featuring Nicolas Cage as Smokey alongside Matt Dillon and Mickey Rourke.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Rumble_Fish",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Rumble+Fish",
+    "preview_url": "https://www.youtube.com/results?search_query=Rumble+Fish+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Rumble+Fish+trailer",
+    "featured": true
   },
   {
     "title": "Run for Your Wife",
@@ -1583,7 +2038,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Running_with_the_Devil_(2019_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Running+with+the+Devil",
     "preview_url": "https://www.youtube.com/results?search_query=Running+with+the+Devil+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Running+with+the+Devil+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Running+with+the+Devil+trailer",
+    "featured": false
   },
   {
     "title": "Scar",
@@ -1609,7 +2065,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Season_of_the_Witch_(2011_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Season+of+the+Witch",
     "preview_url": "https://www.youtube.com/results?search_query=Season+of+the+Witch+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Season+of+the+Witch+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Season+of+the+Witch+trailer",
+    "featured": false
   },
   {
     "title": "Seeking Justice",
@@ -1622,7 +2079,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Seeking_Justice",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Seeking+Justice",
     "preview_url": "https://www.youtube.com/results?search_query=Seeking+Justice+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Seeking+Justice+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Seeking+Justice+trailer",
+    "featured": false
   },
   {
     "title": "Sex Lives of the Potato Men",
@@ -1648,7 +2106,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Showgirls",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Showgirls",
     "preview_url": "https://www.youtube.com/results?search_query=Showgirls+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Showgirls+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Showgirls+trailer",
+    "featured": false
   },
   {
     "title": "Simon Sez",
@@ -1674,7 +2133,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Snake_Eyes_(1998_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Snake+Eyes",
     "preview_url": "https://www.youtube.com/results?search_query=Snake+Eyes+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Snake+Eyes+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Snake+Eyes+trailer",
+    "featured": false
   },
   {
     "title": "Son of the Mask",
@@ -1687,7 +2147,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Son_of_the_Mask",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Son+of+the+Mask",
     "preview_url": "https://www.youtube.com/results?search_query=Son+of+the+Mask+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Son+of+the+Mask+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Son+of+the+Mask+trailer",
+    "featured": false
   },
   {
     "title": "Speed 2: Cruise Control",
@@ -1700,7 +2161,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Speed_2:_Cruise_Control",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Speed+2%3A+Cruise+Control",
     "preview_url": "https://www.youtube.com/results?search_query=Speed+2%3A+Cruise+Control+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Speed+2%3A+Cruise+Control+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Speed+2%3A+Cruise+Control+trailer",
+    "featured": false
   },
   {
     "title": "Stolen",
@@ -1726,7 +2188,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Strange_Magic",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Strange+Magic",
     "preview_url": "https://www.youtube.com/results?search_query=Strange+Magic+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Strange+Magic+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Strange+Magic+trailer",
+    "featured": false
   },
   {
     "title": "Stratton",
@@ -1765,7 +2228,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Sympathy_for_the_Devil_(2023_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Sympathy+for+the+Devil",
     "preview_url": "https://www.youtube.com/results?search_query=Sympathy+for+the+Devil+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Sympathy+for+the+Devil+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Sympathy+for+the+Devil+trailer",
+    "featured": false
   },
   {
     "title": "Tarzan, the Ape Man",
@@ -1804,7 +2268,78 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pluto_Nash",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Adventures+of+Pluto+Nash",
     "preview_url": "https://www.youtube.com/results?search_query=The+Adventures+of+Pluto+Nash+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Adventures+of+Pluto+Nash+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Adventures+of+Pluto+Nash+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Ant Bully",
+    "year": "2006",
+    "rating": "52%",
+    "reviews": "115",
+    "genre": "Animation/Family",
+    "description": "Nicolas Cage voices a wizard ant named Zoc in this animated family film about a bullied boy who is shrunk to ant size and must live among the insects.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Ant_Bully_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Ant+Bully",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Ant+Bully+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Ant+Bully+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Boy in Blue",
+    "year": "1986",
+    "rating": "11%",
+    "reviews": "9",
+    "genre": "Sports/Drama",
+    "description": "Nicolas Cage plays Ned Hanlan, a 19th-century Canadian sculling champion, in this sports biography that sank without trace on release.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Boy_in_Blue_(1986_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Boy+in+Blue",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Boy+in+Blue+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Boy+in+Blue+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Cotton Club",
+    "year": "1984",
+    "rating": "68%",
+    "reviews": "58",
+    "genre": "Crime/Drama",
+    "description": "Francis Ford Coppola's lavish Harlem jazz-age crime epic, with Nicolas Cage in a supporting role as a mobster's would-be starlet brother.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Cotton_Club_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Cotton+Club",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Cotton+Club+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Cotton+Club+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Croods",
+    "year": "2013",
+    "rating": "71%",
+    "reviews": "172",
+    "genre": "Animation/Family",
+    "description": "Nicolas Cage voices Grug, the overprotective caveman patriarch of a prehistoric family forced out of their cave by tectonic events. Cage's broad comedic voice work carries the film.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Croods",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Croods",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Croods+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Croods+trailer",
+    "featured": true
+  },
+  {
+    "title": "The Croods: A New Age",
+    "year": "2020",
+    "rating": "67%",
+    "reviews": "133",
+    "genre": "Animation/Family",
+    "description": "Nicolas Cage returns as caveman patriarch Grug in this sequel, as the Crood family encounters a more evolved family living in a walled paradise.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Croods:_A_New_Age",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Croods%3A+A+New+Age",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Croods%3A+A+New+Age+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Croods%3A+A+New+Age+trailer",
+    "featured": false
   },
   {
     "title": "The Disappointments Room",
@@ -1830,7 +2365,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Emoji_Movie",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Emoji+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=The+Emoji+Movie+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Emoji+Movie+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Emoji+Movie+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Expendables 3",
+    "year": "2014",
+    "rating": "32%",
+    "reviews": "168",
+    "genre": "Action",
+    "description": "Nicolas Cage joins Sylvester Stallone's ensemble of aging action stars in this third instalment of the franchise. Cage plays a new recruit alongside Mel Gibson as the villain.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Expendables_3",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Expendables+3",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Expendables+3+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Expendables+3+trailer",
+    "featured": false
   },
   {
     "title": "The Family Man",
@@ -1843,7 +2393,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Family_Man",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Family+Man",
     "preview_url": "https://www.youtube.com/results?search_query=The+Family+Man+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Family+Man+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Family+Man+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Frozen Ground",
+    "year": "2013",
+    "rating": "59%",
+    "reviews": "71",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays Alaska State Trooper Jack Halcombe tracking real-life serial killer Robert Hansen (John Cusack) across the Alaskan wilderness.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Frozen_Ground",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Frozen+Ground",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Frozen+Ground+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Frozen+Ground+trailer",
+    "featured": false
   },
   {
     "title": "The Garbage Pail Kids Movie",
@@ -1869,7 +2434,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Happening_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Happening",
     "preview_url": "https://www.youtube.com/results?search_query=The+Happening+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Happening+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Happening+trailer",
+    "featured": false
   },
   {
     "title": "The Hottie and the Nottie",
@@ -1895,7 +2461,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Last_Airbender_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Last+Airbender",
     "preview_url": "https://www.youtube.com/results?search_query=The+Last+Airbender+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Last+Airbender+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Last+Airbender+trailer",
+    "featured": false
   },
   {
     "title": "The Last Days of American Crime",
@@ -1921,7 +2488,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Love_Guru",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Love+Guru",
     "preview_url": "https://www.youtube.com/results?search_query=The+Love+Guru+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Love+Guru+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Love+Guru+trailer",
+    "featured": false
   },
   {
     "title": "The Master of Disguise",
@@ -1947,7 +2515,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Mummy_(2017_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Mummy",
     "preview_url": "https://www.youtube.com/results?search_query=The+Mummy+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Mummy+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Mummy+trailer",
+    "featured": false
   },
   {
     "title": "The Mummy Returns",
@@ -1960,7 +2529,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Mummy_Returns",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Mummy+Returns",
     "preview_url": "https://www.youtube.com/results?search_query=The+Mummy+Returns+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Mummy+Returns+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Mummy+Returns+trailer",
+    "featured": false
   },
   {
     "title": "The Nutcracker in 3D",
@@ -1976,6 +2546,20 @@
     "alt_preview_url": "https://www.dailymotion.com/search/The+Nutcracker+in+3D+trailer"
   },
   {
+    "title": "The Old Way",
+    "year": "2023",
+    "rating": "36%",
+    "reviews": "42",
+    "genre": "Western",
+    "description": "Nicolas Cage plays a reformed gunslinger forced back into violence when outlaws seeking revenge murder his wife, taking his daughter along as he tracks them down.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Old_Way",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Old+Way",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Old+Way+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Old+Way+trailer",
+    "featured": false
+  },
+  {
     "title": "The Oogieloves in the Big Balloon Adventure",
     "year": "2012",
     "rating": "7%",
@@ -1986,7 +2570,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Oogieloves_in_the_Big_Balloon_Adventure",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Oogieloves+in+the+Big+Balloon+Adventure",
     "preview_url": "https://www.youtube.com/results?search_query=The+Oogieloves+in+the+Big+Balloon+Adventure+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Oogieloves+in+the+Big+Balloon+Adventure+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Oogieloves+in+the+Big+Balloon+Adventure+trailer",
+    "featured": false
   },
   {
     "title": "The Queen's Corgi",
@@ -2025,7 +2610,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Rock_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Rock",
     "preview_url": "https://www.youtube.com/results?search_query=The+Rock+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Rock+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Rock+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Runner",
+    "year": "2015",
+    "rating": "28%",
+    "reviews": "39",
+    "genre": "Drama",
+    "description": "Nicolas Cage plays a Louisiana politician whose career implodes when an affair is exposed while he campaigns on behalf of Gulf oil spill victims.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Runner_(2015_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Runner",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Runner+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Runner+trailer",
+    "featured": false
   },
   {
     "title": "The Sorcerer's Apprentice",
@@ -2038,7 +2638,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Sorcerer%27s+Apprentice",
     "preview_url": "https://www.youtube.com/results?search_query=The+Sorcerer%27s+Apprentice+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Sorcerer%27s+Apprentice+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Sorcerer%27s+Apprentice+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Surfer",
+    "year": "2024",
+    "rating": "69%",
+    "reviews": "112",
+    "genre": "Thriller",
+    "description": "Nicolas Cage plays a man who returns to the Australian beach of his childhood and is terrorised by a gang of locals who own the beach. A sun-scorched psychological thriller.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Surfer_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Surfer",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Surfer+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Surfer+trailer",
+    "featured": false
   },
   {
     "title": "The Trust",
@@ -2051,7 +2666,36 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Trust_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Trust",
     "preview_url": "https://www.youtube.com/results?search_query=The+Trust+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Trust+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Trust+trailer",
+    "featured": false
+  },
+  {
+    "title": "The Unbearable Weight of Massive Talent",
+    "year": "2022",
+    "rating": "87%",
+    "reviews": "265",
+    "genre": "Action/Comedy",
+    "description": "Nicolas Cage plays a fictionalised version of himself, recruited by the CIA to spy on a superfan (Pedro Pascal) while reprising his greatest roles. A loving meta-tribute to Cage's entire career.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Unbearable_Weight_of_Massive_Talent",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Unbearable+Weight+of+Massive+Talent",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Unbearable+Weight+of+Massive+Talent+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Unbearable+Weight+of+Massive+Talent+trailer",
+    "featured": true
+  },
+  {
+    "title": "The Weather Man",
+    "year": "2005",
+    "rating": "67%",
+    "reviews": "141",
+    "genre": "Drama/Comedy",
+    "description": "Nicolas Cage plays a Chicago TV weatherman whose professional success is undermined by his failing personal life. A melancholy character study that divided critics.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Weather_Man",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Weather+Man",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Weather+Man+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Weather+Man+trailer",
+    "featured": false
   },
   {
     "title": "The Wicker Man",
@@ -2064,7 +2708,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Wicker_Man_(2006_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Wicker+Man",
     "preview_url": "https://www.youtube.com/results?search_query=The+Wicker+Man+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Wicker+Man+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Wicker+Man+trailer",
+    "featured": false
   },
   {
     "title": "They Saved Hitler's Brain",
@@ -2090,7 +2735,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Transformers%3A+The+Last+Knight",
     "preview_url": "https://www.youtube.com/results?search_query=Transformers%3A+The+Last+Knight+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Transformers%3A+The+Last+Knight+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Transformers%3A+The+Last+Knight+trailer",
+    "featured": false
   },
   {
     "title": "Transylmania",
@@ -2116,7 +2762,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Trapped_in_Paradise",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Trapped+in+Paradise",
     "preview_url": "https://www.youtube.com/results?search_query=Trapped+in+Paradise+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Trapped+in+Paradise+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Trapped+in+Paradise+trailer",
+    "featured": false
   },
   {
     "title": "USS Indianapolis: Men of Courage",
@@ -2129,7 +2776,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/USS_Indianapolis:_Men_of_Courage",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=USS+Indianapolis%3A+Men+of+Courage",
     "preview_url": "https://www.youtube.com/results?search_query=USS+Indianapolis%3A+Men+of+Courage+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/USS+Indianapolis%3A+Men+of+Courage+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/USS+Indianapolis%3A+Men+of+Courage+trailer",
+    "featured": false
+  },
+  {
+    "title": "Valley Girl",
+    "year": "1983",
+    "rating": "88%",
+    "reviews": "32",
+    "genre": "Romantic Comedy",
+    "description": "One of Nicolas Cage's earliest roles: a Hollywood punk who falls for a San Fernando Valley girl despite their very different worlds. Cage's natural charm and energy shine through.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Valley_Girl_(1983_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Valley+Girl",
+    "preview_url": "https://www.youtube.com/results?search_query=Valley+Girl+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Valley+Girl+trailer",
+    "featured": true
   },
   {
     "title": "Vampire's Kiss",
@@ -2142,7 +2804,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Vampire%27s_Kiss",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Vampire%27s+Kiss",
     "preview_url": "https://www.youtube.com/results?search_query=Vampire%27s+Kiss+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Vampire%27s+Kiss+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Vampire%27s+Kiss+trailer",
+    "featured": false
   },
   {
     "title": "Vampires Suck",
@@ -2155,7 +2818,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Vampires_Suck",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Vampires+Suck",
     "preview_url": "https://www.youtube.com/results?search_query=Vampires+Suck+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Vampires+Suck+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Vampires+Suck+trailer",
+    "featured": false
   },
   {
     "title": "Wagons East!",
@@ -2181,7 +2845,22 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Who%27s_Your_Caddy%3F",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Who%27s+Your+Caddy%3F",
     "preview_url": "https://www.youtube.com/results?search_query=Who%27s+Your+Caddy%3F+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Who%27s+Your+Caddy%3F+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Who%27s+Your+Caddy%3F+trailer",
+    "featured": false
+  },
+  {
+    "title": "Wild at Heart",
+    "year": "1990",
+    "rating": "73%",
+    "reviews": "72",
+    "genre": "Crime/Romance",
+    "description": "David Lynch's Palme d'Or-winning road movie starring Nicolas Cage and Laura Dern as lovers on the run from a hitman hired by her mother. Cage gives an Elvis-infused performance that is uniquely unhinged.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Wild_at_Heart_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Wild+at+Heart",
+    "preview_url": "https://www.youtube.com/results?search_query=Wild+at+Heart+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Wild+at+Heart+trailer",
+    "featured": true
   },
   {
     "title": "Willy's Wonderland",
@@ -2194,7 +2873,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Willy%27s_Wonderland",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Willy%27s+Wonderland",
     "preview_url": "https://www.youtube.com/results?search_query=Willy%27s+Wonderland+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Willy%27s+Wonderland+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Willy%27s+Wonderland+trailer",
+    "featured": false
   },
   {
     "title": "Windtalkers",
@@ -2207,6 +2887,35 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Windtalkers",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Windtalkers",
     "preview_url": "https://www.youtube.com/results?search_query=Windtalkers+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Windtalkers+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Windtalkers+trailer",
+    "featured": false
+  },
+  {
+    "title": "World Trade Center",
+    "year": "2006",
+    "rating": "68%",
+    "reviews": "197",
+    "genre": "Drama/History",
+    "description": "Oliver Stone's earnest 9/11 drama stars Nicolas Cage as Port Authority officer John McLoughlin, one of the last survivors pulled from the rubble of the Twin Towers.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/World_Trade_Center_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=World+Trade+Center",
+    "preview_url": "https://www.youtube.com/results?search_query=World+Trade+Center+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/World+Trade+Center+trailer",
+    "featured": false
+  },
+  {
+    "title": "Zandalee",
+    "year": "1991",
+    "rating": "10%",
+    "reviews": "10",
+    "genre": "Thriller/Drama",
+    "description": "Nicolas Cage plays a painter who seduces his best friend's wife in New Orleans. A barely-released erotic thriller notable mainly for Cage's fearlessly gonzo performance.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Zandalee",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Zandalee",
+    "preview_url": "https://www.youtube.com/results?search_query=Zandalee+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Zandalee+trailer",
+    "featured": false
   }
 ]
