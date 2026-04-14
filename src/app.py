@@ -1,5 +1,7 @@
-﻿import os
+﻿import json
+import os
 import re
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
@@ -11,6 +13,10 @@ app = Flask(__name__)
 WIKIPEDIA_RT_0_URL = "https://en.wikipedia.org/wiki/List_of_films_with_a_0%25_rating_on_Rotten_Tomatoes?printable=yes"
 WIKIPEDIA_WORST_21_URL = "https://en.wikipedia.org/wiki/List_of_21st_century_films_considered_the_worst?printable=yes"
 WIKIPEDIA_WORST_20_URL = "https://en.wikipedia.org/wiki/List_of_20th_century_films_considered_the_worst?printable=yes"
+WIKIPEDIA_RAZZIE_URL = "https://en.wikipedia.org/wiki/Golden_Raspberry_Award_for_Worst_Picture?printable=yes"
+IMDB_BOTTOM_100_URL = "https://www.imdb.com/chart/bottom/"
+
+CURATED_FILMS_PATH = Path(__file__).resolve().parent.parent / "data" / "curated_films.json"
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
@@ -147,14 +153,212 @@ def parse_wikipedia_worst_films_page(url: str, max_score: int = 70):
     return movies
 
 
+def load_curated_movies(max_score: int = 70):
+    """Return curated bad films from data/curated_films.json."""
+    if not CURATED_FILMS_PATH.exists():
+        return []
+    raw = json.loads(CURATED_FILMS_PATH.read_text(encoding="utf-8"))
+    movies = []
+    for m in raw:
+        try:
+            rt = int(str(m["rating"]).rstrip("%"))
+        except (ValueError, KeyError):
+            continue
+        if rt > max_score:
+            continue
+        title = m["title"]
+        movies.append(
+            {
+                "title": title,
+                "year": str(m.get("year", "N/A")),
+                "rating": f"{rt}%",
+                "reviews": str(m.get("reviews", "N/A")),
+                "genre": m.get("genre", "N/A"),
+                "description": m.get("description", ""),
+                "poster": m.get("poster"),
+                "wiki_url": m.get("wiki_url"),
+                "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
+                "preview_url": build_youtube_search_url(f"{title} trailer"),
+                "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
+            }
+        )
+    return movies
+
+
+def parse_razzie_worst_picture_page():
+    """Parse Razzie Worst Picture winners from Wikipedia.
+
+    Returns films found in the winners table.  Only films already present in
+    CURATED_FILMS_PATH (matched by lower-cased title) will carry a numeric
+    RT rating; unmatched winners are skipped so the rating filter stays valid.
+    """
+    response = fetch_wikipedia_page(WIKIPEDIA_RAZZIE_URL)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Build a quick lookup from the curated list (title_lower -> rating int)
+    curated_ratings: dict[str, int] = {}
+    if CURATED_FILMS_PATH.exists():
+        for m in json.loads(CURATED_FILMS_PATH.read_text(encoding="utf-8")):
+            try:
+                rt = int(str(m["rating"]).rstrip("%"))
+                curated_ratings[m["title"].lower()] = rt
+            except (ValueError, KeyError):
+                pass
+
+    seen: set[str] = set()
+    movies = []
+    for table in soup.find_all("table", class_="wikitable"):
+        for row in table.select("tr")[1:]:
+            cells = row.find_all(["td", "th"])
+            for cell in cells:
+                link = cell.find("a")
+                if not link:
+                    continue
+                href = link.get("href", "")
+                if not href.startswith("/wiki/"):
+                    continue
+                title = link.get_text(strip=True)
+                if not title or len(title) < 2 or title in seen:
+                    continue
+                rt = curated_ratings.get(title.lower())
+                if rt is None:
+                    continue  # skip winners without a known RT score
+                seen.add(title)
+                movies.append(
+                    {
+                        "title": title,
+                        "year": "N/A",
+                        "rating": f"{rt}%",
+                        "reviews": "N/A",
+                        "genre": "N/A",
+                        "description": f"Golden Raspberry Award (Razzie) Worst Picture winner with a {rt}% Rotten Tomatoes score.",
+                        "poster": None,
+                        "wiki_url": f"https://en.wikipedia.org{href}",
+                        "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
+                        "preview_url": build_youtube_search_url(f"{title} trailer"),
+                        "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
+                    }
+                )
+    return movies
+
+
+def parse_imdb_bottom_100(max_score: int = 70):
+    """Scrape the IMDb Bottom 100 chart.
+
+    IMDb aggressively anti-scrapes (AWS WAF JS challenge), so this returns an
+    empty list on failure rather than raising — the curated fallback covers the
+    same films.
+    """
+    try:
+        response = requests.get(
+            IMDB_BOTTOM_100_URL,
+            headers={
+                **HEADERS,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            },
+            timeout=20,
+        )
+        response.raise_for_status()
+    except Exception:
+        return []
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # IMDb renders its chart as a <ul> of <li> elements containing JSON-LD
+    # data, or as plain <td> cells in older layouts.  Try both.
+    movies = []
+    seen: set[str] = set()
+
+    # Modern layout: <script type="application/ld+json"> with ItemList
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            data = json.loads(script.string or "")
+        except (json.JSONDecodeError, TypeError):
+            continue
+        items = data.get("itemListElement", [])
+        for item in items:
+            movie = item.get("item", item)
+            title = movie.get("name", "").strip()
+            if not title or title in seen:
+                continue
+            url = movie.get("url", "")
+            year_str = str(movie.get("datePublished", "N/A"))[:4]
+            rating_val = movie.get("aggregateRating", {}).get("ratingValue")
+            # IMDb rating is out of 10; we need RT %. Skip if we can't map.
+            if title in seen:
+                continue
+            seen.add(title)
+            movies.append(
+                {
+                    "title": title,
+                    "year": year_str,
+                    "rating": "N/A",
+                    "reviews": "N/A",
+                    "genre": "N/A",
+                    "description": f"Listed on IMDb Bottom 100{f' (IMDb rating: {rating_val}/10)' if rating_val else ''}.",
+                    "poster": None,
+                    "wiki_url": None,
+                    "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
+                    "preview_url": build_youtube_search_url(f"{title} trailer"),
+                    "alt_preview_url": build_dailymotion_search_url(
+                        f"{title} trailer"
+                    ),
+                    "imdb_url": url if url.startswith("http") else f"https://www.imdb.com{url}",
+                }
+            )
+
+    # Legacy table layout fallback
+    if not movies:
+        for row in soup.select("table.chart tr")[1:]:
+            cells = row.find_all("td")
+            if len(cells) < 2:
+                continue
+            link = cells[1].find("a") if len(cells) > 1 else None
+            if not link:
+                continue
+            title = link.get_text(strip=True)
+            if not title or title in seen:
+                continue
+            href = link.get("href", "")
+            seen.add(title)
+            movies.append(
+                {
+                    "title": title,
+                    "year": "N/A",
+                    "rating": "N/A",
+                    "reviews": "N/A",
+                    "genre": "N/A",
+                    "description": "Listed on IMDb Bottom 100.",
+                    "poster": None,
+                    "wiki_url": None,
+                    "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
+                    "preview_url": build_youtube_search_url(f"{title} trailer"),
+                    "alt_preview_url": build_dailymotion_search_url(
+                        f"{title} trailer"
+                    ),
+                    "imdb_url": f"https://www.imdb.com{href}" if href else None,
+                }
+            )
+
+    # Drop movies without a usable RT score (rating == "N/A") when a max_score
+    # filter is in effect; they can't pass the threshold check.
+    return [m for m in movies if m["rating"] != "N/A" or max_score >= 100]
+
+
+def _try(fn, *args, **kwargs):
+    """Call fn(*args, **kwargs) and return its result, or [] on any exception."""
+    try:
+        return fn(*args, **kwargs)
+    except Exception:
+        return []
+
+
 def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
-    movies = parse_wikipedia_0_percent_page()
-    movies.extend(
-        parse_wikipedia_worst_films_page(WIKIPEDIA_WORST_21_URL, max_score=max_score)
-    )
-    movies.extend(
-        parse_wikipedia_worst_films_page(WIKIPEDIA_WORST_20_URL, max_score=max_score)
-    )
+    movies = _try(parse_wikipedia_0_percent_page)
+    movies.extend(_try(parse_wikipedia_worst_films_page, WIKIPEDIA_WORST_21_URL, max_score=max_score))
+    movies.extend(_try(parse_wikipedia_worst_films_page, WIKIPEDIA_WORST_20_URL, max_score=max_score))
+    movies.extend(load_curated_movies(max_score=max_score))
+    movies.extend(_try(parse_imdb_bottom_100, max_score=max_score))
 
     unique_movies = {}
     for movie in movies:

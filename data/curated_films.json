@@ -1,0 +1,682 @@
+[
+  {
+    "title": "Alone in the Dark",
+    "year": "2005",
+    "rating": "1%",
+    "reviews": "108",
+    "genre": "Action/Horror",
+    "description": "Uwe Boll's adaptation of the Atari video game starring Christian Slater as a paranormal investigator battling ancient monsters.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Alone_in_the_Dark_(2005_film)"
+  },
+  {
+    "title": "Artemis Fowl",
+    "year": "2020",
+    "rating": "9%",
+    "reviews": "154",
+    "genre": "Family/Fantasy",
+    "description": "Disney's adaptation of Eoin Colfer's novel about a young criminal mastermind dealing with a world of fairies and magic.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Artemis_Fowl_(film)"
+  },
+  {
+    "title": "Batman & Robin",
+    "year": "1997",
+    "rating": "11%",
+    "reviews": "125",
+    "genre": "Action/Superhero",
+    "description": "Joel Schumacher's widely panned entry in the Batman franchise featuring George Clooney as Batman and Arnold Schwarzenegger as Mr. Freeze.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)"
+  },
+  {
+    "title": "Battlefield Earth",
+    "year": "2000",
+    "rating": "3%",
+    "reviews": "119",
+    "genre": "Sci-fi",
+    "description": "John Travolta stars in this adaptation of L. Ron Hubbard's novel about alien conquerors in the year 3000.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Battlefield_Earth_(film)"
+  },
+  {
+    "title": "Baywatch",
+    "year": "2017",
+    "rating": "17%",
+    "reviews": "205",
+    "genre": "Action/Comedy",
+    "description": "Dwayne Johnson and Zac Efron star in this big-screen adaptation of the 1990s TV show about lifeguards who stumble onto a drug ring.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Baywatch_(film)"
+  },
+  {
+    "title": "Ben & Arthur",
+    "year": "2002",
+    "rating": "0%",
+    "reviews": "5",
+    "genre": "Drama/Romance",
+    "description": "Ultra-low-budget independent film about a gay couple fighting for the right to marry, notable for its poor production values.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Ben_%26_Arthur"
+  },
+  {
+    "title": "Birdemic: Shock and Terror",
+    "year": "2010",
+    "rating": "18%",
+    "reviews": "42",
+    "genre": "Horror",
+    "description": "Cult bad-movie favorite about a small California town suddenly attacked by killer eagles and vultures with laughably poor CGI effects.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Birdemic:_Shock_and_Terror"
+  },
+  {
+    "title": "BloodRayne",
+    "year": "2005",
+    "rating": "4%",
+    "reviews": "80",
+    "genre": "Action/Horror",
+    "description": "Uwe Boll's video-game adaptation starring Kristanna Loken as a half-human, half-vampire fighting against a vampire king.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/BloodRayne_(film)"
+  },
+  {
+    "title": "Bratz",
+    "year": "2007",
+    "rating": "0%",
+    "reviews": "35",
+    "genre": "Family/Comedy",
+    "description": "Live-action adaptation of the Bratz fashion doll franchise about four best friends trying to stay together through high school.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Bratz_(film)"
+  },
+  {
+    "title": "Bucky Larson: Born to Be a Star",
+    "year": "2011",
+    "rating": "0%",
+    "reviews": "43",
+    "genre": "Comedy",
+    "description": "Nick Swardson plays a naive Midwestern man who discovers his parents were adult film stars and heads to Hollywood to follow in their footsteps.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Bucky_Larson:_Born_to_Be_a_Star"
+  },
+  {
+    "title": "Cats",
+    "year": "2019",
+    "rating": "19%",
+    "reviews": "288",
+    "genre": "Musical/Fantasy",
+    "description": "Tom Hooper's uncanny valley adaptation of the Andrew Lloyd Webber musical featuring celebrities in disturbing human-cat hybrid CGI form.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Cats_(2019_film)"
+  },
+  {
+    "title": "Catwoman",
+    "year": "2004",
+    "rating": "9%",
+    "reviews": "195",
+    "genre": "Action/Superhero",
+    "description": "Halle Berry plays a shy graphic artist who is killed and resurrected with the powers of a cat, fighting a cosmetics company conspiracy.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Catwoman_(film)"
+  },
+  {
+    "title": "CHiPs",
+    "year": "2017",
+    "rating": "20%",
+    "reviews": "143",
+    "genre": "Action/Comedy",
+    "description": "Dax Shepard writes, directs, and stars in this R-rated reboot of the 1970s TV show about two California Highway Patrol officers.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/CHiPs_(film)"
+  },
+  {
+    "title": "Collateral Beauty",
+    "year": "2016",
+    "rating": "12%",
+    "reviews": "170",
+    "genre": "Drama",
+    "description": "Will Smith plays a grieving advertising executive who writes letters to Death, Time, and Love, only to have them show up in person.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Collateral_Beauty"
+  },
+  {
+    "title": "Cool as Ice",
+    "year": "1991",
+    "rating": "0%",
+    "reviews": "22",
+    "genre": "Drama/Music",
+    "description": "Vanilla Ice stars in this vehicle designed to capitalize on his music career, playing a rebellious rapper who falls for a small-town girl.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Cool_as_Ice"
+  },
+  {
+    "title": "Crossroads",
+    "year": "2002",
+    "rating": "14%",
+    "reviews": "72",
+    "genre": "Drama/Music",
+    "description": "Britney Spears' film debut as a girl who road-trips across the country with childhood friends to reconnect with her absent mother.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Crossroads_(2002_film)"
+  },
+  {
+    "title": "Date Movie",
+    "year": "2006",
+    "rating": "6%",
+    "reviews": "108",
+    "genre": "Comedy/Parody",
+    "description": "Spoof of romantic comedies from the creators of Scary Movie, parodying films like Hitch, Napoleon Dynamite, and Meet the Parents.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Date_Movie"
+  },
+  {
+    "title": "Delgo",
+    "year": "2008",
+    "rating": "7%",
+    "reviews": "43",
+    "genre": "Animation/Fantasy",
+    "description": "Independently produced CGI animated fantasy film that holds the record for one of the worst box office openings for a wide-release film.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Delgo"
+  },
+  {
+    "title": "Dirty Grandpa",
+    "year": "2016",
+    "rating": "11%",
+    "reviews": "178",
+    "genre": "Comedy",
+    "description": "Robert De Niro and Zac Efron star in this raunchy comedy about a recently widowed man who tricks his uptight grandson into driving him to Florida.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Dirty_Grandpa"
+  },
+  {
+    "title": "Dolittle",
+    "year": "2020",
+    "rating": "14%",
+    "reviews": "217",
+    "genre": "Family/Fantasy",
+    "description": "Robert Downey Jr. plays the famous doctor who can talk to animals in this troubled production that required extensive reshoots.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Dolittle_(film)"
+  },
+  {
+    "title": "Dragonball Evolution",
+    "year": "2009",
+    "rating": "15%",
+    "reviews": "63",
+    "genre": "Action/Fantasy",
+    "description": "Live-action adaptation of Akira Toriyama's manga, widely condemned by fans for straying far from the source material.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Dragonball_Evolution"
+  },
+  {
+    "title": "The Emoji Movie",
+    "year": "2017",
+    "rating": "8%",
+    "reviews": "147",
+    "genre": "Animation/Comedy",
+    "description": "A 'meh' emoji named Gene embarks on an adventure inside a smartphone to become a normal emoji. Widely considered a cynical cash-grab.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Emoji_Movie"
+  },
+  {
+    "title": "Epic Movie",
+    "year": "2007",
+    "rating": "2%",
+    "reviews": "113",
+    "genre": "Comedy/Parody",
+    "description": "Spoof film parodying blockbusters like Pirates of the Caribbean, X-Men, Borat, and The Chronicles of Narnia with low-brow humor.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Epic_Movie"
+  },
+  {
+    "title": "Far Cry",
+    "year": "2008",
+    "rating": "4%",
+    "reviews": "24",
+    "genre": "Action",
+    "description": "Uwe Boll's adaptation of the popular video game series about a former soldier uncovering a secret super-soldier program on a remote island.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Far_Cry_(film)"
+  },
+  {
+    "title": "Fire Down Below",
+    "year": "1997",
+    "rating": "6%",
+    "reviews": "35",
+    "genre": "Action",
+    "description": "Steven Seagal plays an EPA agent who goes undercover in a Kentucky mountain community to expose a corrupt industrialist dumping toxic waste.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Fire_Down_Below_(1997_film)"
+  },
+  {
+    "title": "Foodfight!",
+    "year": "2012",
+    "rating": "0%",
+    "reviews": "16",
+    "genre": "Animation/Comedy",
+    "description": "A notoriously troubled animated film about brand mascots who come to life in a supermarket after hours, featuring horrifying CGI.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Foodfight!"
+  },
+  {
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": "2012",
+    "rating": "17%",
+    "reviews": "148",
+    "genre": "Action/Fantasy",
+    "description": "Nicolas Cage reprises his role as Johnny Blaze/Ghost Rider, protecting a young boy from the devil in this Neveldine/Taylor sequel.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider:_Spirit_of_Vengeance"
+  },
+  {
+    "title": "Gigli",
+    "year": "2003",
+    "rating": "6%",
+    "reviews": "107",
+    "genre": "Romantic Comedy/Crime",
+    "description": "Ben Affleck and Jennifer Lopez (then a real-life couple) star in this crime comedy about a low-level thug assigned to kidnap a prosecutor's brother.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Gigli"
+  },
+  {
+    "title": "Grown Ups 2",
+    "year": "2013",
+    "rating": "7%",
+    "reviews": "185",
+    "genre": "Comedy",
+    "description": "Adam Sandler and his friends return for this sequel with essentially no plot, existing mainly as a vehicle for juvenile gags.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Grown_Ups_2"
+  },
+  {
+    "title": "The Happening",
+    "year": "2008",
+    "rating": "18%",
+    "reviews": "186",
+    "genre": "Horror/Thriller",
+    "description": "M. Night Shyamalan's thriller about a mysterious neurotoxin released by plants that causes people to kill themselves, starring Mark Wahlberg.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Happening_(film)"
+  },
+  {
+    "title": "Hellboy",
+    "year": "2019",
+    "rating": "17%",
+    "reviews": "236",
+    "genre": "Action/Fantasy",
+    "description": "David Harbour stars as the demon superhero in this darker reboot that failed to recapture the magic of Guillermo del Toro's originals.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Hellboy_(2019_film)"
+  },
+  {
+    "title": "House of the Dead",
+    "year": "2003",
+    "rating": "4%",
+    "reviews": "53",
+    "genre": "Horror",
+    "description": "Uwe Boll's adaptation of the Sega arcade game about a group of college students who visit an island overrun by zombies.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/House_of_the_Dead_(film)"
+  },
+  {
+    "title": "Howard the Duck",
+    "year": "1986",
+    "rating": "15%",
+    "reviews": "73",
+    "genre": "Comedy/Sci-fi",
+    "description": "George Lucas produced this Marvel Comics adaptation about a talking duck from another planet who arrives on Earth and must save it from evil.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Howard_the_Duck_(film)"
+  },
+  {
+    "title": "Inchon",
+    "year": "1981",
+    "rating": "2%",
+    "reviews": "52",
+    "genre": "War/Drama",
+    "description": "Laurence Olivier stars as General MacArthur in this massively expensive flop about the Korean War battle, backed by Sun Myung Moon's Unification Church.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Inchon_(film)"
+  },
+  {
+    "title": "In the Name of the King: A Dungeon Siege Tale",
+    "year": "2007",
+    "rating": "4%",
+    "reviews": "58",
+    "genre": "Action/Fantasy",
+    "description": "Uwe Boll's fantasy epic starring Jason Statham as a farmer who leads a fight against an army of monstrous creatures.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/In_the_Name_of_the_King:_A_Dungeon_Siege_Tale"
+  },
+  {
+    "title": "Inspector Gadget 2",
+    "year": "2003",
+    "rating": "0%",
+    "reviews": "12",
+    "genre": "Family/Comedy",
+    "description": "Direct-to-video sequel to the 1999 live-action adaptation of the cartoon, where Inspector Gadget faces his arch-nemesis Dr. Claw again.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Inspector_Gadget_2"
+  },
+  {
+    "title": "Jem and the Holograms",
+    "year": "2015",
+    "rating": "18%",
+    "reviews": "90",
+    "genre": "Musical/Drama",
+    "description": "Low-budget live-action adaptation of the 1980s cartoon about a girl who becomes a pop star, bearing little resemblance to its source material.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Jem_and_the_Holograms_(film)"
+  },
+  {
+    "title": "Killing Gunther",
+    "year": "2017",
+    "rating": "0%",
+    "reviews": "20",
+    "genre": "Action/Comedy",
+    "description": "Taran Killam writes, directs, and stars in this mockumentary about a group of hitmen who attempt to kill the world's greatest assassin, played by Arnold Schwarzenegger.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Killing_Gunther"
+  },
+  {
+    "title": "Kirk Cameron's Saving Christmas",
+    "year": "2014",
+    "rating": "0%",
+    "reviews": "22",
+    "genre": "Documentary",
+    "description": "Kirk Cameron argues that Christians should embrace holiday traditions like Christmas trees and feasting as part of their faith, winning the Razzie for Worst Picture.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Saving_Christmas"
+  },
+  {
+    "title": "Leonard Part 6",
+    "year": "1987",
+    "rating": "0%",
+    "reviews": "31",
+    "genre": "Comedy/Action",
+    "description": "Bill Cosby stars as a retired spy recruited to stop a villainous vegetarian from using animals to kill CIA agents. Cosby himself urged audiences not to see it.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Leonard_Part_6"
+  },
+  {
+    "title": "Little Man",
+    "year": "2006",
+    "rating": "1%",
+    "reviews": "115",
+    "genre": "Comedy",
+    "description": "The Wayans Brothers comedy about a tiny jewel thief who disguises himself as a baby and is taken home by a couple desperate to have a child.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Little_Man_(2006_film)"
+  },
+  {
+    "title": "The Love Guru",
+    "year": "2008",
+    "rating": "14%",
+    "reviews": "136",
+    "genre": "Comedy",
+    "description": "Mike Myers plays Guru Pitka, an American raised in an Indian ashram, who is hired to reconcile a hockey player with his estranged wife.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Love_Guru"
+  },
+  {
+    "title": "Manos: The Hands of Fate",
+    "year": "1966",
+    "rating": "15%",
+    "reviews": "27",
+    "genre": "Horror",
+    "description": "Widely considered one of the worst films ever made: a vacationing family encounters a polygamist cult led by 'The Master'. Popularized by Mystery Science Theater 3000.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+  },
+  {
+    "title": "Meet the Spartans",
+    "year": "2008",
+    "rating": "2%",
+    "reviews": "91",
+    "genre": "Comedy/Parody",
+    "description": "Spoof of 300 and other blockbusters from the creators of Epic Movie and Date Movie, featuring crude humor and celebrity cameos.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Meet_the_Spartans"
+  },
+  {
+    "title": "Morbius",
+    "year": "2022",
+    "rating": "15%",
+    "reviews": "301",
+    "genre": "Action/Superhero",
+    "description": "Jared Leto plays Marvel's vampire anti-hero Dr. Michael Morbius in Sony's Spider-Man Universe entry that became a punchline for its 'Morbin Time' meme.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Morbius_(film)"
+  },
+  {
+    "title": "Mortdecai",
+    "year": "2015",
+    "rating": "12%",
+    "reviews": "140",
+    "genre": "Comedy/Crime",
+    "description": "Johnny Depp plays an eccentric art dealer embroiled in an international plot involving a stolen painting, a terrorist, and his magnificent moustache.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Mortdecai_(film)"
+  },
+  {
+    "title": "Movie 43",
+    "year": "2013",
+    "rating": "5%",
+    "reviews": "118",
+    "genre": "Comedy/Anthology",
+    "description": "Star-studded (Hugh Jackman, Kate Winslet, Halle Berry) anthology of absurdist sketches so jaw-droppingly tasteless critics called it the 'Citizen Kane of bad movies.'",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Movie_43"
+  },
+  {
+    "title": "The Mummy",
+    "year": "2017",
+    "rating": "16%",
+    "reviews": "325",
+    "genre": "Action/Adventure",
+    "description": "Tom Cruise stars in Universal's failed attempt to launch a Dark Universe of connected monster movies with this reboot of The Mummy franchise.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Mummy_(2017_film)"
+  },
+  {
+    "title": "Norbit",
+    "year": "2007",
+    "rating": "9%",
+    "reviews": "121",
+    "genre": "Comedy",
+    "description": "Eddie Murphy plays multiple roles including the meek Norbit and his domineering obese wife Rasputia in this broadly-played comedy.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Norbit"
+  },
+  {
+    "title": "Norm of the North",
+    "year": "2016",
+    "rating": "9%",
+    "reviews": "70",
+    "genre": "Animation/Comedy",
+    "description": "A polar bear who can speak English travels to New York City to stop a real estate developer from building condos in the Arctic.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Norm_of_the_North"
+  },
+  {
+    "title": "The Oogieloves in the Big Balloon Adventure",
+    "year": "2012",
+    "rating": "7%",
+    "reviews": "29",
+    "genre": "Family/Musical",
+    "description": "An interactive children's film designed to encourage audience participation, it holds records for one of the worst wide-release opening weekends.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Oogieloves_in_the_Big_Balloon_Adventure"
+  },
+  {
+    "title": "Paul Blart: Mall Cop 2",
+    "year": "2015",
+    "rating": "5%",
+    "reviews": "87",
+    "genre": "Comedy",
+    "description": "Kevin James returns as the bumbling mall security guard, this time attending a security officers convention in Las Vegas.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Paul_Blart:_Mall_Cop_2"
+  },
+  {
+    "title": "Pixels",
+    "year": "2015",
+    "rating": "17%",
+    "reviews": "194",
+    "genre": "Comedy/Sci-fi",
+    "description": "Adam Sandler and a team of 1980s arcade game champions are recruited to defend Earth against alien invaders who attack in the form of classic video games.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Pixels_(2015_film)"
+  },
+  {
+    "title": "Playing for Keeps",
+    "year": "2012",
+    "rating": "3%",
+    "reviews": "103",
+    "genre": "Romantic Comedy",
+    "description": "Gerard Butler plays a washed-up soccer player who tries to reconnect with his ex-wife and son by coaching youth soccer, attracting a horde of lonely soccer moms.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Playing_for_Keeps_(2012_film)"
+  },
+  {
+    "title": "The Adventures of Pluto Nash",
+    "year": "2002",
+    "rating": "5%",
+    "reviews": "98",
+    "genre": "Sci-fi/Comedy",
+    "description": "Eddie Murphy plays a lunar nightclub owner who refuses to sell to the mob in this futuristic comedy that lost over $90 million at the box office.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pluto_Nash"
+  },
+  {
+    "title": "Postal",
+    "year": "2007",
+    "rating": "9%",
+    "reviews": "46",
+    "genre": "Action/Comedy",
+    "description": "Uwe Boll's politically incorrect satire based on the controversial video game series, featuring Boll himself in a cameo where he is shot by Osama bin Laden.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Postal_(film)"
+  },
+  {
+    "title": "Rollerball",
+    "year": "2002",
+    "rating": "3%",
+    "reviews": "115",
+    "genre": "Action",
+    "description": "John McTiernan's remake of the 1975 classic about a brutal futuristic sport, notorious for its incomprehensible night-vision chase sequence.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Rollerball_(2002_film)"
+  },
+  {
+    "title": "Showgirls",
+    "year": "1995",
+    "rating": "12%",
+    "reviews": "95",
+    "genre": "Drama",
+    "description": "Paul Verhoeven's NC-17 drama starring Elizabeth Berkley as an ambitious young dancer who claws her way to the top of Las Vegas showgirl scene.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Showgirls"
+  },
+  {
+    "title": "Son of the Mask",
+    "year": "2005",
+    "rating": "6%",
+    "reviews": "79",
+    "genre": "Fantasy/Comedy",
+    "description": "Jamie Kennedy stars in this sequel to The Mask, in which a man discovers his newborn son is inhabited by the spirit of Loki and the magical Norse mask.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Son_of_the_Mask"
+  },
+  {
+    "title": "A Sound of Thunder",
+    "year": "2005",
+    "rating": "6%",
+    "reviews": "82",
+    "genre": "Sci-fi",
+    "description": "Ben Kingsley stars in this adaptation of Ray Bradbury's time-travel story about a safari company that takes clients back to the dinosaur era.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/A_Sound_of_Thunder_(film)"
+  },
+  {
+    "title": "Speed 2: Cruise Control",
+    "year": "1997",
+    "rating": "4%",
+    "reviews": "79",
+    "genre": "Action",
+    "description": "Sandra Bullock returns without Keanu Reeves for this sequel in which a computer hacker hijacks a luxury cruise ship.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Speed_2:_Cruise_Control"
+  },
+  {
+    "title": "Strange Magic",
+    "year": "2015",
+    "rating": "17%",
+    "reviews": "71",
+    "genre": "Animation/Musical",
+    "description": "George Lucas' passion project about fairy creatures whose world revolves around a magic love potion, told through pop and rock songs. Released without advance screenings.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Strange_Magic"
+  },
+  {
+    "title": "The Last Airbender",
+    "year": "2010",
+    "rating": "5%",
+    "reviews": "172",
+    "genre": "Action/Fantasy",
+    "description": "M. Night Shyamalan's live-action adaptation of the beloved animated series Avatar: The Last Airbender, widely condemned by fans for its casting and direction.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Last_Airbender_(film)"
+  },
+  {
+    "title": "The Mummy Returns",
+    "year": "2001",
+    "rating": "42%",
+    "reviews": "142",
+    "genre": "Action/Adventure",
+    "description": "Brendan Fraser and Rachel Weisz return to battle a resurrected Scorpion King (Dwayne Johnson in a notorious CGI debut) and the resurrected mummy Imhotep.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Mummy_Returns"
+  },
+  {
+    "title": "Transformers: The Last Knight",
+    "year": "2017",
+    "rating": "15%",
+    "reviews": "232",
+    "genre": "Action/Sci-fi",
+    "description": "Michael Bay's fifth and reportedly final Transformers entry ties the robots to Arthurian legend, medieval history, and Anthony Hopkins narrating.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Transformers:_The_Last_Knight"
+  },
+  {
+    "title": "Vampires Suck",
+    "year": "2010",
+    "rating": "4%",
+    "reviews": "73",
+    "genre": "Comedy/Parody",
+    "description": "Spoof of the Twilight Saga from the creators of Epic Movie and Meet the Spartans, lampooning the teen vampire romance phenomenon.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Vampires_Suck"
+  },
+  {
+    "title": "The Wicker Man",
+    "year": "2006",
+    "rating": "15%",
+    "reviews": "115",
+    "genre": "Horror",
+    "description": "Nicolas Cage stars in this bizarre remake of the 1973 British horror classic, famous for its unintentionally hilarious scenes including Cage in a bear suit.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Wicker_Man_(2006_film)"
+  },
+  {
+    "title": "Who's Your Caddy?",
+    "year": "2007",
+    "rating": "0%",
+    "reviews": "32",
+    "genre": "Comedy",
+    "description": "Antwan 'Big Boi' Patton plays a rap mogul who buys a membership to a snooty golf club despite the protests of its stuffy members.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Who%27s_Your_Caddy%3F"
+  }
+]

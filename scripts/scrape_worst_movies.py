@@ -5,6 +5,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "src"
 OUTPUT = ROOT / "data" / "worst_movies.json"
+DOCS_OUTPUT = ROOT / "docs" / "data" / "worst_movies.json"
 
 sys.path.insert(0, str(SRC))
 
@@ -13,11 +14,38 @@ from app import scrape_worst_movies  # noqa: E402
 
 def main(limit: int = 1000, max_score: int = 70) -> None:
     movies = scrape_worst_movies(limit=limit, max_score=max_score)
+
+    # Merge with previously stored data so movies from temporarily unavailable
+    # sources (e.g. Wikipedia blocked by egress) are preserved.
+    if OUTPUT.exists():
+        existing = json.loads(OUTPUT.read_text(encoding="utf-8"))
+        seen_keys = {(m["title"].lower(), m["year"]) for m in movies}
+        for m in existing:
+            key = (m["title"].lower(), m["year"])
+            if key not in seen_keys:
+                try:
+                    rt = int(str(m.get("rating", "999")).rstrip("%"))
+                except ValueError:
+                    continue
+                if rt <= max_score:
+                    movies.append(m)
+                    seen_keys.add(key)
+
+    movies.sort(key=lambda m: m["title"].lower())
+    movies = movies[:limit]
+
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(
         json.dumps(movies, indent=2, ensure_ascii=False), encoding="utf-8"
     )
     print(f"Saved {len(movies)} movies to {OUTPUT}")
+
+    # Mirror to docs/ for the static GitHub Pages site.
+    DOCS_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    DOCS_OUTPUT.write_text(
+        json.dumps(movies, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"Mirrored to {DOCS_OUTPUT}")
 
 
 if __name__ == "__main__":
