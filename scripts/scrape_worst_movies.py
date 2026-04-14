@@ -11,8 +11,8 @@ sys.path.insert(0, str(SRC))
 from app import scrape_worst_movies  # noqa: E402
 
 
-def main(limit: int = 50) -> None:
-    movies = scrape_worst_movies(limit=limit)
+def main(limit: int = 1000, max_score: int = 70) -> None:
+    movies = scrape_worst_movies(limit=limit, max_score=max_score)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(
         json.dumps(movies, indent=2, ensure_ascii=False), encoding="utf-8"
@@ -21,4 +21,4 @@ def main(limit: int = 50) -> None:
 
 
 if __name__ == "__main__":
-    main(50)
+    main(1000, 70)

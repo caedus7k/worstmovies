@@ -1,5 +1,6 @@
 const MOVIES_JSON = 'data/worst_movies.json';
 const searchInput = document.getElementById('search');
+const ratingSelect = document.getElementById('max-rating');
 const searchForm = document.getElementById('search-form');
 const statusEl = document.getElementById('status');
 const countEl = document.getElementById('movie-count');
@@ -69,19 +70,31 @@ const loadMovies = async () => {
             throw new Error(`Unable to load data: ${response.status} ${response.statusText}`);
         }
         movies = await response.json();
-        renderMovies(movies);
+        applyFilters();
     } catch (error) {
         showError(error.message);
     }
 };
 
+const applyFilters = () => {
+    const query = searchInput.value.trim().toLowerCase();
+    const maxRating = Number(ratingSelect.value);
+    const filtered = movies.filter((movie) => {
+        const titleMatch = !query || movie.title.toLowerCase().includes(query);
+        const ratingValue = Number(movie.rating.replace('%', ''));
+        const ratingMatch = Number.isFinite(ratingValue) && ratingValue <= maxRating;
+        return titleMatch && ratingMatch;
+    });
+    renderMovies(filtered);
+};
+
 searchForm.addEventListener('submit', (event) => {
     event.preventDefault();
-    const query = searchInput.value.trim().toLowerCase();
-    const filtered = query
-        ? movies.filter((movie) => movie.title.toLowerCase().includes(query))
-        : movies;
-    renderMovies(filtered);
+    applyFilters();
+});
+
+ratingSelect.addEventListener('change', () => {
+    applyFilters();
 });
 
 loadMovies();
