@@ -4,6 +4,7 @@ const ratingSelect = document.getElementById('max-rating');
 const genreSelect = document.getElementById('genre-filter');
 const tagSelect = document.getElementById('tag-filter');
 const cageCheckbox = document.getElementById('cage-filter');
+const breenCheckbox = document.getElementById('breen-filter');
 const searchForm = document.getElementById('search-form');
 const statusEl = document.getElementById('status');
 const countEl = document.getElementById('movie-count');
@@ -12,7 +13,9 @@ let movies = [];
 
 const TAG_META = {
     'so-bad-its-good': { label: 'So bad it\'s good', emoji: '🍿' },
-    'razzie-winner':   { label: 'Razzie winner',     emoji: '🏆' },
+    'razzie-winner': { label: 'Razzie winner', emoji: '🏆' },
+    'b-movie': { label: 'B movie', emoji: '🎬' },
+    'neil-breen': { label: 'Neil Breen', emoji: '📼' },
 };
 
 const escapeHtml = (text) =>
@@ -25,6 +28,9 @@ const escapeHtml = (text) =>
 
 const isCageFilm = (movie) =>
     movie.featured || (movie.description && movie.description.includes('Nicolas Cage'));
+
+const isBreenFilm = (movie) =>
+    movie.tags && movie.tags.includes('neil-breen');
 
 const buildTagBadges = (tags) => {
     if (!tags || !tags.length) return '';
@@ -120,6 +126,7 @@ const applyFilters = () => {
     const genreQuery = genreSelect.value.toLowerCase();
     const tagQuery = tagSelect.value;
     const cageOnly = cageCheckbox.checked;
+    const breenOnly = breenCheckbox.checked;
 
     const filtered = movies.filter((movie) => {
         const titleMatch = !query || movie.title.toLowerCase().includes(query);
@@ -138,8 +145,9 @@ const applyFilters = () => {
         const tagMatch = !tagQuery || (movie.tags && movie.tags.includes(tagQuery));
 
         const cageMatch = !cageOnly || isCageFilm(movie);
+        const breenMatch = !breenOnly || isBreenFilm(movie);
 
-        return titleMatch && ratingMatch && genreMatch && tagMatch && cageMatch;
+        return titleMatch && ratingMatch && genreMatch && tagMatch && cageMatch && breenMatch;
     });
 
     renderMovies(filtered);
@@ -154,5 +162,6 @@ ratingSelect.addEventListener('change', applyFilters);
 genreSelect.addEventListener('change', applyFilters);
 tagSelect.addEventListener('change', applyFilters);
 cageCheckbox.addEventListener('change', applyFilters);
+breenCheckbox.addEventListener('change', applyFilters);
 
 loadMovies();

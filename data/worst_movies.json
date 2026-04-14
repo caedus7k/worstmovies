@@ -25,7 +25,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/3_Strikes_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=3+Strikes",
     "preview_url": "https://www.youtube.com/results?search_query=3+Strikes+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/3+Strikes+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/3+Strikes+trailer",
+    "tags": []
   },
   {
     "title": "8MM",
@@ -83,7 +84,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/A_Thousand_Words_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Thousand+Words",
     "preview_url": "https://www.youtube.com/results?search_query=A+Thousand+Words+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/A+Thousand+Words+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/A+Thousand+Words+trailer",
+    "tags": []
   },
   {
     "title": "Adaptation",
@@ -111,7 +113,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Alarum_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Alarum",
     "preview_url": "https://www.youtube.com/results?search_query=Alarum+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Alarum+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Alarum+trailer",
+    "tags": []
   },
   {
     "title": "Alone in the Dark",
@@ -154,7 +157,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Armor_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Armor",
     "preview_url": "https://www.youtube.com/results?search_query=Armor+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Armor+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Armor+trailer",
+    "tags": []
   },
   {
     "title": "Army of One",
@@ -227,7 +231,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Ballistic:_Ecks_vs._Sever",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ballistic%3A+Ecks+vs.+Sever",
     "preview_url": "https://www.youtube.com/results?search_query=Ballistic%3A+Ecks+vs.+Sever+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Ballistic%3A+Ecks+vs.+Sever+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Ballistic%3A+Ecks+vs.+Sever+trailer",
+    "tags": []
   },
   {
     "title": "Bangkok Dangerous",
@@ -277,8 +282,9 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Battlefield+Earth+trailer",
     "featured": false,
     "tags": [
-      "razzie-winner",
-      "so-bad-its-good"
+      "b-movie",
+      "so-bad-its-good",
+      "razzie-winner"
     ]
   },
   {
@@ -324,7 +330,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Beneath_the_Darkness",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Beneath+the+Darkness",
     "preview_url": "https://www.youtube.com/results?search_query=Beneath+the+Darkness+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Beneath+the+Darkness+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Beneath+the+Darkness+trailer",
+    "tags": []
   },
   {
     "title": "Birdemic: Shock and Terror",
@@ -340,6 +347,7 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Birdemic%3A+Shock+and+Terror+trailer",
     "featured": false,
     "tags": [
+      "b-movie",
       "so-bad-its-good"
     ]
   },
@@ -384,7 +392,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Bolero_(1984_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bolero",
     "preview_url": "https://www.youtube.com/results?search_query=Bolero+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Bolero+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Bolero+trailer",
+    "tags": []
   },
   {
     "title": "Bratz",
@@ -444,7 +453,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Cabin_Fever_(2016_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Cabin+Fever",
     "preview_url": "https://www.youtube.com/results?search_query=Cabin+Fever+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Cabin+Fever+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Cabin+Fever+trailer",
+    "tags": []
   },
   {
     "title": "Caligula",
@@ -457,7 +467,10 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Caligula_(theatrical_version,_1979)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Caligula",
     "preview_url": "https://www.youtube.com/results?search_query=Caligula+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Caligula+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Caligula+trailer",
+    "tags": [
+      "b-movie"
+    ]
   },
   {
     "title": "Captain Corelli's Mandolin",
@@ -598,7 +611,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Constellation_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Constellation",
     "preview_url": "https://www.youtube.com/results?search_query=Constellation+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Constellation+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Constellation+trailer",
+    "tags": []
   },
   {
     "title": "Cool as Ice",
@@ -645,7 +659,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Dark_Crimes",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dark+Crimes",
     "preview_url": "https://www.youtube.com/results?search_query=Dark+Crimes+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Dark+Crimes+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Dark+Crimes+trailer",
+    "tags": []
   },
   {
     "title": "Dark Tide",
@@ -658,7 +673,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Dark_Tide",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dark+Tide",
     "preview_url": "https://www.youtube.com/results?search_query=Dark+Tide+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Dark+Tide+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Dark+Tide+trailer",
+    "tags": []
   },
   {
     "title": "Date Movie",
@@ -718,7 +734,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Derailed_(2002_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Derailed",
     "preview_url": "https://www.youtube.com/results?search_query=Derailed+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Derailed+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Derailed+trailer",
+    "tags": []
   },
   {
     "title": "Dirty Grandpa",
@@ -746,7 +763,10 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Disaster_Movie_(2008)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Disaster+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=Disaster+Movie+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Disaster+Movie+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Disaster+Movie+trailer",
+    "tags": [
+      "b-movie"
+    ]
   },
   {
     "title": "Dog Eat Dog",
@@ -777,6 +797,24 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Dolittle+trailer",
     "featured": false,
     "tags": []
+  },
+  {
+    "title": "Double Down",
+    "year": "2005",
+    "rating": "10%",
+    "reviews": "13",
+    "genre": "Drama/Crime",
+    "description": "Neil Breen's early self-financed thriller about a man uncovering government corruption while trying to protect his family.",
+    "poster": null,
+    "wiki_url": null,
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Double+Down",
+    "preview_url": "https://www.youtube.com/results?search_query=Double+Down+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Double+Down+trailer",
+    "featured": false,
+    "tags": [
+      "b-movie",
+      "neil-breen"
+    ]
   },
   {
     "title": "Dragonball Evolution",
@@ -822,6 +860,7 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Drive+Angry+trailer",
     "featured": false,
     "tags": [
+      "b-movie",
       "so-bad-its-good"
     ]
   },
@@ -873,6 +912,24 @@
     "tags": []
   },
   {
+    "title": "Fateful Findings",
+    "year": "2013",
+    "rating": "10%",
+    "reviews": "24",
+    "genre": "Sci-fi/Thriller",
+    "description": "A programmer uses new psychic powers to expose corruption, uncover family secrets, and fight a shadowy conspiracy.",
+    "poster": null,
+    "wiki_url": null,
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Fateful+Findings",
+    "preview_url": "https://www.youtube.com/results?search_query=Fateful+Findings+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Fateful+Findings+trailer",
+    "featured": false,
+    "tags": [
+      "b-movie",
+      "neil-breen"
+    ]
+  },
+  {
     "title": "Fire Birds",
     "year": "1990",
     "rating": "14%",
@@ -913,7 +970,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Folks!",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Folks%21",
     "preview_url": "https://www.youtube.com/results?search_query=Folks%21+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Folks%21+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Folks%21+trailer",
+    "tags": []
   },
   {
     "title": "Foodfight!",
@@ -1046,7 +1104,9 @@
     "preview_url": "https://www.youtube.com/results?search_query=Gone+in+60+Seconds+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Gone+in+60+Seconds+trailer",
     "featured": false,
-    "tags": []
+    "tags": [
+      "b-movie"
+    ]
   },
   {
     "title": "Gotti",
@@ -1059,7 +1119,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Gotti_(2018_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gotti",
     "preview_url": "https://www.youtube.com/results?search_query=Gotti+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Gotti+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Gotti+trailer",
+    "tags": []
   },
   {
     "title": "Grand Isle",
@@ -1102,7 +1163,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Guardians_(2017)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Guardians",
     "preview_url": "https://www.youtube.com/results?search_query=Guardians+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Guardians+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Guardians+trailer",
+    "tags": []
   },
   {
     "title": "Guarding Tess",
@@ -1117,7 +1179,9 @@
     "preview_url": "https://www.youtube.com/results?search_query=Guarding+Tess+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Guarding+Tess+trailer",
     "featured": false,
-    "tags": []
+    "tags": [
+      "b-movie"
+    ]
   },
   {
     "title": "Hard Kill",
@@ -1130,7 +1194,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Hard_Kill",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Hard+Kill",
     "preview_url": "https://www.youtube.com/results?search_query=Hard+Kill+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Hard+Kill+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Hard+Kill+trailer",
+    "tags": []
   },
   {
     "title": "Hellboy",
@@ -1174,7 +1239,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Homecoming_(2009_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Homecoming",
     "preview_url": "https://www.youtube.com/results?search_query=Homecoming+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Homecoming+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Homecoming+trailer",
+    "tags": []
   },
   {
     "title": "Honeymoon in Vegas",
@@ -1226,6 +1292,24 @@
     ]
   },
   {
+    "title": "I Am Here....Now",
+    "year": "2005",
+    "rating": "10%",
+    "reviews": "14",
+    "genre": "Sci-fi/Drama",
+    "description": "Neil Breen stars in and directs a metaphysical story about a mysterious visitor trying to heal humanity through strange visions and miracles.",
+    "poster": null,
+    "wiki_url": null,
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=I+Am+Here....Now",
+    "preview_url": "https://www.youtube.com/results?search_query=I+Am+Here....Now+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/I+Am+Here....Now+trailer",
+    "featured": false,
+    "tags": [
+      "b-movie",
+      "neil-breen"
+    ]
+  },
+  {
     "title": "I Spit on Your Grave",
     "year": "1978",
     "rating": "53%",
@@ -1236,7 +1320,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/I_Spit_on_Your_Grave_(1978)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=I+Spit+on+Your+Grave",
     "preview_url": "https://www.youtube.com/results?search_query=I+Spit+on+Your+Grave+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/I+Spit+on+Your+Grave+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/I+Spit+on+Your+Grave+trailer",
+    "tags": []
   },
   {
     "title": "In the Name of the King: A Dungeon Siege Tale",
@@ -1281,7 +1366,9 @@
     "preview_url": "https://www.youtube.com/results?search_query=Inspector+Gadget+2+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Inspector+Gadget+2+trailer",
     "featured": false,
-    "tags": []
+    "tags": [
+      "b-movie"
+    ]
   },
   {
     "title": "It Could Happen to You",
@@ -1371,7 +1458,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/John_Henry_(2020_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=John+Henry",
     "preview_url": "https://www.youtube.com/results?search_query=John+Henry+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/John+Henry+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/John+Henry+trailer",
+    "tags": []
   },
   {
     "title": "Kick-Ass",
@@ -1414,7 +1502,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Killing_Me_Softly_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Killing+Me+Softly",
     "preview_url": "https://www.youtube.com/results?search_query=Killing+Me+Softly+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Killing+Me+Softly+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Killing+Me+Softly+trailer",
+    "tags": []
   },
   {
     "title": "Kirk Cameron's Saving Christmas",
@@ -1490,7 +1579,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Left_Behind_(2014_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Left+Behind",
     "preview_url": "https://www.youtube.com/results?search_query=Left+Behind+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Left+Behind+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Left+Behind+trailer",
+    "tags": []
   },
   {
     "title": "Leonard Part 6",
@@ -1537,7 +1627,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/London_Fields_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=London+Fields",
     "preview_url": "https://www.youtube.com/results?search_query=London+Fields+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/London+Fields+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/London+Fields+trailer",
+    "tags": []
   },
   {
     "title": "Longlegs",
@@ -1565,7 +1656,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Look_Who%27s_Talking_Now",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Look+Who%27s+Talking+Now%21",
     "preview_url": "https://www.youtube.com/results?search_query=Look+Who%27s+Talking+Now%21+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Look+Who%27s+Talking+Now%21+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Look+Who%27s+Talking+Now%21+trailer",
+    "tags": []
   },
   {
     "title": "Loqueesha",
@@ -1578,7 +1670,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Loqueesha_(2019)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Loqueesha",
     "preview_url": "https://www.youtube.com/results?search_query=Loqueesha+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Loqueesha+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Loqueesha+trailer",
+    "tags": []
   },
   {
     "title": "Lord of War",
@@ -1625,6 +1718,7 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Manos%3A+The+Hands+of+Fate+trailer",
     "featured": false,
     "tags": [
+      "b-movie",
       "so-bad-its-good"
     ]
   },
@@ -1654,7 +1748,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Max_Steel_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Max+Steel",
     "preview_url": "https://www.youtube.com/results?search_query=Max+Steel+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Max+Steel+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Max+Steel+trailer",
+    "tags": []
   },
   {
     "title": "Meet the Spartans",
@@ -1672,6 +1767,24 @@
     "tags": []
   },
   {
+    "title": "Megalomaniac",
+    "year": "2014",
+    "rating": "10%",
+    "reviews": "16",
+    "genre": "Sci-fi/Drama",
+    "description": "A self-directed sci-fi allegory in which Neil Breen wrestles with destiny, love, and truth while battling corrupt forces.",
+    "poster": null,
+    "wiki_url": null,
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Megalomaniac",
+    "preview_url": "https://www.youtube.com/results?search_query=Megalomaniac+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Megalomaniac+trailer",
+    "featured": false,
+    "tags": [
+      "b-movie",
+      "neil-breen"
+    ]
+  },
+  {
     "title": "Merci Docteur Rey",
     "year": "22",
     "rating": "0%",
@@ -1682,7 +1795,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Merci_Docteur_Rey",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Merci+Docteur+Rey",
     "preview_url": "https://www.youtube.com/results?search_query=Merci+Docteur+Rey+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Merci+Docteur+Rey+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Merci+Docteur+Rey+trailer",
+    "tags": []
   },
   {
     "title": "Mom and Dad",
@@ -1777,7 +1891,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/National_Lampoon%27s_Gold_Diggers",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Lampoon%27s+Gold+Diggers",
     "preview_url": "https://www.youtube.com/results?search_query=National+Lampoon%27s+Gold+Diggers+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/National+Lampoon%27s+Gold+Diggers+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/National+Lampoon%27s+Gold+Diggers+trailer",
+    "tags": []
   },
   {
     "title": "National Treasure",
@@ -1867,7 +1982,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/One_Missed_Call_(2008_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=One+Missed+Call",
     "preview_url": "https://www.youtube.com/results?search_query=One+Missed+Call+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/One+Missed+Call+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/One+Missed+Call+trailer",
+    "tags": []
   },
   {
     "title": "Outcast",
@@ -1883,6 +1999,24 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Outcast+trailer",
     "featured": false,
     "tags": []
+  },
+  {
+    "title": "Pass Thru",
+    "year": "2016",
+    "rating": "10%",
+    "reviews": "18",
+    "genre": "Sci-fi/Drama",
+    "description": "A cyber-revolutionary is reborn to free humanity from the illusion of a fake reality controlled by a shadow government.",
+    "poster": null,
+    "wiki_url": null,
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pass+Thru",
+    "preview_url": "https://www.youtube.com/results?search_query=Pass+Thru+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Pass+Thru+trailer",
+    "featured": false,
+    "tags": [
+      "b-movie",
+      "neil-breen"
+    ]
   },
   {
     "title": "Paul Blart: Mall Cop 2",
@@ -1955,7 +2089,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Pinocchio_(2002_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pinocchio",
     "preview_url": "https://www.youtube.com/results?search_query=Pinocchio+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Pinocchio+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Pinocchio+trailer",
+    "tags": []
   },
   {
     "title": "Pixels",
@@ -1985,6 +2120,7 @@
     "preview_url": "https://www.youtube.com/results?search_query=Plan+9+from+Outer+Space+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Plan+9+from+Outer+Space+trailer",
     "tags": [
+      "b-movie",
       "so-bad-its-good"
     ]
   },
@@ -2014,7 +2150,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Police_Academy_4:_Citizens_on_Patrol",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Police+Academy+4%3A+Citizens+on+Patrol",
     "preview_url": "https://www.youtube.com/results?search_query=Police+Academy+4%3A+Citizens+on+Patrol+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Police+Academy+4%3A+Citizens+on+Patrol+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Police+Academy+4%3A+Citizens+on+Patrol+trailer",
+    "tags": []
   },
   {
     "title": "Postal",
@@ -2042,7 +2179,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Precious_Cargo_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Precious+Cargo",
     "preview_url": "https://www.youtube.com/results?search_query=Precious+Cargo+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Precious+Cargo+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Precious+Cargo+trailer",
+    "tags": []
   },
   {
     "title": "Primal",
@@ -2085,7 +2223,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Problem_Child_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Problem+Child",
     "preview_url": "https://www.youtube.com/results?search_query=Problem+Child+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Problem+Child+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Problem+Child+trailer",
+    "tags": []
   },
   {
     "title": "Racing with the Moon",
@@ -2145,7 +2284,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Redline_(2007_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Redline",
     "preview_url": "https://www.youtube.com/results?search_query=Redline+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Redline+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Redline+trailer",
+    "tags": []
   },
   {
     "title": "Renfield",
@@ -2173,7 +2313,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Return_to_the_Blue_Lagoon",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Return+to+the+Blue+Lagoon",
     "preview_url": "https://www.youtube.com/results?search_query=Return+to+the+Blue+Lagoon+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Return+to+the+Blue+Lagoon+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Return+to+the+Blue+Lagoon+trailer",
+    "tags": []
   },
   {
     "title": "Rollerball",
@@ -2218,7 +2359,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Run_for_Your_Wife_(2012)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Run+for+Your+Wife",
     "preview_url": "https://www.youtube.com/results?search_query=Run+for+Your+Wife+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Run+for+Your+Wife+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Run+for+Your+Wife+trailer",
+    "tags": []
   },
   {
     "title": "Running with the Devil",
@@ -2246,7 +2388,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Scar_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Scar",
     "preview_url": "https://www.youtube.com/results?search_query=Scar+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Scar+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Scar+trailer",
+    "tags": []
   },
   {
     "title": "Season of the Witch",
@@ -2291,7 +2434,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Sex_Lives_of_the_Potato_Men_(2004)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Sex+Lives+of+the+Potato+Men",
     "preview_url": "https://www.youtube.com/results?search_query=Sex+Lives+of+the+Potato+Men+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Sex+Lives+of+the+Potato+Men+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Sex+Lives+of+the+Potato+Men+trailer",
+    "tags": []
   },
   {
     "title": "Showgirls",
@@ -2321,7 +2465,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Simon_Sez",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Simon+Sez",
     "preview_url": "https://www.youtube.com/results?search_query=Simon+Sez+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Simon+Sez+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Simon+Sez+trailer",
+    "tags": []
   },
   {
     "title": "Snake Eyes",
@@ -2383,7 +2528,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Stolen_(2009_American_film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Stolen",
     "preview_url": "https://www.youtube.com/results?search_query=Stolen+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Stolen+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Stolen+trailer",
+    "tags": []
   },
   {
     "title": "Strange Magic",
@@ -2411,7 +2557,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Stratton_(film)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Stratton",
     "preview_url": "https://www.youtube.com/results?search_query=Stratton+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Stratton+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Stratton+trailer",
+    "tags": []
   },
   {
     "title": "Superbabies: Baby Geniuses 2",
@@ -2455,7 +2602,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Tarzan,_the_Ape_Man_(1981)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Tarzan%2C+the+Ape+Man",
     "preview_url": "https://www.youtube.com/results?search_query=Tarzan%2C+the+Ape+Man+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Tarzan%2C+the+Ape+Man+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Tarzan%2C+the+Ape+Man+trailer",
+    "tags": []
   },
   {
     "title": "That's My Boy",
@@ -2574,7 +2722,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Disappointments_Room",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Disappointments+Room",
     "preview_url": "https://www.youtube.com/results?search_query=The+Disappointments+Room+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Disappointments+Room+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Disappointments+Room+trailer",
+    "tags": []
   },
   {
     "title": "The Emoji Movie",
@@ -2665,7 +2814,9 @@
     "preview_url": "https://www.youtube.com/results?search_query=The+Happening+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Happening+trailer",
     "featured": false,
-    "tags": []
+    "tags": [
+      "b-movie"
+    ]
   },
   {
     "title": "The Hottie and the Nottie",
@@ -2678,7 +2829,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Hottie_and_the_Nottie_(2008)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Hottie+and+the+Nottie",
     "preview_url": "https://www.youtube.com/results?search_query=The+Hottie+and+the+Nottie+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Hottie+and+the+Nottie+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Hottie+and+the+Nottie+trailer",
+    "tags": []
   },
   {
     "title": "The Last Airbender",
@@ -2706,7 +2858,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Last_Days_of_American_Crime",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Last+Days+of+American+Crime",
     "preview_url": "https://www.youtube.com/results?search_query=The+Last+Days+of+American+Crime+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Last+Days+of+American+Crime+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Last+Days+of+American+Crime+trailer",
+    "tags": []
   },
   {
     "title": "The Love Guru",
@@ -2780,7 +2933,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Nutcracker_in_3D",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Nutcracker+in+3D",
     "preview_url": "https://www.youtube.com/results?search_query=The+Nutcracker+in+3D+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Nutcracker+in+3D+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Nutcracker+in+3D+trailer",
+    "tags": []
   },
   {
     "title": "The Old Way",
@@ -2825,7 +2979,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Queen%27s_Corgi",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Queen%27s+Corgi",
     "preview_url": "https://www.youtube.com/results?search_query=The+Queen%27s+Corgi+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Queen%27s+Corgi+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Queen%27s+Corgi+trailer",
+    "tags": []
   },
   {
     "title": "The Ridiculous 6",
@@ -2838,7 +2993,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/The_Ridiculous_6",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Ridiculous+6",
     "preview_url": "https://www.youtube.com/results?search_query=The+Ridiculous+6+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Ridiculous+6+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Ridiculous+6+trailer",
+    "tags": []
   },
   {
     "title": "The Rock",
@@ -2959,6 +3115,7 @@
     "alt_preview_url": "https://www.dailymotion.com/search/The+Wicker+Man+trailer",
     "featured": false,
     "tags": [
+      "b-movie",
       "so-bad-its-good"
     ]
   },
@@ -2973,7 +3130,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/They_Saved_Hitler's_Brain_(1968)",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=They+Saved+Hitler%27s+Brain",
     "preview_url": "https://www.youtube.com/results?search_query=They+Saved+Hitler%27s+Brain+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/They+Saved+Hitler%27s+Brain+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/They+Saved+Hitler%27s+Brain+trailer",
+    "tags": []
   },
   {
     "title": "Transformers: The Last Knight",
@@ -3001,7 +3159,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Transylmania",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Transylmania",
     "preview_url": "https://www.youtube.com/results?search_query=Transylmania+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Transylmania+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Transylmania+trailer",
+    "tags": []
   },
   {
     "title": "Trapped in Paradise",
@@ -3017,6 +3176,24 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Trapped+in+Paradise+trailer",
     "featured": false,
     "tags": []
+  },
+  {
+    "title": "Twisted Pair",
+    "year": "2018",
+    "rating": "10%",
+    "reviews": "19",
+    "genre": "Sci-fi/Action",
+    "description": "Neil Breen plays twin warriors tasked with saving humanity from demons, corrupted agents, and a digital reality scheme.",
+    "poster": null,
+    "wiki_url": null,
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Twisted+Pair",
+    "preview_url": "https://www.youtube.com/results?search_query=Twisted+Pair+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Twisted+Pair+trailer",
+    "featured": false,
+    "tags": [
+      "b-movie",
+      "neil-breen"
+    ]
   },
   {
     "title": "USS Indianapolis: Men of Courage",
@@ -3091,7 +3268,8 @@
     "wiki_url": "https://en.wikipedia.org/wiki/Wagons_East!",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Wagons+East%21",
     "preview_url": "https://www.youtube.com/results?search_query=Wagons+East%21+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Wagons+East%21+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Wagons+East%21+trailer",
+    "tags": []
   },
   {
     "title": "Who's Your Caddy?",

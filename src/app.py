@@ -16,7 +16,9 @@ WIKIPEDIA_WORST_20_URL = "https://en.wikipedia.org/wiki/List_of_20th_century_fil
 WIKIPEDIA_RAZZIE_URL = "https://en.wikipedia.org/wiki/Golden_Raspberry_Award_for_Worst_Picture?printable=yes"
 IMDB_BOTTOM_100_URL = "https://www.imdb.com/chart/bottom/"
 
-CURATED_FILMS_PATH = Path(__file__).resolve().parent.parent / "data" / "curated_films.json"
+CURATED_FILMS_PATH = (
+    Path(__file__).resolve().parent.parent / "data" / "curated_films.json"
+)
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
@@ -24,6 +26,61 @@ HEADERS = {
     "Referer": "https://en.wikipedia.org/",
     "Connection": "keep-alive",
 }
+
+B_MOVIE_TITLES = {
+    "Battlefield Earth",
+    "Manos: The Hands of Fate",
+    "Plan 9 from Outer Space",
+    "The Room",
+    "Sharknado",
+    "The Happening",
+    "The Wicker Man",
+    "Killer Klowns from Outer Space",
+    "Robot Monster",
+    "The Giant Spider Invasion",
+    "Carnosaur",
+    "The Blob",
+}
+B_MOVIE_TITLE_KEYWORDS = (
+    "battlefield earth",
+    "manos",
+    "plan 9",
+    "sharknado",
+    "the room",
+    "killer klowns",
+    "robot monster",
+    "giant spider",
+    "carnosaur",
+)
+B_MOVIE_DESCRIPTION_KEYWORDS = (
+    "b-movie",
+    "cult",
+    "low budget",
+    "direct-to-video",
+    "direct to video",
+    "drive-in",
+    "schlock",
+    "cheesy",
+    "campy",
+)
+
+NEIL_BREEN_TITLES = {
+    "Double Down",
+    "I Am Here....Now",
+    "Fateful Findings",
+    "Pass Thru",
+    "Twisted Pair",
+    "Megalomaniac",
+}
+NEIL_BREEN_TITLE_KEYWORDS = (
+    "double down",
+    "i am here",
+    "fateful findings",
+    "pass thru",
+    "twisted pair",
+    "megalomaniac",
+)
+NEIL_BREEN_DESCRIPTION_KEYWORDS = ("neil breen",)
 
 
 def fetch_wikipedia_page(url: str):
@@ -244,7 +301,9 @@ def parse_razzie_worst_picture_page():
                         "wiki_url": f"https://en.wikipedia.org{href}",
                         "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                         "preview_url": build_youtube_search_url(f"{title} trailer"),
-                        "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
+                        "alt_preview_url": build_dailymotion_search_url(
+                            f"{title} trailer"
+                        ),
                     }
                 )
     return movies
@@ -308,10 +367,10 @@ def parse_imdb_bottom_100(max_score: int = 70):
                     "wiki_url": None,
                     "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                     "preview_url": build_youtube_search_url(f"{title} trailer"),
-                    "alt_preview_url": build_dailymotion_search_url(
-                        f"{title} trailer"
+                    "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
+                    "imdb_url": (
+                        url if url.startswith("http") else f"https://www.imdb.com{url}"
                     ),
-                    "imdb_url": url if url.startswith("http") else f"https://www.imdb.com{url}",
                 }
             )
 
@@ -341,9 +400,7 @@ def parse_imdb_bottom_100(max_score: int = 70):
                     "wiki_url": None,
                     "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                     "preview_url": build_youtube_search_url(f"{title} trailer"),
-                    "alt_preview_url": build_dailymotion_search_url(
-                        f"{title} trailer"
-                    ),
+                    "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
                     "imdb_url": f"https://www.imdb.com{href}" if href else None,
                 }
             )
@@ -361,10 +418,68 @@ def _try(fn, *args, **kwargs):
         return []
 
 
+def _is_b_movie(movie: dict):
+    title = (movie.get("title") or "").strip().lower()
+    if title in {t.lower() for t in B_MOVIE_TITLES}:
+        return True
+    if any(keyword in title for keyword in B_MOVIE_TITLE_KEYWORDS):
+        return True
+    description = (movie.get("description") or "").lower()
+    return any(keyword in description for keyword in B_MOVIE_DESCRIPTION_KEYWORDS)
+
+
+def _ensure_b_movie_tag(movie: dict):
+    if "tags" not in movie or movie["tags"] is None:
+        movie["tags"] = []
+    if _is_b_movie(movie) and "b-movie" not in movie["tags"]:
+        movie["tags"].append("b-movie")
+
+
+def _is_neil_breen_movie(movie: dict):
+    title = (movie.get("title") or "").strip().lower()
+    if title in {t.lower() for t in NEIL_BREEN_TITLES}:
+        return True
+    if any(keyword in title for keyword in NEIL_BREEN_TITLE_KEYWORDS):
+        return True
+    description = (movie.get("description") or "").lower()
+    if "neil breen" in description:
+        return True
+    return any(keyword in description for keyword in NEIL_BREEN_DESCRIPTION_KEYWORDS)
+
+
+def _ensure_neil_breen_tag(movie: dict):
+    if "tags" not in movie or movie["tags"] is None:
+        movie["tags"] = []
+    if _is_neil_breen_movie(movie):
+        if "neil-breen" not in movie["tags"]:
+            movie["tags"].append("neil-breen")
+        if "b-movie" not in movie["tags"]:
+            movie["tags"].append("b-movie")
+
+
+def _movie_visible(movie: dict, max_score: int):
+    try:
+        return int(movie["rating"].rstrip("%")) <= max_score
+    except (ValueError, AttributeError):
+        return bool(movie.get("featured"))
+
+
 def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
     movies = _try(parse_wikipedia_0_percent_page)
-    movies.extend(_try(parse_wikipedia_worst_films_page, WIKIPEDIA_WORST_21_URL, max_score=max_score))
-    movies.extend(_try(parse_wikipedia_worst_films_page, WIKIPEDIA_WORST_20_URL, max_score=max_score))
+    movies.extend(
+        _try(
+            parse_wikipedia_worst_films_page,
+            WIKIPEDIA_WORST_21_URL,
+            max_score=max_score,
+        )
+    )
+    movies.extend(
+        _try(
+            parse_wikipedia_worst_films_page,
+            WIKIPEDIA_WORST_20_URL,
+            max_score=max_score,
+        )
+    )
     movies.extend(load_curated_movies(max_score=max_score))
     movies.extend(_try(parse_imdb_bottom_100, max_score=max_score))
 
@@ -390,11 +505,13 @@ def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
         if merged_featured:
             unique_movies[key]["featured"] = True
 
-    movies = [
-        movie
-        for movie in unique_movies.values()
-        if int(movie["rating"].rstrip("%")) <= max_score or movie.get("featured")
-    ]
+    movies = []
+    for movie in unique_movies.values():
+        if _movie_visible(movie, max_score):
+            _ensure_b_movie_tag(movie)
+            _ensure_neil_breen_tag(movie)
+            movies.append(movie)
+
     movies.sort(key=lambda movie: movie["title"].lower())
     return movies[:limit]
 
