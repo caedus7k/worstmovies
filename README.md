@@ -17,6 +17,17 @@ python src/app.py
 
 Then open `http://127.0.0.1:5000`.
 
+## Static site deployment
+A new static version of the app is available in the `docs/` folder for GitHub Pages.
+
+To publish it:
+1. Open your repository on GitHub.
+2. Go to Settings > Pages.
+3. Choose branch `main` and folder `/docs`.
+4. Save and wait for GitHub Pages to build.
+
+Once published, the static site will serve `docs/index.html`.
+
 ## Refresh stored data
 Run the scraper and save the latest movie list into the code base:
 
