@@ -25,6 +25,17 @@ h1 {
     max-width: 42rem;
 }
 
+.intro-note {
+    margin-top: 0.75rem;
+    color: #e2e8f0;
+    background: rgba(124, 58, 237, 0.12);
+    border: 1px solid rgba(124, 58, 237, 0.25);
+    padding: 0.9rem 1rem;
+    border-radius: 14px;
+    max-width: 42rem;
+    font-size: 0.95rem;
+}
+
 .search {
     display: flex;
     gap: 0.75rem;

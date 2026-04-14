@@ -80,7 +80,10 @@ NEIL_BREEN_TITLE_KEYWORDS = (
     "twisted pair",
     "megalomaniac",
 )
-NEIL_BREEN_DESCRIPTION_KEYWORDS = ("neil breen",)
+NEIL_BREEN_DESCRIPTION_KEYWORDS = (
+    "neil breen",
+    "breen",
+)
 
 
 def fetch_wikipedia_page(url: str):

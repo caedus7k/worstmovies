@@ -55,3 +55,9 @@ python src/app.py
 ## Notes
 - The app scrapes Wikipedia's Rotten Tomatoes 0% film list.
 - It provides Rotten Tomatoes search links plus YouTube and Dailymotion preview searches.
+
+## Recent updates
+- Added a `B movie` tag and filter for clearly defined low-budget / cult titles.
+- Added Neil Breen support with a dedicated `Neil Breen only` checkbox and `neil-breen` tag.
+- Included six curated Neil Breen films in `data/curated_films.json`.
+- Updated the dataset and mirrored it to `docs/data/worst_movies.json` for the static site.
