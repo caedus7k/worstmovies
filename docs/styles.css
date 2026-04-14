@@ -50,6 +50,40 @@ h1 {
     cursor: pointer;
 }
 
+.search select {
+    padding: 0.9rem 1rem;
+    border-radius: 12px;
+    border: 1px solid #334155;
+    background: #0f172a;
+    color: #f8fafc;
+    cursor: pointer;
+}
+
+.toggle-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.9rem 1rem;
+    border-radius: 12px;
+    border: 1px solid #334155;
+    background: #0f172a;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+}
+
+.toggle-label input[type="checkbox"] {
+    width: 1rem;
+    height: 1rem;
+    accent-color: #7c3aed;
+    cursor: pointer;
+}
+
+.genre-tag {
+    color: #a78bfa;
+    font-size: 0.875rem;
+}
+
 .status {
     margin-bottom: 1rem;
     padding: 1rem;
