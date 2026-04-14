@@ -1,4 +1,4 @@
-﻿import json
+import json
 import os
 import re
 from pathlib import Path
@@ -83,6 +83,25 @@ NEIL_BREEN_TITLE_KEYWORDS = (
 NEIL_BREEN_DESCRIPTION_KEYWORDS = (
     "neil breen",
     "breen",
+)
+
+TOMMY_WISEAU_TITLES = {
+    "The Room",
+    "The House That Drips Blood on Alex",
+    "The Neighbors",
+    "Best F(r)iends",
+    "Homeless in America",
+}
+TOMMY_WISEAU_TITLE_KEYWORDS = (
+    "the room",
+    "house that drips blood",
+    "the neighbors",
+    "best f(r)iends",
+    "homeless in america",
+)
+TOMMY_WISEAU_DESCRIPTION_KEYWORDS = (
+    "tommy wiseau",
+    "wiseau",
 )
 
 
@@ -460,6 +479,28 @@ def _ensure_neil_breen_tag(movie: dict):
             movie["tags"].append("b-movie")
 
 
+def _is_tommy_wiseau_movie(movie: dict):
+    title = (movie.get("title") or "").strip().lower()
+    if title in {t.lower() for t in TOMMY_WISEAU_TITLES}:
+        return True
+    if any(keyword in title for keyword in TOMMY_WISEAU_TITLE_KEYWORDS):
+        return True
+    description = (movie.get("description") or "").lower()
+    if "tommy wiseau" in description:
+        return True
+    return any(keyword in description for keyword in TOMMY_WISEAU_DESCRIPTION_KEYWORDS)
+
+
+def _ensure_tommy_wiseau_tag(movie: dict):
+    if "tags" not in movie or movie["tags"] is None:
+        movie["tags"] = []
+    if _is_tommy_wiseau_movie(movie):
+        if "tommy-wiseau" not in movie["tags"]:
+            movie["tags"].append("tommy-wiseau")
+        if "b-movie" not in movie["tags"]:
+            movie["tags"].append("b-movie")
+
+
 def _movie_visible(movie: dict, max_score: int):
     try:
         return int(movie["rating"].rstrip("%")) <= max_score
@@ -513,6 +554,7 @@ def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
         if _movie_visible(movie, max_score):
             _ensure_b_movie_tag(movie)
             _ensure_neil_breen_tag(movie)
+            _ensure_tommy_wiseau_tag(movie)
             movies.append(movie)
 
     movies.sort(key=lambda movie: movie["title"].lower())

@@ -1871,5 +1871,75 @@
       "b-movie",
       "neil-breen"
     ]
+  },
+  {
+    "title": "The House That Drips Blood on Alex",
+    "year": "2010",
+    "rating": "18%",
+    "reviews": "12",
+    "genre": "Horror",
+    "description": "Tommy Wiseau's splatter-heavy indie about a group of friends who steal a cursed statue and suffer gruesome supernatural consequences.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_House_That_Drips_Blood_on_Alex",
+    "tags": [
+      "b-movie",
+      "tommy-wiseau"
+    ]
+  },
+  {
+    "title": "The Room",
+    "year": "2003",
+    "rating": "25%",
+    "reviews": "120",
+    "genre": "Drama",
+    "description": "Tommy Wiseau's cult classic melodrama about love, betrayal, and inexplicable interpersonal conflict in a San Francisco apartment.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Room_(film)",
+    "tags": [
+      "b-movie",
+      "tommy-wiseau"
+    ]
+  },
+  {
+    "title": "The Neighbors",
+    "year": "2015",
+    "rating": "12%",
+    "reviews": "34",
+    "genre": "Comedy/Horror",
+    "description": "Tommy Wiseau plays a mysterious villain in this low-budget horror comedy about a couple whose quiet neighborhood turns into a blood-soaked nightmare.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Neighbors_(2015_film)",
+    "tags": [
+      "b-movie",
+      "tommy-wiseau"
+    ]
+  },
+  {
+    "title": "Best F(r)iends",
+    "year": "2017",
+    "rating": "32%",
+    "reviews": "44",
+    "genre": "Crime/Drama",
+    "description": "Tommy Wiseau and Greg Sestero star in this oddball crime drama about a funeral-home assistant drawn into a lethal dalliance with a charming drifter.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Best_F(r)iends",
+    "tags": [
+      "b-movie",
+      "tommy-wiseau"
+    ]
+  },
+  {
+    "title": "Homeless in America",
+    "year": "2011",
+    "rating": "20%",
+    "reviews": "10",
+    "genre": "Documentary",
+    "description": "Tommy Wiseau's documentary-style film following homeless people as he explores homelessness and poverty in the United States.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Homeless_in_America",
+    "tags": [
+      "b-movie",
+      "tommy-wiseau"
+    ]
   }
 ]
