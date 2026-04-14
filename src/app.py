@@ -1,4 +1,4 @@
-import json
+﻿import json
 import os
 import re
 from pathlib import Path
@@ -252,23 +252,23 @@ def load_curated_movies(max_score: int = 70):
         if rt > max_score and not featured:
             continue
         title = m["title"]
-        movies.append(
-            {
-                "title": title,
-                "year": str(m.get("year", "N/A")),
-                "rating": f"{rt}%",
-                "reviews": str(m.get("reviews", "N/A")),
-                "genre": m.get("genre", "N/A"),
-                "description": m.get("description", ""),
-                "poster": m.get("poster"),
-                "wiki_url": m.get("wiki_url"),
-                "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
-                "preview_url": build_youtube_search_url(f"{title} trailer"),
-                "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
-                "featured": featured,
-                "tags": list(m.get("tags", [])),
-            }
-        )
+        movie = {
+            "title": title,
+            "year": str(m.get("year", "N/A")),
+            "rating": f"{rt}%",
+            "reviews": str(m.get("reviews", "N/A")),
+            "genre": m.get("genre", "N/A"),
+            "description": m.get("description", ""),
+            "poster": m.get("poster"),
+            "wiki_url": m.get("wiki_url"),
+            "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
+            "preview_url": build_youtube_search_url(f"{title} trailer"),
+            "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
+            "featured": featured,
+            "tags": list(m.get("tags", [])),
+        }
+        _ensure_movie_tags(movie)
+        movies.append(movie)
     return movies
 
 
@@ -501,6 +501,21 @@ def _ensure_tommy_wiseau_tag(movie: dict):
             movie["tags"].append("b-movie")
 
 
+def _normalize_movie_tags(movie: dict):
+    if "tags" not in movie or movie["tags"] is None:
+        movie["tags"] = []
+    movie["tags"] = [
+        tag.lower() for tag in dict.fromkeys(str(t).strip() for t in movie["tags"] if t)
+    ]
+
+
+def _ensure_movie_tags(movie: dict):
+    _normalize_movie_tags(movie)
+    _ensure_b_movie_tag(movie)
+    _ensure_neil_breen_tag(movie)
+    _ensure_tommy_wiseau_tag(movie)
+
+
 def _movie_visible(movie: dict, max_score: int):
     try:
         return int(movie["rating"].rstrip("%")) <= max_score
@@ -552,9 +567,7 @@ def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
     movies = []
     for movie in unique_movies.values():
         if _movie_visible(movie, max_score):
-            _ensure_b_movie_tag(movie)
-            _ensure_neil_breen_tag(movie)
-            _ensure_tommy_wiseau_tag(movie)
+            _ensure_movie_tags(movie)
             movies.append(movie)
 
     movies.sort(key=lambda movie: movie["title"].lower())
