@@ -84,6 +84,33 @@ h1 {
     font-size: 0.875rem;
 }
 
+.tag-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.tag-badge {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+}
+
+.tag-so-bad-its-good {
+    background: #422006;
+    color: #fdba74;
+    border: 1px solid #92400e;
+}
+
+.tag-razzie-winner {
+    background: #1c1917;
+    color: #fbbf24;
+    border: 1px solid #78350f;
+}
+
 .status {
     margin-bottom: 1rem;
     padding: 1rem;

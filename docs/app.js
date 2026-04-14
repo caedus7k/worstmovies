@@ -2,12 +2,18 @@ const MOVIES_JSON = 'data/worst_movies.json';
 const searchInput = document.getElementById('search');
 const ratingSelect = document.getElementById('max-rating');
 const genreSelect = document.getElementById('genre-filter');
+const tagSelect = document.getElementById('tag-filter');
 const cageCheckbox = document.getElementById('cage-filter');
 const searchForm = document.getElementById('search-form');
 const statusEl = document.getElementById('status');
 const countEl = document.getElementById('movie-count');
 const moviesEl = document.getElementById('movies');
 let movies = [];
+
+const TAG_META = {
+    'so-bad-its-good': { label: 'So bad it\'s good', emoji: '🍿' },
+    'razzie-winner':   { label: 'Razzie winner',     emoji: '🏆' },
+};
 
 const escapeHtml = (text) =>
     String(text)
@@ -20,6 +26,15 @@ const escapeHtml = (text) =>
 const isCageFilm = (movie) =>
     movie.featured || (movie.description && movie.description.includes('Nicolas Cage'));
 
+const buildTagBadges = (tags) => {
+    if (!tags || !tags.length) return '';
+    return tags.map((tag) => {
+        const meta = TAG_META[tag];
+        if (!meta) return '';
+        return `<span class="tag-badge tag-${tag}">${meta.emoji} ${meta.label}</span>`;
+    }).join('');
+};
+
 const buildCard = (movie) => {
     const title = escapeHtml(movie.title);
     const year = escapeHtml(movie.year);
@@ -31,6 +46,7 @@ const buildCard = (movie) => {
     const rtUrl = escapeHtml(movie.rotten_tomatoes_url);
     const previewUrl = escapeHtml(movie.preview_url);
     const altUrl = escapeHtml(movie.alt_preview_url);
+    const tagBadges = buildTagBadges(movie.tags);
 
     return `
     <article class="movie-card">
@@ -39,6 +55,7 @@ const buildCard = (movie) => {
           <h2>${title}</h2>
           <div class="meta">${year} · ${reviews} reviews${genre ? ` · <span class="genre-tag">${genre}</span>` : ''}</div>
         </div>
+        ${tagBadges ? `<div class="tag-badges">${tagBadges}</div>` : ''}
         <div class="meta">Rotten Tomatoes score: ${rating}</div>
         <p class="description">${description}</p>
         <div class="links">
@@ -59,8 +76,7 @@ const populateGenres = () => {
             movie.genre.split('/').forEach((g) => genreSet.add(g.trim()));
         }
     });
-    const sorted = [...genreSet].sort();
-    sorted.forEach((genre) => {
+    [...genreSet].sort().forEach((genre) => {
         const opt = document.createElement('option');
         opt.value = genre;
         opt.textContent = genre;
@@ -102,6 +118,7 @@ const applyFilters = () => {
     const query = searchInput.value.trim().toLowerCase();
     const maxRating = Number(ratingSelect.value);
     const genreQuery = genreSelect.value.toLowerCase();
+    const tagQuery = tagSelect.value;
     const cageOnly = cageCheckbox.checked;
 
     const filtered = movies.filter((movie) => {
@@ -118,9 +135,11 @@ const applyFilters = () => {
             movie.genre.toLowerCase().split('/').some((g) => g.trim() === genreQuery)
         );
 
+        const tagMatch = !tagQuery || (movie.tags && movie.tags.includes(tagQuery));
+
         const cageMatch = !cageOnly || isCageFilm(movie);
 
-        return titleMatch && ratingMatch && genreMatch && cageMatch;
+        return titleMatch && ratingMatch && genreMatch && tagMatch && cageMatch;
     });
 
     renderMovies(filtered);
@@ -133,6 +152,7 @@ searchForm.addEventListener('submit', (event) => {
 
 ratingSelect.addEventListener('change', applyFilters);
 genreSelect.addEventListener('change', applyFilters);
+tagSelect.addEventListener('change', applyFilters);
 cageCheckbox.addEventListener('change', applyFilters);
 
 loadMovies();

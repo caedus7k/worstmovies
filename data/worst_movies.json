@@ -11,7 +11,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=211",
     "preview_url": "https://www.youtube.com/results?search_query=211+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/211+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "3 Strikes",
@@ -38,7 +39,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=8MM",
     "preview_url": "https://www.youtube.com/results?search_query=8MM+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/8MM+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "A Score to Settle",
@@ -52,7 +54,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Score+to+Settle",
     "preview_url": "https://www.youtube.com/results?search_query=A+Score+to+Settle+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/A+Score+to+Settle+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "A Sound of Thunder",
@@ -66,7 +69,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Sound+of+Thunder",
     "preview_url": "https://www.youtube.com/results?search_query=A+Sound+of+Thunder+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/A+Sound+of+Thunder+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "A Thousand Words",
@@ -93,7 +97,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Adaptation",
     "preview_url": "https://www.youtube.com/results?search_query=Adaptation+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Adaptation+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Alarum",
@@ -120,7 +125,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Alone+in+the+Dark",
     "preview_url": "https://www.youtube.com/results?search_query=Alone+in+the+Dark+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Alone+in+the+Dark+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Amos & Andrew",
@@ -134,7 +140,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Amos+%26+Andrew",
     "preview_url": "https://www.youtube.com/results?search_query=Amos+%26+Andrew+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Amos+%26+Andrew+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Armor",
@@ -161,7 +168,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Army+of+One",
     "preview_url": "https://www.youtube.com/results?search_query=Army+of+One+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Army+of+One+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Arsenal",
@@ -175,7 +183,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Arsenal",
     "preview_url": "https://www.youtube.com/results?search_query=Arsenal+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Arsenal+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Artemis Fowl",
@@ -189,7 +198,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Artemis+Fowl",
     "preview_url": "https://www.youtube.com/results?search_query=Artemis+Fowl+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Artemis+Fowl+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Bad Lieutenant: Port of Call New Orleans",
@@ -203,7 +213,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bad+Lieutenant%3A+Port+of+Call+New+Orleans",
     "preview_url": "https://www.youtube.com/results?search_query=Bad+Lieutenant%3A+Port+of+Call+New+Orleans+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Bad+Lieutenant%3A+Port+of+Call+New+Orleans+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Ballistic: Ecks vs. Sever",
@@ -230,7 +241,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bangkok+Dangerous",
     "preview_url": "https://www.youtube.com/results?search_query=Bangkok+Dangerous+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Bangkok+Dangerous+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Batman & Robin",
@@ -244,7 +258,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Batman+%26+Robin",
     "preview_url": "https://www.youtube.com/results?search_query=Batman+%26+Robin+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Batman+%26+Robin+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Battlefield Earth",
@@ -258,7 +275,11 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Battlefield+Earth",
     "preview_url": "https://www.youtube.com/results?search_query=Battlefield+Earth+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Battlefield+Earth+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Baywatch",
@@ -272,7 +293,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Baywatch",
     "preview_url": "https://www.youtube.com/results?search_query=Baywatch+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Baywatch+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Ben & Arthur",
@@ -286,7 +308,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ben+%26+Arthur",
     "preview_url": "https://www.youtube.com/results?search_query=Ben+%26+Arthur+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Ben+%26+Arthur+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Beneath the Darkness",
@@ -313,7 +338,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Birdemic%3A+Shock+and+Terror",
     "preview_url": "https://www.youtube.com/results?search_query=Birdemic%3A+Shock+and+Terror+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Birdemic%3A+Shock+and+Terror+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Birdy",
@@ -327,7 +355,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Birdy",
     "preview_url": "https://www.youtube.com/results?search_query=Birdy+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Birdy+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "BloodRayne",
@@ -341,7 +370,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=BloodRayne",
     "preview_url": "https://www.youtube.com/results?search_query=BloodRayne+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/BloodRayne+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Bolero",
@@ -368,7 +398,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bratz",
     "preview_url": "https://www.youtube.com/results?search_query=Bratz+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Bratz+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Bringing Out the Dead",
@@ -382,7 +413,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bringing+Out+the+Dead",
     "preview_url": "https://www.youtube.com/results?search_query=Bringing+Out+the+Dead+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Bringing+Out+the+Dead+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Bucky Larson: Born to Be a Star",
@@ -396,7 +428,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bucky+Larson%3A+Born+to+Be+a+Star",
     "preview_url": "https://www.youtube.com/results?search_query=Bucky+Larson%3A+Born+to+Be+a+Star+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Bucky+Larson%3A+Born+to+Be+a+Star+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Cabin Fever",
@@ -436,7 +471,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Captain+Corelli%27s+Mandolin",
     "preview_url": "https://www.youtube.com/results?search_query=Captain+Corelli%27s+Mandolin+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Captain+Corelli%27s+Mandolin+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Cats",
@@ -450,7 +486,11 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Cats",
     "preview_url": "https://www.youtube.com/results?search_query=Cats+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Cats+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Catwoman",
@@ -464,7 +504,11 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Catwoman",
     "preview_url": "https://www.youtube.com/results?search_query=Catwoman+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Catwoman+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "CHiPs",
@@ -478,7 +522,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=CHiPs",
     "preview_url": "https://www.youtube.com/results?search_query=CHiPs+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/CHiPs+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "City of Angels",
@@ -492,7 +537,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=City+of+Angels",
     "preview_url": "https://www.youtube.com/results?search_query=City+of+Angels+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/City+of+Angels+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Collateral Beauty",
@@ -506,7 +552,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Collateral+Beauty",
     "preview_url": "https://www.youtube.com/results?search_query=Collateral+Beauty+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Collateral+Beauty+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Color Out of Space",
@@ -520,7 +567,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Color+Out+of+Space",
     "preview_url": "https://www.youtube.com/results?search_query=Color+Out+of+Space+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Color+Out+of+Space+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Con Air",
@@ -534,7 +582,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Con+Air",
     "preview_url": "https://www.youtube.com/results?search_query=Con+Air+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Con+Air+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Constellation",
@@ -561,7 +612,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Cool+as+Ice",
     "preview_url": "https://www.youtube.com/results?search_query=Cool+as+Ice+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Cool+as+Ice+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Crossroads",
@@ -575,7 +629,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Crossroads",
     "preview_url": "https://www.youtube.com/results?search_query=Crossroads+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Crossroads+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Dark Crimes",
@@ -615,7 +672,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Date+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=Date+Movie+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Date+Movie+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Deadfall",
@@ -629,7 +687,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Deadfall",
     "preview_url": "https://www.youtube.com/results?search_query=Deadfall+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Deadfall+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Delgo",
@@ -643,7 +704,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Delgo",
     "preview_url": "https://www.youtube.com/results?search_query=Delgo+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Delgo+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Derailed",
@@ -670,7 +732,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dirty+Grandpa",
     "preview_url": "https://www.youtube.com/results?search_query=Dirty+Grandpa+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Dirty+Grandpa+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Disaster Movie",
@@ -697,7 +760,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dog+Eat+Dog",
     "preview_url": "https://www.youtube.com/results?search_query=Dog+Eat+Dog+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Dog+Eat+Dog+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Dolittle",
@@ -711,7 +775,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dolittle",
     "preview_url": "https://www.youtube.com/results?search_query=Dolittle+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Dolittle+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Dragonball Evolution",
@@ -725,7 +790,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dragonball+Evolution",
     "preview_url": "https://www.youtube.com/results?search_query=Dragonball+Evolution+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Dragonball+Evolution+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Dream Scenario",
@@ -739,7 +805,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dream+Scenario",
     "preview_url": "https://www.youtube.com/results?search_query=Dream+Scenario+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Dream+Scenario+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Drive Angry",
@@ -753,7 +820,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Drive+Angry",
     "preview_url": "https://www.youtube.com/results?search_query=Drive+Angry+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Drive+Angry+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Epic Movie",
@@ -767,7 +837,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Epic+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=Epic+Movie+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Epic+Movie+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Face/Off",
@@ -781,7 +852,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Face%2FOff",
     "preview_url": "https://www.youtube.com/results?search_query=Face%2FOff+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Face%2FOff+trailer",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Far Cry",
@@ -795,7 +869,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Far+Cry",
     "preview_url": "https://www.youtube.com/results?search_query=Far+Cry+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Far+Cry+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Fire Birds",
@@ -809,7 +884,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Fire+Birds",
     "preview_url": "https://www.youtube.com/results?search_query=Fire+Birds+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Fire+Birds+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Fire Down Below",
@@ -823,7 +899,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Fire+Down+Below",
     "preview_url": "https://www.youtube.com/results?search_query=Fire+Down+Below+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Fire+Down+Below+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Folks!",
@@ -850,33 +927,45 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Foodfight%21",
     "preview_url": "https://www.youtube.com/results?search_query=Foodfight%21+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Foodfight%21+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Freddy Got Fingered",
     "year": "2001",
     "rating": "12%",
-    "reviews": "99",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "Freddy Got Fingered was nominated for eight awards at the 2001 Razzies , and won for Worst Picture, Worst Actor, Worst Director, Worst Screenplay, and Worst On-Screen Couple.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Freddy_Got_Fingered_(2001)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Freddy+Got+Fingered",
     "preview_url": "https://www.youtube.com/results?search_query=Freddy+Got+Fingered+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Freddy+Got+Fingered+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Freddy+Got+Fingered+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "From Justin to Kelly",
     "year": "2003",
     "rating": "10%",
-    "reviews": "63",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "The romantic-comedy musical From Justin to Kelly stars Kelly Clarkson and Justin Guarini , [ 70 ] the winner and runner-up, respectively, of the first season of American Idol.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/From_Justin_to_Kelly_(2003)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=From+Justin+to+Kelly",
     "preview_url": "https://www.youtube.com/results?search_query=From+Justin+to+Kelly+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/From+Justin+to+Kelly+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/From+Justin+to+Kelly+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Ghost Rider",
@@ -890,7 +979,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ghost+Rider",
     "preview_url": "https://www.youtube.com/results?search_query=Ghost+Rider+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Ghost Rider: Spirit of Vengeance",
@@ -904,7 +996,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ghost+Rider%3A+Spirit+of+Vengeance",
     "preview_url": "https://www.youtube.com/results?search_query=Ghost+Rider%3A+Spirit+of+Vengeance+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider%3A+Spirit+of+Vengeance+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Gigli",
@@ -918,20 +1013,28 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gigli",
     "preview_url": "https://www.youtube.com/results?search_query=Gigli+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Gigli+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Glitter",
     "year": "2001",
     "rating": "6%",
-    "reviews": "86",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "Glitter received six Razzie nominations, and Carey won for Worst Actress.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Glitter_(2001)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Glitter",
     "preview_url": "https://www.youtube.com/results?search_query=Glitter+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Glitter+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Glitter+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Gone in 60 Seconds",
@@ -945,7 +1048,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gone+in+60+Seconds",
     "preview_url": "https://www.youtube.com/results?search_query=Gone+in+60+Seconds+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Gone+in+60+Seconds+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Gotti",
@@ -972,7 +1076,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Grand+Isle",
     "preview_url": "https://www.youtube.com/results?search_query=Grand+Isle+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Grand+Isle+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Grown Ups 2",
@@ -986,7 +1091,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Grown+Ups+2",
     "preview_url": "https://www.youtube.com/results?search_query=Grown+Ups+2+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Grown+Ups+2+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Guardians",
@@ -1013,7 +1119,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Guarding+Tess",
     "preview_url": "https://www.youtube.com/results?search_query=Guarding+Tess+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Guarding+Tess+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Hard Kill",
@@ -1040,20 +1147,25 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Hellboy",
     "preview_url": "https://www.youtube.com/results?search_query=Hellboy+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Hellboy+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Highlander 2: The Quickening",
     "year": "1991",
     "rating": "0%",
-    "reviews": "25",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "Listed on Wikipedia as a Rotten Tomatoes 0% film. Reviews recorded: 25.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Highlander_II:_The_Quickening",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Highlander+2%3A+The+Quickening",
     "preview_url": "https://www.youtube.com/results?search_query=Highlander+2%3A+The+Quickening+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Highlander+2%3A+The+Quickening+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Highlander+2%3A+The+Quickening+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Homecoming",
@@ -1080,7 +1192,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Honeymoon+in+Vegas",
     "preview_url": "https://www.youtube.com/results?search_query=Honeymoon+in+Vegas+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Honeymoon+in+Vegas+trailer",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "House of the Dead",
@@ -1094,7 +1209,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=House+of+the+Dead",
     "preview_url": "https://www.youtube.com/results?search_query=House+of+the+Dead+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/House+of+the+Dead+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Howard the Duck",
@@ -1108,7 +1224,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Howard+the+Duck",
     "preview_url": "https://www.youtube.com/results?search_query=Howard+the+Duck+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Howard+the+Duck+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "I Spit on Your Grave",
@@ -1135,7 +1254,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale",
     "preview_url": "https://www.youtube.com/results?search_query=In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/In+the+Name+of+the+King%3A+A+Dungeon+Siege+Tale+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Inchon",
@@ -1149,7 +1269,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Inchon",
     "preview_url": "https://www.youtube.com/results?search_query=Inchon+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Inchon+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Inspector Gadget 2",
@@ -1163,7 +1284,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Inspector+Gadget+2",
     "preview_url": "https://www.youtube.com/results?search_query=Inspector+Gadget+2+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Inspector+Gadget+2+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "It Could Happen to You",
@@ -1177,7 +1299,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=It+Could+Happen+to+You",
     "preview_url": "https://www.youtube.com/results?search_query=It+Could+Happen+to+You+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/It+Could+Happen+to+You+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Jack and Jill",
@@ -1185,12 +1308,17 @@
     "rating": "3%",
     "reviews": "N/A",
     "genre": "N/A",
-    "description": "Jack and Jill is a comedy film starring Adam Sandler as Jack, a commercial director, who is visited by his \"identical\" twin sister, Jill (played by Sandler, in drag ), [ 40 ] during the holidays.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Jack_and_Jill_(2011)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Jack+and+Jill",
     "preview_url": "https://www.youtube.com/results?search_query=Jack+and+Jill+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Jack+and+Jill+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Jack+and+Jill+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Jem and the Holograms",
@@ -1204,7 +1332,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Jem+and+the+Holograms",
     "preview_url": "https://www.youtube.com/results?search_query=Jem+and+the+Holograms+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Jem+and+the+Holograms+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Jiu Jitsu",
@@ -1218,7 +1347,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Jiu+Jitsu",
     "preview_url": "https://www.youtube.com/results?search_query=Jiu+Jitsu+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Jiu+Jitsu+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Joe",
@@ -1232,7 +1362,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Joe",
     "preview_url": "https://www.youtube.com/results?search_query=Joe+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Joe+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "John Henry",
@@ -1259,7 +1390,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kick-Ass",
     "preview_url": "https://www.youtube.com/results?search_query=Kick-Ass+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Kick-Ass+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Killing Gunther",
@@ -1273,7 +1405,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Killing+Gunther",
     "preview_url": "https://www.youtube.com/results?search_query=Killing+Gunther+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Killing+Gunther+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Killing Me Softly",
@@ -1300,7 +1433,11 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kirk+Cameron%27s+Saving+Christmas",
     "preview_url": "https://www.youtube.com/results?search_query=Kirk+Cameron%27s+Saving+Christmas+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Kirk+Cameron%27s+Saving+Christmas+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Kiss of Death",
@@ -1314,7 +1451,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kiss+of+Death",
     "preview_url": "https://www.youtube.com/results?search_query=Kiss+of+Death+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Kiss+of+Death+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Knowing",
@@ -1328,7 +1466,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Knowing",
     "preview_url": "https://www.youtube.com/results?search_query=Knowing+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Knowing+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Leaving Las Vegas",
@@ -1342,7 +1481,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Leaving+Las+Vegas",
     "preview_url": "https://www.youtube.com/results?search_query=Leaving+Las+Vegas+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Leaving+Las+Vegas+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Left Behind",
@@ -1369,7 +1509,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Leonard+Part+6",
     "preview_url": "https://www.youtube.com/results?search_query=Leonard+Part+6+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Leonard+Part+6+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Little Man",
@@ -1383,7 +1526,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Little+Man",
     "preview_url": "https://www.youtube.com/results?search_query=Little+Man+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Little+Man+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "London Fields",
@@ -1410,7 +1556,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Longlegs",
     "preview_url": "https://www.youtube.com/results?search_query=Longlegs+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Longlegs+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Look Who's Talking Now!",
@@ -1450,7 +1597,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Lord+of+War",
     "preview_url": "https://www.youtube.com/results?search_query=Lord+of+War+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Lord+of+War+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Mac and Me",
@@ -1458,12 +1606,16 @@
     "rating": "0%",
     "reviews": "N/A",
     "genre": "N/A",
-    "description": "Mac and Me is about a young boy in a wheelchair who meets and befriends an alien who has crash-landed on Earth.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Mac_and_Me_(1988)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Mac+and+Me",
     "preview_url": "https://www.youtube.com/results?search_query=Mac+and+Me+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Mac+and+Me+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Mac+and+Me+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Manos: The Hands of Fate",
@@ -1477,7 +1629,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Manos%3A+The+Hands+of+Fate",
     "preview_url": "https://www.youtube.com/results?search_query=Manos%3A+The+Hands+of+Fate+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Manos%3A+The+Hands+of+Fate+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Matchstick Men",
@@ -1491,7 +1646,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Matchstick+Men",
     "preview_url": "https://www.youtube.com/results?search_query=Matchstick+Men+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Matchstick+Men+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Max Steel",
@@ -1518,7 +1674,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Meet+the+Spartans",
     "preview_url": "https://www.youtube.com/results?search_query=Meet+the+Spartans+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Meet+the+Spartans+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Merci Docteur Rey",
@@ -1545,7 +1702,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Mom+and+Dad",
     "preview_url": "https://www.youtube.com/results?search_query=Mom+and+Dad+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Mom+and+Dad+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Moonstruck",
@@ -1559,7 +1717,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Moonstruck",
     "preview_url": "https://www.youtube.com/results?search_query=Moonstruck+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Moonstruck+trailer",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Morbius",
@@ -1573,7 +1734,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Morbius",
     "preview_url": "https://www.youtube.com/results?search_query=Morbius+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Morbius+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Mortdecai",
@@ -1587,7 +1751,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Mortdecai",
     "preview_url": "https://www.youtube.com/results?search_query=Mortdecai+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Mortdecai+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Movie 43",
@@ -1601,7 +1766,11 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Movie+43",
     "preview_url": "https://www.youtube.com/results?search_query=Movie+43+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Movie+43+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "National Lampoon's Gold Diggers",
@@ -1628,7 +1797,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Treasure",
     "preview_url": "https://www.youtube.com/results?search_query=National+Treasure+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -1642,7 +1812,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Treasure%3A+Book+of+Secrets",
     "preview_url": "https://www.youtube.com/results?search_query=National+Treasure%3A+Book+of+Secrets+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure%3A+Book+of+Secrets+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Next",
@@ -1656,7 +1827,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Next",
     "preview_url": "https://www.youtube.com/results?search_query=Next+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Next+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Norbit",
@@ -1670,7 +1842,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Norbit",
     "preview_url": "https://www.youtube.com/results?search_query=Norbit+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Norbit+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Norm of the North",
@@ -1684,7 +1859,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Norm+of+the+North",
     "preview_url": "https://www.youtube.com/results?search_query=Norm+of+the+North+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Norm+of+the+North+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "One Missed Call",
@@ -1711,7 +1887,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Outcast",
     "preview_url": "https://www.youtube.com/results?search_query=Outcast+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Outcast+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Paul Blart: Mall Cop 2",
@@ -1725,7 +1902,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Paul+Blart%3A+Mall+Cop+2",
     "preview_url": "https://www.youtube.com/results?search_query=Paul+Blart%3A+Mall+Cop+2+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Paul+Blart%3A+Mall+Cop+2+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Pay the Ghost",
@@ -1739,7 +1917,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pay+the+Ghost",
     "preview_url": "https://www.youtube.com/results?search_query=Pay+the+Ghost+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Pay+the+Ghost+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Peggy Sue Got Married",
@@ -1753,7 +1932,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Peggy+Sue+Got+Married",
     "preview_url": "https://www.youtube.com/results?search_query=Peggy+Sue+Got+Married+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Peggy+Sue+Got+Married+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Pig",
@@ -1767,7 +1947,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pig",
     "preview_url": "https://www.youtube.com/results?search_query=Pig+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Pig+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Pinocchio",
@@ -1794,20 +1975,25 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pixels",
     "preview_url": "https://www.youtube.com/results?search_query=Pixels+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Pixels+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Plan 9 from Outer Space",
     "year": "1957",
     "rating": "66%",
-    "reviews": "38",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "It holds a 66% rating on Rotten Tomatoes based on 38 reviews, with the consensus stating that it is \"justly celebrated for its staggering ineptitude\".",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space_(1957)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Plan+9+from+Outer+Space",
     "preview_url": "https://www.youtube.com/results?search_query=Plan+9+from+Outer+Space+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Plan+9+from+Outer+Space+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Plan+9+from+Outer+Space+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Playing for Keeps",
@@ -1821,7 +2007,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Playing+for+Keeps",
     "preview_url": "https://www.youtube.com/results?search_query=Playing+for+Keeps+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Playing+for+Keeps+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Police Academy 4: Citizens on Patrol",
@@ -1848,7 +2035,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Postal",
     "preview_url": "https://www.youtube.com/results?search_query=Postal+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Postal+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Precious Cargo",
@@ -1875,7 +2063,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Primal",
     "preview_url": "https://www.youtube.com/results?search_query=Primal+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Primal+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Prisoners of the Ghostland",
@@ -1889,7 +2078,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Prisoners+of+the+Ghostland",
     "preview_url": "https://www.youtube.com/results?search_query=Prisoners+of+the+Ghostland+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Prisoners+of+the+Ghostland+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Problem Child",
@@ -1916,7 +2106,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Racing+with+the+Moon",
     "preview_url": "https://www.youtube.com/results?search_query=Racing+with+the+Moon+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Racing+with+the+Moon+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Raising Arizona",
@@ -1930,7 +2121,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Raising+Arizona",
     "preview_url": "https://www.youtube.com/results?search_query=Raising+Arizona+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Raising+Arizona+trailer",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Red Rock West",
@@ -1944,7 +2138,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Red+Rock+West",
     "preview_url": "https://www.youtube.com/results?search_query=Red+Rock+West+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Red+Rock+West+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Redline",
@@ -1971,7 +2166,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Renfield",
     "preview_url": "https://www.youtube.com/results?search_query=Renfield+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Renfield+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Return to the Blue Lagoon",
@@ -1998,7 +2194,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Rollerball",
     "preview_url": "https://www.youtube.com/results?search_query=Rollerball+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Rollerball+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Rumble Fish",
@@ -2012,7 +2211,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Rumble+Fish",
     "preview_url": "https://www.youtube.com/results?search_query=Rumble+Fish+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Rumble+Fish+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Run for Your Wife",
@@ -2039,7 +2239,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Running+with+the+Devil",
     "preview_url": "https://www.youtube.com/results?search_query=Running+with+the+Devil+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Running+with+the+Devil+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Scar",
@@ -2066,7 +2267,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Season+of+the+Witch",
     "preview_url": "https://www.youtube.com/results?search_query=Season+of+the+Witch+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Season+of+the+Witch+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Seeking Justice",
@@ -2080,7 +2284,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Seeking+Justice",
     "preview_url": "https://www.youtube.com/results?search_query=Seeking+Justice+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Seeking+Justice+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Sex Lives of the Potato Men",
@@ -2107,7 +2312,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Showgirls",
     "preview_url": "https://www.youtube.com/results?search_query=Showgirls+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Showgirls+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Simon Sez",
@@ -2134,7 +2342,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Snake+Eyes",
     "preview_url": "https://www.youtube.com/results?search_query=Snake+Eyes+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Snake+Eyes+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Son of the Mask",
@@ -2148,7 +2357,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Son+of+the+Mask",
     "preview_url": "https://www.youtube.com/results?search_query=Son+of+the+Mask+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Son+of+the+Mask+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Speed 2: Cruise Control",
@@ -2162,7 +2374,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Speed+2%3A+Cruise+Control",
     "preview_url": "https://www.youtube.com/results?search_query=Speed+2%3A+Cruise+Control+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Speed+2%3A+Cruise+Control+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Stolen",
@@ -2189,7 +2404,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Strange+Magic",
     "preview_url": "https://www.youtube.com/results?search_query=Strange+Magic+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Strange+Magic+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Stratton",
@@ -2208,14 +2424,18 @@
     "title": "Superbabies: Baby Geniuses 2",
     "year": "2004",
     "rating": "0%",
-    "reviews": "46",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "Listed on Wikipedia as a Rotten Tomatoes 0% film. Reviews recorded: 46.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Superbabies:_Baby_Geniuses_2",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Superbabies%3A+Baby+Geniuses+2",
     "preview_url": "https://www.youtube.com/results?search_query=Superbabies%3A+Baby+Geniuses+2+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/Superbabies%3A+Baby+Geniuses+2+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/Superbabies%3A+Baby+Geniuses+2+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Sympathy for the Devil",
@@ -2229,7 +2449,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Sympathy+for+the+Devil",
     "preview_url": "https://www.youtube.com/results?search_query=Sympathy+for+the+Devil+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Sympathy+for+the+Devil+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Tarzan, the Ape Man",
@@ -2248,14 +2469,18 @@
     "title": "That's My Boy",
     "year": "2012",
     "rating": "20%",
-    "reviews": "115",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "Another comedy film starring Adam Sandler, That's My Boy concerns a middle school student named Donny Berger who was statutorily raped by his teacher who falls pregnant, and, in turn, he earns the lifestyle of a minor celebrity, something he never intended to happen.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/That's_My_Boy_(2012)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=That%27s+My+Boy",
     "preview_url": "https://www.youtube.com/results?search_query=That%27s+My+Boy+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/That%27s+My+Boy+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/That%27s+My+Boy+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "The Adventures of Pluto Nash",
@@ -2269,7 +2494,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Adventures+of+Pluto+Nash",
     "preview_url": "https://www.youtube.com/results?search_query=The+Adventures+of+Pluto+Nash+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Adventures+of+Pluto+Nash+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Ant Bully",
@@ -2283,7 +2509,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Ant+Bully",
     "preview_url": "https://www.youtube.com/results?search_query=The+Ant+Bully+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Ant+Bully+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Boy in Blue",
@@ -2297,7 +2524,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Boy+in+Blue",
     "preview_url": "https://www.youtube.com/results?search_query=The+Boy+in+Blue+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Boy+in+Blue+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Cotton Club",
@@ -2311,7 +2539,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Cotton+Club",
     "preview_url": "https://www.youtube.com/results?search_query=The+Cotton+Club+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Cotton+Club+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Croods",
@@ -2325,7 +2554,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Croods",
     "preview_url": "https://www.youtube.com/results?search_query=The+Croods+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Croods+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "The Croods: A New Age",
@@ -2339,7 +2569,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Croods%3A+A+New+Age",
     "preview_url": "https://www.youtube.com/results?search_query=The+Croods%3A+A+New+Age+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Croods%3A+A+New+Age+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Disappointments Room",
@@ -2366,7 +2597,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Emoji+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=The+Emoji+Movie+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Emoji+Movie+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Expendables 3",
@@ -2380,7 +2612,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Expendables+3",
     "preview_url": "https://www.youtube.com/results?search_query=The+Expendables+3+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Expendables+3+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Family Man",
@@ -2394,7 +2627,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Family+Man",
     "preview_url": "https://www.youtube.com/results?search_query=The+Family+Man+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Family+Man+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Frozen Ground",
@@ -2408,7 +2642,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Frozen+Ground",
     "preview_url": "https://www.youtube.com/results?search_query=The+Frozen+Ground+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Frozen+Ground+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Garbage Pail Kids Movie",
@@ -2416,12 +2651,16 @@
     "rating": "0%",
     "reviews": "N/A",
     "genre": "N/A",
-    "description": "The Garbage Pail Kids Movie is a 1987 live-action adaptation of the then-popular trading card series of the same name , itself a gross-out parody of the then-popular Cabbage Patch Kids dolls co-created by Pulitzer Prize -winning cartoonist Art Spiegelman.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/The_Garbage_Pail_Kids_Movie_(1987)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Garbage+Pail+Kids+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=The+Garbage+Pail+Kids+Movie+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Garbage+Pail+Kids+Movie+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Garbage+Pail+Kids+Movie+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "The Happening",
@@ -2435,7 +2674,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Happening",
     "preview_url": "https://www.youtube.com/results?search_query=The+Happening+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Happening+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Hottie and the Nottie",
@@ -2462,7 +2702,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Last+Airbender",
     "preview_url": "https://www.youtube.com/results?search_query=The+Last+Airbender+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Last+Airbender+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Last Days of American Crime",
@@ -2489,20 +2730,25 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Love+Guru",
     "preview_url": "https://www.youtube.com/results?search_query=The+Love+Guru+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Love+Guru+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Master of Disguise",
     "year": "2002",
     "rating": "1%",
-    "reviews": "105",
+    "reviews": "N/A",
     "genre": "N/A",
-    "description": "The comedy film The Master of Disguise was produced in part by Adam Sandler and stars Dana Carvey as Pistachio Disguisey, an undercover Italian waiter who must save his father Fabbrizio ( James Brolin ) from the evil Devlin Bowman ( Brent Spiner ) by using his inherent skills in disguise.",
+    "description": "",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/The_Master_of_Disguise_(2002)",
+    "wiki_url": null,
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Master+of+Disguise",
     "preview_url": "https://www.youtube.com/results?search_query=The+Master+of+Disguise+trailer",
-    "alt_preview_url": "https://www.dailymotion.com/search/The+Master+of+Disguise+trailer"
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Master+of+Disguise+trailer",
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "The Mummy",
@@ -2516,7 +2762,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Mummy",
     "preview_url": "https://www.youtube.com/results?search_query=The+Mummy+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Mummy+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Mummy Returns",
@@ -2530,7 +2777,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Mummy+Returns",
     "preview_url": "https://www.youtube.com/results?search_query=The+Mummy+Returns+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Mummy+Returns+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Nutcracker in 3D",
@@ -2557,7 +2805,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Old+Way",
     "preview_url": "https://www.youtube.com/results?search_query=The+Old+Way+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Old+Way+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Oogieloves in the Big Balloon Adventure",
@@ -2571,7 +2820,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Oogieloves+in+the+Big+Balloon+Adventure",
     "preview_url": "https://www.youtube.com/results?search_query=The+Oogieloves+in+the+Big+Balloon+Adventure+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Oogieloves+in+the+Big+Balloon+Adventure+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "The Queen's Corgi",
@@ -2611,7 +2863,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Rock",
     "preview_url": "https://www.youtube.com/results?search_query=The+Rock+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Rock+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Runner",
@@ -2625,7 +2878,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Runner",
     "preview_url": "https://www.youtube.com/results?search_query=The+Runner+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Runner+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Sorcerer's Apprentice",
@@ -2639,7 +2893,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Sorcerer%27s+Apprentice",
     "preview_url": "https://www.youtube.com/results?search_query=The+Sorcerer%27s+Apprentice+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Sorcerer%27s+Apprentice+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Surfer",
@@ -2653,7 +2908,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Surfer",
     "preview_url": "https://www.youtube.com/results?search_query=The+Surfer+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Surfer+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Trust",
@@ -2667,7 +2923,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Trust",
     "preview_url": "https://www.youtube.com/results?search_query=The+Trust+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Trust+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Unbearable Weight of Massive Talent",
@@ -2681,7 +2938,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Unbearable+Weight+of+Massive+Talent",
     "preview_url": "https://www.youtube.com/results?search_query=The+Unbearable+Weight+of+Massive+Talent+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Unbearable+Weight+of+Massive+Talent+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "The Weather Man",
@@ -2695,7 +2953,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Weather+Man",
     "preview_url": "https://www.youtube.com/results?search_query=The+Weather+Man+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Weather+Man+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "The Wicker Man",
@@ -2709,7 +2968,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Wicker+Man",
     "preview_url": "https://www.youtube.com/results?search_query=The+Wicker+Man+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Wicker+Man+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "They Saved Hitler's Brain",
@@ -2736,7 +2998,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Transformers%3A+The+Last+Knight",
     "preview_url": "https://www.youtube.com/results?search_query=Transformers%3A+The+Last+Knight+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Transformers%3A+The+Last+Knight+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Transylmania",
@@ -2763,7 +3026,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Trapped+in+Paradise",
     "preview_url": "https://www.youtube.com/results?search_query=Trapped+in+Paradise+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Trapped+in+Paradise+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "USS Indianapolis: Men of Courage",
@@ -2777,7 +3041,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=USS+Indianapolis%3A+Men+of+Courage",
     "preview_url": "https://www.youtube.com/results?search_query=USS+Indianapolis%3A+Men+of+Courage+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/USS+Indianapolis%3A+Men+of+Courage+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Valley Girl",
@@ -2791,7 +3056,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Valley+Girl",
     "preview_url": "https://www.youtube.com/results?search_query=Valley+Girl+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Valley+Girl+trailer",
-    "featured": true
+    "featured": true,
+    "tags": []
   },
   {
     "title": "Vampire's Kiss",
@@ -2805,7 +3071,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Vampire%27s+Kiss",
     "preview_url": "https://www.youtube.com/results?search_query=Vampire%27s+Kiss+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Vampire%27s+Kiss+trailer",
-    "featured": false
+    "featured": false,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Vampires Suck",
@@ -2819,7 +3088,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Vampires+Suck",
     "preview_url": "https://www.youtube.com/results?search_query=Vampires+Suck+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Vampires+Suck+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Wagons East!",
@@ -2846,7 +3116,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Who%27s+Your+Caddy%3F",
     "preview_url": "https://www.youtube.com/results?search_query=Who%27s+Your+Caddy%3F+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Who%27s+Your+Caddy%3F+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Wild at Heart",
@@ -2860,7 +3131,10 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Wild+at+Heart",
     "preview_url": "https://www.youtube.com/results?search_query=Wild+at+Heart+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Wild+at+Heart+trailer",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Willy's Wonderland",
@@ -2874,7 +3148,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Willy%27s+Wonderland",
     "preview_url": "https://www.youtube.com/results?search_query=Willy%27s+Wonderland+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Willy%27s+Wonderland+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Windtalkers",
@@ -2888,7 +3163,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Windtalkers",
     "preview_url": "https://www.youtube.com/results?search_query=Windtalkers+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Windtalkers+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "World Trade Center",
@@ -2902,7 +3178,8 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=World+Trade+Center",
     "preview_url": "https://www.youtube.com/results?search_query=World+Trade+Center+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/World+Trade+Center+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Zandalee",
@@ -2916,6 +3193,7 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Zandalee",
     "preview_url": "https://www.youtube.com/results?search_query=Zandalee+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Zandalee+trailer",
-    "featured": false
+    "featured": false,
+    "tags": []
   }
 ]

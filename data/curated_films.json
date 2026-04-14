@@ -27,7 +27,10 @@
     "genre": "Action/Superhero",
     "description": "Joel Schumacher's widely panned entry in the Batman franchise featuring George Clooney as Batman and Arnold Schwarzenegger as Mr. Freeze.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Battlefield Earth",
@@ -37,7 +40,11 @@
     "genre": "Sci-fi",
     "description": "John Travolta stars in this adaptation of L. Ron Hubbard's novel about alien conquerors in the year 3000.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Battlefield_Earth_(film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Battlefield_Earth_(film)",
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Baywatch",
@@ -57,7 +64,10 @@
     "genre": "Drama/Romance",
     "description": "Ultra-low-budget independent film about a gay couple fighting for the right to marry, notable for its poor production values.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Ben_%26_Arthur"
+    "wiki_url": "https://en.wikipedia.org/wiki/Ben_%26_Arthur",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Birdemic: Shock and Terror",
@@ -67,7 +77,10 @@
     "genre": "Horror",
     "description": "Cult bad-movie favorite about a small California town suddenly attacked by killer eagles and vultures with laughably poor CGI effects.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Birdemic:_Shock_and_Terror"
+    "wiki_url": "https://en.wikipedia.org/wiki/Birdemic:_Shock_and_Terror",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "BloodRayne",
@@ -97,7 +110,10 @@
     "genre": "Comedy",
     "description": "Nick Swardson plays a naive Midwestern man who discovers his parents were adult film stars and heads to Hollywood to follow in their footsteps.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Bucky_Larson:_Born_to_Be_a_Star"
+    "wiki_url": "https://en.wikipedia.org/wiki/Bucky_Larson:_Born_to_Be_a_Star",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Cats",
@@ -107,7 +123,11 @@
     "genre": "Musical/Fantasy",
     "description": "Tom Hooper's uncanny valley adaptation of the Andrew Lloyd Webber musical featuring celebrities in disturbing human-cat hybrid CGI form.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Cats_(2019_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Cats_(2019_film)",
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Catwoman",
@@ -117,7 +137,11 @@
     "genre": "Action/Superhero",
     "description": "Halle Berry plays a shy graphic artist who is killed and resurrected with the powers of a cat, fighting a cosmetics company conspiracy.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Catwoman_(film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Catwoman_(film)",
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "CHiPs",
@@ -147,7 +171,10 @@
     "genre": "Drama/Music",
     "description": "Vanilla Ice stars in this vehicle designed to capitalize on his music career, playing a rebellious rapper who falls for a small-town girl.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Cool_as_Ice"
+    "wiki_url": "https://en.wikipedia.org/wiki/Cool_as_Ice",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Crossroads",
@@ -157,7 +184,10 @@
     "genre": "Drama/Music",
     "description": "Britney Spears' film debut as a girl who road-trips across the country with childhood friends to reconnect with her absent mother.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Crossroads_(2002_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Crossroads_(2002_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Date Movie",
@@ -257,7 +287,10 @@
     "genre": "Animation/Comedy",
     "description": "A notoriously troubled animated film about brand mascots who come to life in a supermarket after hours, featuring horrifying CGI.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Foodfight!"
+    "wiki_url": "https://en.wikipedia.org/wiki/Foodfight!",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Ghost Rider: Spirit of Vengeance",
@@ -267,7 +300,10 @@
     "genre": "Action/Fantasy",
     "description": "Nicolas Cage reprises his role as Johnny Blaze/Ghost Rider, protecting a young boy from the devil in this Neveldine/Taylor sequel.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider:_Spirit_of_Vengeance"
+    "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider:_Spirit_of_Vengeance",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Gigli",
@@ -277,7 +313,11 @@
     "genre": "Romantic Comedy/Crime",
     "description": "Ben Affleck and Jennifer Lopez (then a real-life couple) star in this crime comedy about a low-level thug assigned to kidnap a prosecutor's brother.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Gigli"
+    "wiki_url": "https://en.wikipedia.org/wiki/Gigli",
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Grown Ups 2",
@@ -327,7 +367,10 @@
     "genre": "Comedy/Sci-fi",
     "description": "George Lucas produced this Marvel Comics adaptation about a talking duck from another planet who arrives on Earth and must save it from evil.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Howard_the_Duck_(film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Howard_the_Duck_(film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Inchon",
@@ -387,7 +430,11 @@
     "genre": "Documentary",
     "description": "Kirk Cameron argues that Christians should embrace holiday traditions like Christmas trees and feasting as part of their faith, winning the Razzie for Worst Picture.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Saving_Christmas"
+    "wiki_url": "https://en.wikipedia.org/wiki/Saving_Christmas",
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "Leonard Part 6",
@@ -397,7 +444,10 @@
     "genre": "Comedy/Action",
     "description": "Bill Cosby stars as a retired spy recruited to stop a villainous vegetarian from using animals to kill CIA agents. Cosby himself urged audiences not to see it.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Leonard_Part_6"
+    "wiki_url": "https://en.wikipedia.org/wiki/Leonard_Part_6",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Little Man",
@@ -407,7 +457,10 @@
     "genre": "Comedy",
     "description": "The Wayans Brothers comedy about a tiny jewel thief who disguises himself as a baby and is taken home by a couple desperate to have a child.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Little_Man_(2006_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Little_Man_(2006_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "The Love Guru",
@@ -427,7 +480,10 @@
     "genre": "Horror",
     "description": "Widely considered one of the worst films ever made: a vacationing family encounters a polygamist cult led by 'The Master'. Popularized by Mystery Science Theater 3000.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate"
+    "wiki_url": "https://en.wikipedia.org/wiki/Manos:_The_Hands_of_Fate",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Meet the Spartans",
@@ -447,7 +503,10 @@
     "genre": "Action/Superhero",
     "description": "Jared Leto plays Marvel's vampire anti-hero Dr. Michael Morbius in Sony's Spider-Man Universe entry that became a punchline for its 'Morbin Time' meme.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Morbius_(film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Morbius_(film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Mortdecai",
@@ -467,7 +526,11 @@
     "genre": "Comedy/Anthology",
     "description": "Star-studded (Hugh Jackman, Kate Winslet, Halle Berry) anthology of absurdist sketches so jaw-droppingly tasteless critics called it the 'Citizen Kane of bad movies.'",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Movie_43"
+    "wiki_url": "https://en.wikipedia.org/wiki/Movie_43",
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
   },
   {
     "title": "The Mummy",
@@ -487,7 +550,10 @@
     "genre": "Comedy",
     "description": "Eddie Murphy plays multiple roles including the meek Norbit and his domineering obese wife Rasputia in this broadly-played comedy.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Norbit"
+    "wiki_url": "https://en.wikipedia.org/wiki/Norbit",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Norm of the North",
@@ -507,7 +573,10 @@
     "genre": "Family/Musical",
     "description": "An interactive children's film designed to encourage audience participation, it holds records for one of the worst wide-release opening weekends.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/The_Oogieloves_in_the_Big_Balloon_Adventure"
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Oogieloves_in_the_Big_Balloon_Adventure",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Paul Blart: Mall Cop 2",
@@ -567,7 +636,10 @@
     "genre": "Action",
     "description": "John McTiernan's remake of the 1975 classic about a brutal futuristic sport, notorious for its incomprehensible night-vision chase sequence.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Rollerball_(2002_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Rollerball_(2002_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Showgirls",
@@ -577,7 +649,10 @@
     "genre": "Drama",
     "description": "Paul Verhoeven's NC-17 drama starring Elizabeth Berkley as an ambitious young dancer who claws her way to the top of Las Vegas showgirl scene.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Showgirls"
+    "wiki_url": "https://en.wikipedia.org/wiki/Showgirls",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Son of the Mask",
@@ -587,7 +662,10 @@
     "genre": "Fantasy/Comedy",
     "description": "Jamie Kennedy stars in this sequel to The Mask, in which a man discovers his newborn son is inhabited by the spirit of Loki and the magical Norse mask.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Son_of_the_Mask"
+    "wiki_url": "https://en.wikipedia.org/wiki/Son_of_the_Mask",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "A Sound of Thunder",
@@ -607,7 +685,10 @@
     "genre": "Action",
     "description": "Sandra Bullock returns without Keanu Reeves for this sequel in which a computer hacker hijacks a luxury cruise ship.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Speed_2:_Cruise_Control"
+    "wiki_url": "https://en.wikipedia.org/wiki/Speed_2:_Cruise_Control",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Strange Magic",
@@ -667,7 +748,10 @@
     "genre": "Horror",
     "description": "Nicolas Cage stars in this bizarre remake of the 1973 British horror classic, famous for its unintentionally hilarious scenes including Cage in a bear suit.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/The_Wicker_Man_(2006_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Wicker_Man_(2006_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Who's Your Caddy?",
@@ -687,7 +771,10 @@
     "genre": "Horror/Comedy",
     "description": "Nicolas Cage plays a literary agent who believes he is turning into a vampire after a one-night stand. Famous for Cage eating a real cockroach on camera and his unhinged performance.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Vampire%27s_Kiss"
+    "wiki_url": "https://en.wikipedia.org/wiki/Vampire%27s_Kiss",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Deadfall",
@@ -697,7 +784,10 @@
     "genre": "Crime/Thriller",
     "description": "Nicolas Cage plays a charismatic con man in this neo-noir crime thriller. Cage delivers one of his most memorably over-the-top performances as the unhinged Eddie.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Deadfall_(1993_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Deadfall_(1993_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Trapped in Paradise",
@@ -727,7 +817,10 @@
     "genre": "Action/Thriller",
     "description": "Nicolas Cage sports a legendary mullet as a parolee trapped on a prison transport plane taken over by the most dangerous criminals in America.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Con_Air"
+    "wiki_url": "https://en.wikipedia.org/wiki/Con_Air",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Snake Eyes",
@@ -827,7 +920,10 @@
     "genre": "Action/Superhero",
     "description": "Nicolas Cage fulfills a lifelong dream playing Johnny Blaze, a stunt motorcyclist who sells his soul to the devil and becomes the Ghost Rider. Critics found it joyless and incoherent.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider_(film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider_(film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -857,7 +953,10 @@
     "genre": "Action/Crime",
     "description": "Nicolas Cage plays an emotionless hit man on a job in Bangkok who unexpectedly falls for a local woman. Remake of the 1999 Thai film, notable for Cage's inexplicable hairpiece.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Bangkok_Dangerous_(2008_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Bangkok_Dangerous_(2008_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Knowing",
@@ -887,7 +986,10 @@
     "genre": "Action/Horror",
     "description": "Nicolas Cage and Ron Perlman play 14th-century Crusader knights tasked with transporting a suspected witch who may be responsible for the Black Plague.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Season_of_the_Witch_(2011_film)"
+    "wiki_url": "https://en.wikipedia.org/wiki/Season_of_the_Witch_(2011_film)",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Drive Angry",
@@ -897,7 +999,10 @@
     "genre": "Action/Horror",
     "description": "Nicolas Cage plays a man who literally escapes from Hell to avenge his daughter's death and rescue his granddaughter from a Satanic cult. Shot in 3D.",
     "poster": null,
-    "wiki_url": "https://en.wikipedia.org/wiki/Drive_Angry"
+    "wiki_url": "https://en.wikipedia.org/wiki/Drive_Angry",
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Seeking Justice",
@@ -1153,7 +1258,10 @@
     "description": "The Coen Brothers' anarchic comedy about a petty criminal (Nicolas Cage) and his ex-cop wife (Holly Hunter) who kidnap a baby from a furniture mogul who has quintuplets. A defining Cage performance.",
     "poster": null,
     "wiki_url": "https://en.wikipedia.org/wiki/Raising_Arizona",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Moonstruck",
@@ -1164,7 +1272,10 @@
     "description": "Nicolas Cage plays Ronny Cammareri, a one-handed baker who falls passionately in love with his brother's fiancée (Cher) in this Oscar-winning romantic comedy set in Brooklyn's Italian-American community.",
     "poster": null,
     "wiki_url": "https://en.wikipedia.org/wiki/Moonstruck",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Fire Birds",
@@ -1185,7 +1296,10 @@
     "description": "David Lynch's Palme d'Or-winning road movie starring Nicolas Cage and Laura Dern as lovers on the run from a hitman hired by her mother. Cage gives an Elvis-infused performance that is uniquely unhinged.",
     "poster": null,
     "wiki_url": "https://en.wikipedia.org/wiki/Wild_at_Heart_(film)",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Zandalee",
@@ -1206,7 +1320,10 @@
     "description": "Nicolas Cage plays a commitment-phobic private eye who loses his girlfriend in a poker game to a smooth Vegas gambler (James Caan). Features Cage skydiving in an Elvis suit.",
     "poster": null,
     "wiki_url": "https://en.wikipedia.org/wiki/Honeymoon_in_Vegas",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Amos & Andrew",
@@ -1279,7 +1396,10 @@
     "description": "John Woo's operatic action film in which Nicolas Cage and John Travolta literally swap faces — and identities. Each actor gets to play the other's character, resulting in glorious dual-Cage chaos.",
     "poster": null,
     "wiki_url": "https://en.wikipedia.org/wiki/Face/Off",
-    "featured": true
+    "featured": true,
+    "tags": [
+      "so-bad-its-good"
+    ]
   },
   {
     "title": "Bringing Out the Dead",
@@ -1522,5 +1642,150 @@
     "description": "Nicolas Cage plays a man who returns to the Australian beach of his childhood and is terrorised by a gang of locals who own the beach. A sun-scorched psychological thriller.",
     "poster": null,
     "wiki_url": "https://en.wikipedia.org/wiki/The_Surfer_(film)"
+  },
+  {
+    "title": "Plan 9 from Outer Space",
+    "year": "1957",
+    "rating": "66%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "Mac and Me",
+    "year": "1988",
+    "rating": "0%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "The Garbage Pail Kids Movie",
+    "year": "1987",
+    "rating": "0%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "Highlander 2: The Quickening",
+    "year": "1991",
+    "rating": "0%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "Glitter",
+    "year": "2001",
+    "rating": "6%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "From Justin to Kelly",
+    "year": "2003",
+    "rating": "10%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "Freddy Got Fingered",
+    "year": "2001",
+    "rating": "12%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
+  },
+  {
+    "title": "Jack and Jill",
+    "year": "2011",
+    "rating": "3%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good",
+      "razzie-winner"
+    ]
+  },
+  {
+    "title": "The Master of Disguise",
+    "year": "2002",
+    "rating": "1%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "Superbabies: Baby Geniuses 2",
+    "year": "2004",
+    "rating": "0%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
+  },
+  {
+    "title": "That's My Boy",
+    "year": "2012",
+    "rating": "20%",
+    "reviews": "N/A",
+    "genre": "N/A",
+    "description": "",
+    "poster": null,
+    "wiki_url": null,
+    "tags": [
+      "so-bad-its-good"
+    ]
   }
 ]

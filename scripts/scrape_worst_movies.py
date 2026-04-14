@@ -19,17 +19,25 @@ def main(limit: int = 1000, max_score: int = 70) -> None:
     # sources (e.g. Wikipedia blocked by egress) are preserved.
     if OUTPUT.exists():
         existing = json.loads(OUTPUT.read_text(encoding="utf-8"))
-        seen_keys = {(m["title"].lower(), m["year"]) for m in movies}
+        # Build index by key for tag merging
+        new_index = {(m["title"].lower(), m["year"]): m for m in movies}
         for m in existing:
             key = (m["title"].lower(), m["year"])
-            if key not in seen_keys:
+            if key in new_index:
+                # Merge tags from the stored copy onto the freshly scraped entry
+                old_tags = set(m.get("tags", []))
+                new_tags = set(new_index[key].get("tags", []))
+                merged = list(old_tags | new_tags)
+                if merged:
+                    new_index[key]["tags"] = merged
+            else:
                 try:
                     rt = int(str(m.get("rating", "999")).rstrip("%"))
                 except ValueError:
                     continue
-                if rt <= max_score:
+                if rt <= max_score or m.get("featured"):
                     movies.append(m)
-                    seen_keys.add(key)
+                    new_index[key] = m
 
     movies.sort(key=lambda m: m["title"].lower())
     movies = movies[:limit]

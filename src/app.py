@@ -187,6 +187,7 @@ def load_curated_movies(max_score: int = 70):
                 "preview_url": build_youtube_search_url(f"{title} trailer"),
                 "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
                 "featured": featured,
+                "tags": list(m.get("tags", [])),
             }
         )
     return movies
@@ -375,10 +376,19 @@ def scrape_worst_movies(limit: int = 1000, max_score: int = 70):
             unique_movies[key] = movie
             continue
 
+        # Merge tags and featured flag from both entries before deciding winner
+        merged_tags = list({*existing.get("tags", []), *movie.get("tags", [])})
+        merged_featured = existing.get("featured") or movie.get("featured")
+
         current_rating = int(movie["rating"].rstrip("%"))
         existing_rating = int(existing["rating"].rstrip("%"))
         if current_rating < existing_rating:
             unique_movies[key] = movie
+
+        if merged_tags:
+            unique_movies[key]["tags"] = merged_tags
+        if merged_featured:
+            unique_movies[key]["featured"] = True
 
     movies = [
         movie
