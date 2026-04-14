@@ -110,6 +110,15 @@
             text-decoration: underline;
         }
 
+        .error {
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 12px;
+            background: #7f1d1d;
+            color: #fee2e2;
+            border: 1px solid #ef4444;
+        }
+
         .footer {
             margin-top: 2rem;
             color: #94a3b8;
@@ -121,15 +130,19 @@
 <body>
     <div class="page">
         <header>
-            <h1>Worst Rated English Movies</h1>
-            <p class="intro">Browse the lowest-rated English feature films from IMDb and open preview links on YouTube
-                or Dailymotion.</p>
+            <h1>Worst Rated Movies</h1>
+            <p class="intro">Browse films from Wikipedia's Rotten Tomatoes 0% list and open links to Rotten Tomatoes,
+                YouTube, or Dailymotion.</p>
         </header>
 
         <form class="search" method="get" action="/">
             <input name="search" type="search" placeholder="Filter by title..." value="{{ search }}" />
             <button type="submit">Filter</button>
         </form>
+
+        {% if error %}
+        <div class="error">{{ error }}</div>
+        {% endif %}
 
         {% if movies %}
         <div class="movie-grid">
@@ -141,12 +154,15 @@
                 <div class="content">
                     <div>
                         <h2>{{ movie.title }}</h2>
-                        <div class="meta">{{ movie.year }} · {{ movie.runtime }} · {{ movie.genre }}</div>
+                        <div class="meta">{{ movie.year }} · {{ movie.reviews }} reviews</div>
                     </div>
-                    <div class="meta">IMDb Rating: {{ movie.rating }}</div>
+                    <div class="meta">Rotten Tomatoes score: {{ movie.rating }}</div>
                     <p class="description">{{ movie.description }}</p>
                     <div class="links">
-                        <a href="{{ movie.imdb_url }}" target="_blank" rel="noreferrer">IMDb page</a> ·
+                        {% if movie.wiki_url %}<a href="{{ movie.wiki_url }}" target="_blank" rel="noreferrer">Wikipedia
+                            page</a> ·{% endif %}
+                        <a href="{{ movie.rotten_tomatoes_url }}" target="_blank" rel="noreferrer">Rotten Tomatoes
+                            search</a> ·
                         <a href="{{ movie.preview_url }}" target="_blank" rel="noreferrer">YouTube preview</a> ·
                         <a href="{{ movie.alt_preview_url }}" target="_blank" rel="noreferrer">Dailymotion preview</a>
                     </div>
@@ -158,8 +174,8 @@
         <p>No movies found.</p>
         {% endif %}
 
-        <div class="footer">Data is scraped live from IMDb search results for English feature films sorted by lowest
-            rating.</div>
+        <div class="footer">Data is scraped live from Wikipedia's Rotten Tomatoes 0% page, with direct Rotten Tomatoes
+            search links.</div>
     </div>
 </body>
 
