@@ -1,5 +1,18 @@
 [
   {
+    "title": "211",
+    "year": "2018",
+    "rating": "5%",
+    "reviews": "22",
+    "genre": "Action/Crime",
+    "description": "Nicolas Cage plays a police officer caught in the middle of a bank heist gone wrong. A day in the life of a cop told through multiple perspectives.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/211_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=211",
+    "preview_url": "https://www.youtube.com/results?search_query=211+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/211+trailer"
+  },
+  {
     "title": "3 Strikes",
     "year": "2000",
     "rating": "0%",
@@ -11,6 +24,32 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=3+Strikes",
     "preview_url": "https://www.youtube.com/results?search_query=3+Strikes+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/3+Strikes+trailer"
+  },
+  {
+    "title": "8MM",
+    "year": "1999",
+    "rating": "26%",
+    "reviews": "112",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays a private investigator hired to determine if a snuff film is real. Dark, grimy thriller written by Andrew Kevin Walker that critics found sordid and empty.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/8MM_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=8MM",
+    "preview_url": "https://www.youtube.com/results?search_query=8MM+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/8MM+trailer"
+  },
+  {
+    "title": "A Score to Settle",
+    "year": "2019",
+    "rating": "0%",
+    "reviews": "16",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays a mob enforcer released from prison after 22 years who wants to reconnect with his son and get revenge on those who framed him.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/A_Score_to_Settle",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=A+Score+to+Settle",
+    "preview_url": "https://www.youtube.com/results?search_query=A+Score+to+Settle+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/A+Score+to+Settle+trailer"
   },
   {
     "title": "A Sound of Thunder",
@@ -78,6 +117,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Armor+trailer"
   },
   {
+    "title": "Arsenal",
+    "year": "2017",
+    "rating": "0%",
+    "reviews": "14",
+    "genre": "Action/Crime",
+    "description": "Nicolas Cage plays a southern crime boss with a prosthetic nose in this revenge thriller about a man trying to save his kidnapped brother.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Arsenal_(2017_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Arsenal",
+    "preview_url": "https://www.youtube.com/results?search_query=Arsenal+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Arsenal+trailer"
+  },
+  {
     "title": "Artemis Fowl",
     "year": "2020",
     "rating": "9%",
@@ -102,6 +154,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ballistic%3A+Ecks+vs.+Sever",
     "preview_url": "https://www.youtube.com/results?search_query=Ballistic%3A+Ecks+vs.+Sever+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Ballistic%3A+Ecks+vs.+Sever+trailer"
+  },
+  {
+    "title": "Bangkok Dangerous",
+    "year": "2008",
+    "rating": "9%",
+    "reviews": "91",
+    "genre": "Action/Crime",
+    "description": "Nicolas Cage plays an emotionless hit man on a job in Bangkok who unexpectedly falls for a local woman. Remake of the 1999 Thai film, notable for Cage's inexplicable hairpiece.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Bangkok_Dangerous_(2008_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Bangkok+Dangerous",
+    "preview_url": "https://www.youtube.com/results?search_query=Bangkok+Dangerous+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Bangkok+Dangerous+trailer"
   },
   {
     "title": "Batman & Robin",
@@ -260,6 +325,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Caligula+trailer"
   },
   {
+    "title": "Captain Corelli's Mandolin",
+    "year": "2001",
+    "rating": "32%",
+    "reviews": "113",
+    "genre": "Romance/War",
+    "description": "Nicolas Cage plays an Italian officer stationed on a Greek island during WWII who falls for a local woman (Penélope Cruz). Critics panned Cage's accent and the sanitized adaptation.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Captain_Corelli%27s_Mandolin_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Captain+Corelli%27s+Mandolin",
+    "preview_url": "https://www.youtube.com/results?search_query=Captain+Corelli%27s+Mandolin+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Captain+Corelli%27s+Mandolin+trailer"
+  },
+  {
     "title": "Cats",
     "year": "2019",
     "rating": "19%",
@@ -299,6 +377,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/CHiPs+trailer"
   },
   {
+    "title": "City of Angels",
+    "year": "1998",
+    "rating": "54%",
+    "reviews": "88",
+    "genre": "Romance/Fantasy",
+    "description": "Nicolas Cage plays a guardian angel who falls in love with a surgeon (Meg Ryan) and considers giving up his immortality to be with her. Remake of Wings of Desire.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/City_of_Angels_(1998_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=City+of+Angels",
+    "preview_url": "https://www.youtube.com/results?search_query=City+of+Angels+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/City+of+Angels+trailer"
+  },
+  {
     "title": "Collateral Beauty",
     "year": "2016",
     "rating": "12%",
@@ -310,6 +401,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Collateral+Beauty",
     "preview_url": "https://www.youtube.com/results?search_query=Collateral+Beauty+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Collateral+Beauty+trailer"
+  },
+  {
+    "title": "Con Air",
+    "year": "1997",
+    "rating": "56%",
+    "reviews": "68",
+    "genre": "Action/Thriller",
+    "description": "Nicolas Cage sports a legendary mullet as a parolee trapped on a prison transport plane taken over by the most dangerous criminals in America.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Con_Air",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Con+Air",
+    "preview_url": "https://www.youtube.com/results?search_query=Con+Air+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Con+Air+trailer"
   },
   {
     "title": "Constellation",
@@ -390,6 +494,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Date+Movie+trailer"
   },
   {
+    "title": "Deadfall",
+    "year": "1993",
+    "rating": "0%",
+    "reviews": "9",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays a charismatic con man in this neo-noir crime thriller. Cage delivers one of his most memorably over-the-top performances as the unhinged Eddie.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Deadfall_(1993_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Deadfall",
+    "preview_url": "https://www.youtube.com/results?search_query=Deadfall+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Deadfall+trailer"
+  },
+  {
     "title": "Delgo",
     "year": "2008",
     "rating": "7%",
@@ -442,6 +559,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Disaster+Movie+trailer"
   },
   {
+    "title": "Dog Eat Dog",
+    "year": "2016",
+    "rating": "46%",
+    "reviews": "68",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage and Willem Dafoe play ex-cons hired for a kidnapping job that spirals into chaos. Paul Schrader's frantic crime film divided critics sharply.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Dog_Eat_Dog_(2016_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dog+Eat+Dog",
+    "preview_url": "https://www.youtube.com/results?search_query=Dog+Eat+Dog+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Dog+Eat+Dog+trailer"
+  },
+  {
     "title": "Dolittle",
     "year": "2020",
     "rating": "14%",
@@ -466,6 +596,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Dragonball+Evolution",
     "preview_url": "https://www.youtube.com/results?search_query=Dragonball+Evolution+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Dragonball+Evolution+trailer"
+  },
+  {
+    "title": "Drive Angry",
+    "year": "2011",
+    "rating": "45%",
+    "reviews": "116",
+    "genre": "Action/Horror",
+    "description": "Nicolas Cage plays a man who literally escapes from Hell to avenge his daughter's death and rescue his granddaughter from a Satanic cult. Shot in 3D.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Drive_Angry",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Drive+Angry",
+    "preview_url": "https://www.youtube.com/results?search_query=Drive+Angry+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Drive+Angry+trailer"
   },
   {
     "title": "Epic Movie",
@@ -559,6 +702,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/From+Justin+to+Kelly+trailer"
   },
   {
+    "title": "Ghost Rider",
+    "year": "2007",
+    "rating": "26%",
+    "reviews": "171",
+    "genre": "Action/Superhero",
+    "description": "Nicolas Cage fulfills a lifelong dream playing Johnny Blaze, a stunt motorcyclist who sells his soul to the devil and becomes the Ghost Rider. Critics found it joyless and incoherent.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Ghost_Rider_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Ghost+Rider",
+    "preview_url": "https://www.youtube.com/results?search_query=Ghost+Rider+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Ghost+Rider+trailer"
+  },
+  {
     "title": "Ghost Rider: Spirit of Vengeance",
     "year": "2012",
     "rating": "17%",
@@ -598,6 +754,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Glitter+trailer"
   },
   {
+    "title": "Gone in 60 Seconds",
+    "year": "2000",
+    "rating": "40%",
+    "reviews": "125",
+    "genre": "Action/Crime",
+    "description": "Nicolas Cage plays a retired car thief forced back into the life to save his brother, stealing 50 cars in one night. Remake of the 1974 cult film.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Gone_in_60_Seconds_(2000_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gone+in+60+Seconds",
+    "preview_url": "https://www.youtube.com/results?search_query=Gone+in+60+Seconds+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Gone+in+60+Seconds+trailer"
+  },
+  {
     "title": "Gotti",
     "year": "2018",
     "rating": "0%",
@@ -609,6 +778,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Gotti",
     "preview_url": "https://www.youtube.com/results?search_query=Gotti+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Gotti+trailer"
+  },
+  {
+    "title": "Grand Isle",
+    "year": "2019",
+    "rating": "0%",
+    "reviews": "13",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays a Louisiana homeowner who manipulates a young handyman into taking the fall for a murder during Hurricane Gustav.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Grand_Isle_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Grand+Isle",
+    "preview_url": "https://www.youtube.com/results?search_query=Grand+Isle+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Grand+Isle+trailer"
   },
   {
     "title": "Grown Ups 2",
@@ -793,6 +975,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Jem+and+the+Holograms+trailer"
   },
   {
+    "title": "Jiu Jitsu",
+    "year": "2020",
+    "rating": "27%",
+    "reviews": "30",
+    "genre": "Action/Sci-fi",
+    "description": "Nicolas Cage plays a legendary jiu-jitsu fighter who must team up with a group of warriors to defeat an alien who visits Earth every six years to fight the best fighters.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Jiu_Jitsu_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Jiu+Jitsu",
+    "preview_url": "https://www.youtube.com/results?search_query=Jiu+Jitsu+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Jiu+Jitsu+trailer"
+  },
+  {
     "title": "John Henry",
     "year": "2020",
     "rating": "0%",
@@ -843,6 +1038,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Kirk+Cameron%27s+Saving+Christmas",
     "preview_url": "https://www.youtube.com/results?search_query=Kirk+Cameron%27s+Saving+Christmas+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Kirk+Cameron%27s+Saving+Christmas+trailer"
+  },
+  {
+    "title": "Knowing",
+    "year": "2009",
+    "rating": "33%",
+    "reviews": "216",
+    "genre": "Sci-fi/Thriller",
+    "description": "Nicolas Cage plays an MIT astrophysics professor who discovers a list of numbers predicting every major disaster since 1959. Alex Proyas directs this apocalyptic thriller.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Knowing_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Knowing",
+    "preview_url": "https://www.youtube.com/results?search_query=Knowing+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Knowing+trailer"
   },
   {
     "title": "Left Behind",
@@ -921,6 +1129,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Loqueesha",
     "preview_url": "https://www.youtube.com/results?search_query=Loqueesha+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Loqueesha+trailer"
+  },
+  {
+    "title": "Lord of War",
+    "year": "2005",
+    "rating": "61%",
+    "reviews": "163",
+    "genre": "Crime/Drama",
+    "description": "Nicolas Cage plays an arms dealer who supplies weapons to warlords around the world. Stylish but uneven satire written and directed by Andrew Niccol.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Lord_of_War",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Lord+of+War",
+    "preview_url": "https://www.youtube.com/results?search_query=Lord+of+War+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Lord+of+War+trailer"
   },
   {
     "title": "Mac and Me",
@@ -1040,6 +1261,45 @@
     "alt_preview_url": "https://www.dailymotion.com/search/National+Lampoon%27s+Gold+Diggers+trailer"
   },
   {
+    "title": "National Treasure",
+    "year": "2004",
+    "rating": "46%",
+    "reviews": "172",
+    "genre": "Action/Adventure",
+    "description": "Nicolas Cage plays a historian who steals the Declaration of Independence to follow clues to a legendary Freemason treasure. Beloved by audiences, dismissed by critics.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/National_Treasure_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Treasure",
+    "preview_url": "https://www.youtube.com/results?search_query=National+Treasure+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure+trailer"
+  },
+  {
+    "title": "National Treasure: Book of Secrets",
+    "year": "2007",
+    "rating": "35%",
+    "reviews": "158",
+    "genre": "Action/Adventure",
+    "description": "Nicolas Cage returns as treasure hunter Ben Gates, this time to clear his ancestor's name by finding a legendary city of gold. More of the same, worse.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=National+Treasure%3A+Book+of+Secrets",
+    "preview_url": "https://www.youtube.com/results?search_query=National+Treasure%3A+Book+of+Secrets+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/National+Treasure%3A+Book+of+Secrets+trailer"
+  },
+  {
+    "title": "Next",
+    "year": "2007",
+    "rating": "26%",
+    "reviews": "121",
+    "genre": "Sci-fi/Action",
+    "description": "Nicolas Cage plays a Las Vegas magician who can see two minutes into his own future and is hunted by the FBI to help stop a nuclear terrorist attack.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Next_(2007_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Next",
+    "preview_url": "https://www.youtube.com/results?search_query=Next+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Next+trailer"
+  },
+  {
     "title": "Norbit",
     "year": "2007",
     "rating": "9%",
@@ -1079,6 +1339,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/One+Missed+Call+trailer"
   },
   {
+    "title": "Outcast",
+    "year": "2014",
+    "rating": "0%",
+    "reviews": "17",
+    "genre": "Action/Adventure",
+    "description": "Nicolas Cage and Hayden Christensen play Crusader knights in ancient China who protect a young prince. A bewildering misfire from start to finish.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Outcast_(2014_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Outcast",
+    "preview_url": "https://www.youtube.com/results?search_query=Outcast+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Outcast+trailer"
+  },
+  {
     "title": "Paul Blart: Mall Cop 2",
     "year": "2015",
     "rating": "5%",
@@ -1090,6 +1363,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Paul+Blart%3A+Mall+Cop+2",
     "preview_url": "https://www.youtube.com/results?search_query=Paul+Blart%3A+Mall+Cop+2+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Paul+Blart%3A+Mall+Cop+2+trailer"
+  },
+  {
+    "title": "Pay the Ghost",
+    "year": "2015",
+    "rating": "6%",
+    "reviews": "35",
+    "genre": "Horror/Thriller",
+    "description": "Nicolas Cage plays a professor whose son vanishes on Halloween night, leading him to uncover an ancient supernatural force that takes children.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Pay_the_Ghost",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Pay+the+Ghost",
+    "preview_url": "https://www.youtube.com/results?search_query=Pay+the+Ghost+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Pay+the+Ghost+trailer"
   },
   {
     "title": "Pinocchio",
@@ -1183,6 +1469,32 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Precious+Cargo+trailer"
   },
   {
+    "title": "Primal",
+    "year": "2019",
+    "rating": "33%",
+    "reviews": "24",
+    "genre": "Action/Thriller",
+    "description": "Nicolas Cage plays a big-game hunter transporting exotic animals on a cargo ship, forced to stop a dangerous assassin who escapes and releases the animals.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Primal_(2019_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Primal",
+    "preview_url": "https://www.youtube.com/results?search_query=Primal+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Primal+trailer"
+  },
+  {
+    "title": "Prisoners of the Ghostland",
+    "year": "2021",
+    "rating": "64%",
+    "reviews": "100",
+    "genre": "Action/Western",
+    "description": "Nicolas Cage plays a notorious criminal sent to rescue the adopted granddaughter of a ruthless governor from a supernatural purgatory in this bizarre Japanese-American co-production.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Prisoners_of_the_Ghostland",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Prisoners+of+the+Ghostland",
+    "preview_url": "https://www.youtube.com/results?search_query=Prisoners+of+the+Ghostland+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Prisoners+of+the+Ghostland+trailer"
+  },
+  {
     "title": "Problem Child",
     "year": "1990",
     "rating": "0%",
@@ -1207,6 +1519,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Redline",
     "preview_url": "https://www.youtube.com/results?search_query=Redline+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Redline+trailer"
+  },
+  {
+    "title": "Renfield",
+    "year": "2023",
+    "rating": "62%",
+    "reviews": "233",
+    "genre": "Horror/Comedy",
+    "description": "Nicolas Cage plays Dracula in this horror-comedy about his long-suffering familiar Renfield (Nicholas Hoult) trying to break free from his toxic relationship with the vampire lord.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Renfield_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Renfield",
+    "preview_url": "https://www.youtube.com/results?search_query=Renfield+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Renfield+trailer"
   },
   {
     "title": "Return to the Blue Lagoon",
@@ -1248,6 +1573,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Run+for+Your+Wife+trailer"
   },
   {
+    "title": "Running with the Devil",
+    "year": "2019",
+    "rating": "0%",
+    "reviews": "15",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage and Laurence Fishburne star in this drug cartel thriller following cocaine shipments from South America to the US, told through multiple perspectives.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Running_with_the_Devil_(2019_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Running+with+the+Devil",
+    "preview_url": "https://www.youtube.com/results?search_query=Running+with+the+Devil+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Running+with+the+Devil+trailer"
+  },
+  {
     "title": "Scar",
     "year": "17",
     "rating": "0%",
@@ -1259,6 +1597,32 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Scar",
     "preview_url": "https://www.youtube.com/results?search_query=Scar+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Scar+trailer"
+  },
+  {
+    "title": "Season of the Witch",
+    "year": "2011",
+    "rating": "11%",
+    "reviews": "101",
+    "genre": "Action/Horror",
+    "description": "Nicolas Cage and Ron Perlman play 14th-century Crusader knights tasked with transporting a suspected witch who may be responsible for the Black Plague.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Season_of_the_Witch_(2011_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Season+of+the+Witch",
+    "preview_url": "https://www.youtube.com/results?search_query=Season+of+the+Witch+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Season+of+the+Witch+trailer"
+  },
+  {
+    "title": "Seeking Justice",
+    "year": "2011",
+    "rating": "24%",
+    "reviews": "88",
+    "genre": "Thriller",
+    "description": "Nicolas Cage plays a New Orleans teacher who accepts help from a vigilante organization after his wife is attacked, only to find the debt has a deadly price.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Seeking_Justice",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Seeking+Justice",
+    "preview_url": "https://www.youtube.com/results?search_query=Seeking+Justice+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Seeking+Justice+trailer"
   },
   {
     "title": "Sex Lives of the Potato Men",
@@ -1298,6 +1662,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Simon+Sez",
     "preview_url": "https://www.youtube.com/results?search_query=Simon+Sez+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Simon+Sez+trailer"
+  },
+  {
+    "title": "Snake Eyes",
+    "year": "1998",
+    "rating": "53%",
+    "reviews": "83",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage plays a corrupt Atlantic City detective investigating a murder at a heavyweight boxing match in this Brian De Palma conspiracy thriller.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Snake_Eyes_(1998_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Snake+Eyes",
+    "preview_url": "https://www.youtube.com/results?search_query=Snake+Eyes+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Snake+Eyes+trailer"
   },
   {
     "title": "Son of the Mask",
@@ -1378,6 +1755,19 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Superbabies%3A+Baby+Geniuses+2+trailer"
   },
   {
+    "title": "Sympathy for the Devil",
+    "year": "2023",
+    "rating": "55%",
+    "reviews": "49",
+    "genre": "Thriller",
+    "description": "Nicolas Cage plays a menacing passenger who hijacks a driver's car and forces him on a terrifying road trip. A two-hander thriller with Cage on full unhinged form.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Sympathy_for_the_Devil_(2023_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Sympathy+for+the+Devil",
+    "preview_url": "https://www.youtube.com/results?search_query=Sympathy+for+the+Devil+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Sympathy+for+the+Devil+trailer"
+  },
+  {
     "title": "Tarzan, the Ape Man",
     "year": "1981",
     "rating": "10%",
@@ -1441,6 +1831,19 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Emoji+Movie",
     "preview_url": "https://www.youtube.com/results?search_query=The+Emoji+Movie+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/The+Emoji+Movie+trailer"
+  },
+  {
+    "title": "The Family Man",
+    "year": "2000",
+    "rating": "48%",
+    "reviews": "107",
+    "genre": "Romance/Fantasy",
+    "description": "Nicolas Cage plays a wealthy bachelor who wakes up in an alternate life where he married his college girlfriend (Téa Leoni) and lives in suburban New Jersey.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Family_Man",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Family+Man",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Family+Man+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Family+Man+trailer"
   },
   {
     "title": "The Garbage Pail Kids Movie",
@@ -1612,6 +2015,45 @@
     "alt_preview_url": "https://www.dailymotion.com/search/The+Ridiculous+6+trailer"
   },
   {
+    "title": "The Rock",
+    "year": "1996",
+    "rating": "67%",
+    "reviews": "89",
+    "genre": "Action/Thriller",
+    "description": "Nicolas Cage and Sean Connery team up to stop a rogue general (Ed Harris) from launching chemical weapons from Alcatraz. Michael Bay's loud, bombastic blockbuster.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Rock_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Rock",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Rock+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Rock+trailer"
+  },
+  {
+    "title": "The Sorcerer's Apprentice",
+    "year": "2010",
+    "rating": "41%",
+    "reviews": "143",
+    "genre": "Fantasy/Action",
+    "description": "Nicolas Cage plays a centuries-old sorcerer who recruits a modern-day physics student (Jay Baruchel) as his apprentice to battle an ancient evil. Inspired loosely by Fantasia.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Sorcerer%27s+Apprentice",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Sorcerer%27s+Apprentice+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Sorcerer%27s+Apprentice+trailer"
+  },
+  {
+    "title": "The Trust",
+    "year": "2016",
+    "rating": "50%",
+    "reviews": "62",
+    "genre": "Crime/Thriller",
+    "description": "Nicolas Cage and Elijah Wood play two Las Vegas police officers who discover a mystery safe while investigating a drug dealer and decide to rob it.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/The_Trust_(film)",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=The+Trust",
+    "preview_url": "https://www.youtube.com/results?search_query=The+Trust+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/The+Trust+trailer"
+  },
+  {
     "title": "The Wicker Man",
     "year": "2006",
     "rating": "15%",
@@ -1664,6 +2106,45 @@
     "alt_preview_url": "https://www.dailymotion.com/search/Transylmania+trailer"
   },
   {
+    "title": "Trapped in Paradise",
+    "year": "1994",
+    "rating": "18%",
+    "reviews": "22",
+    "genre": "Comedy/Crime",
+    "description": "Nicolas Cage and Dana Carvey star as brothers who rob a bank in a small, suspiciously nice Pennsylvania town and find themselves unable to leave.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Trapped_in_Paradise",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Trapped+in+Paradise",
+    "preview_url": "https://www.youtube.com/results?search_query=Trapped+in+Paradise+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Trapped+in+Paradise+trailer"
+  },
+  {
+    "title": "USS Indianapolis: Men of Courage",
+    "year": "2016",
+    "rating": "17%",
+    "reviews": "24",
+    "genre": "War/Drama",
+    "description": "Nicolas Cage plays Captain Charles McVay III in this retelling of the WWII USS Indianapolis disaster, in which 900 sailors were stranded for five days with sharks.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/USS_Indianapolis:_Men_of_Courage",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=USS+Indianapolis%3A+Men+of+Courage",
+    "preview_url": "https://www.youtube.com/results?search_query=USS+Indianapolis%3A+Men+of+Courage+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/USS+Indianapolis%3A+Men+of+Courage+trailer"
+  },
+  {
+    "title": "Vampire's Kiss",
+    "year": "1988",
+    "rating": "66%",
+    "reviews": "42",
+    "genre": "Horror/Comedy",
+    "description": "Nicolas Cage plays a literary agent who believes he is turning into a vampire after a one-night stand. Famous for Cage eating a real cockroach on camera and his unhinged performance.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Vampire%27s_Kiss",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Vampire%27s+Kiss",
+    "preview_url": "https://www.youtube.com/results?search_query=Vampire%27s+Kiss+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Vampire%27s+Kiss+trailer"
+  },
+  {
     "title": "Vampires Suck",
     "year": "2010",
     "rating": "4%",
@@ -1701,5 +2182,31 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Who%27s+Your+Caddy%3F",
     "preview_url": "https://www.youtube.com/results?search_query=Who%27s+Your+Caddy%3F+trailer",
     "alt_preview_url": "https://www.dailymotion.com/search/Who%27s+Your+Caddy%3F+trailer"
+  },
+  {
+    "title": "Willy's Wonderland",
+    "year": "2021",
+    "rating": "67%",
+    "reviews": "72",
+    "genre": "Horror/Action",
+    "description": "Nicolas Cage plays a silent drifter who becomes a cleaning man at an abandoned family entertainment center, fighting off possessed animatronic characters all night.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Willy%27s_Wonderland",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Willy%27s+Wonderland",
+    "preview_url": "https://www.youtube.com/results?search_query=Willy%27s+Wonderland+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Willy%27s+Wonderland+trailer"
+  },
+  {
+    "title": "Windtalkers",
+    "year": "2002",
+    "rating": "32%",
+    "reviews": "147",
+    "genre": "War/Action",
+    "description": "Nicolas Cage plays a Marine assigned to protect a Navajo code talker during the Battle of Saipan. John Woo's WWII film was criticized for sidelining the Navajo characters.",
+    "poster": null,
+    "wiki_url": "https://en.wikipedia.org/wiki/Windtalkers",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/search?search=Windtalkers",
+    "preview_url": "https://www.youtube.com/results?search_query=Windtalkers+trailer",
+    "alt_preview_url": "https://www.dailymotion.com/search/Windtalkers+trailer"
   }
 ]
