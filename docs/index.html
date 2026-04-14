@@ -12,9 +12,8 @@
     <div class="page">
         <header>
             <h1>Worst Rated Movies</h1>
-            <p class="intro">Static snapshot of Rotten Tomatoes films rated 70% or lower. Search by title and open
-                preview or Rotten
-                Tomatoes links.</p>
+            <p class="intro">Browse films by Rotten Tomatoes score. Includes the complete Nicolas Cage filmography
+                regardless of rating. Search by title and open preview or Rotten Tomatoes links.</p>
         </header>
 
         <form id="search-form" class="search">
@@ -22,15 +21,15 @@
             <label>
                 Max RT score:
                 <select id="max-rating" name="max_rating">
-                    <option value="70">70%</option>
-                    <option value="66">66%</option>
-                    <option value="60">60%</option>
-                    <option value="50">50%</option>
-                    <option value="40">40%</option>
-                    <option value="30">30%</option>
-                    <option value="20">20%</option>
-                    <option value="10">10%</option>
-                    <option value="0">0%</option>
+                    <option value="100" selected>All</option>
+                    <option value="70">≤ 70%</option>
+                    <option value="60">≤ 60%</option>
+                    <option value="50">≤ 50%</option>
+                    <option value="40">≤ 40%</option>
+                    <option value="30">≤ 30%</option>
+                    <option value="20">≤ 20%</option>
+                    <option value="10">≤ 10%</option>
+                    <option value="0">0% only</option>
                 </select>
             </label>
             <button type="submit">Filter</button>

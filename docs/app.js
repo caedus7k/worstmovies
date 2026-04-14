@@ -82,7 +82,10 @@ const applyFilters = () => {
     const filtered = movies.filter((movie) => {
         const titleMatch = !query || movie.title.toLowerCase().includes(query);
         const ratingValue = Number(movie.rating.replace('%', ''));
-        const ratingMatch = Number.isFinite(ratingValue) && ratingValue <= maxRating;
+        // Featured films (e.g. full actor spotlights) always pass the rating gate
+        const ratingMatch = movie.featured
+            ? true
+            : Number.isFinite(ratingValue) && ratingValue <= maxRating;
         return titleMatch && ratingMatch;
     });
     renderMovies(filtered);
