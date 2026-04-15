@@ -49,11 +49,17 @@ const buildCard = (movie) => {
     const rating = escapeHtml(movie.rating);
     const description = escapeHtml(movie.description);
     const genre = movie.genre && movie.genre !== 'N/A' ? escapeHtml(movie.genre) : null;
+    const budget = movie.budget ? escapeHtml(movie.budget) : null;
+    const boxOffice = movie.box_office ? escapeHtml(movie.box_office) : null;
     const wikiUrl = movie.wiki_url ? escapeHtml(movie.wiki_url) : null;
     const rtUrl = escapeHtml(movie.rotten_tomatoes_url);
     const previewUrl = escapeHtml(movie.preview_url);
     const altUrl = escapeHtml(movie.alt_preview_url);
     const tagBadges = buildTagBadges(movie.tags);
+    const financialMeta = [
+        budget ? `Budget: ${budget}` : null,
+        boxOffice ? `Box office: ${boxOffice}` : null,
+    ].filter(Boolean).join(' · ');
 
     return `
     <article class="movie-card">
@@ -61,6 +67,7 @@ const buildCard = (movie) => {
         <div>
           <h2>${title}</h2>
           <div class="meta">${year} · ${reviews} reviews${genre ? ` · <span class="genre-tag">${genre}</span>` : ''}</div>
+          ${financialMeta ? `<div class="meta">${financialMeta}</div>` : ''}
         </div>
         ${tagBadges ? `<div class="tag-badges">${tagBadges}</div>` : ''}
         <div class="meta">Rotten Tomatoes score: ${rating}</div>

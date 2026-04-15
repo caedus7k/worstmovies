@@ -59,5 +59,7 @@ python src/app.py
 ## Recent updates
 - Added a `B movie` tag and filter for clearly defined low-budget / cult titles.
 - Added Neil Breen support with a dedicated `Neil Breen only` checkbox and `neil-breen` tag.
+- Added Tommy Wiseau support with a `tommy-wiseau` tag and static filter option in the docs site.
+- Added budget and box office comparison fields to movie cards and the GitHub Pages dataset.
 - Included six curated Neil Breen films in `data/curated_films.json`.
 - Updated the dataset and mirrored it to `docs/data/worst_movies.json` for the static site.

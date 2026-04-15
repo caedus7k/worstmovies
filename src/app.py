@@ -123,6 +123,47 @@ def build_dailymotion_search_url(query: str):
     return f"https://www.dailymotion.com/search/{quote_plus(query)}"
 
 
+def _clean_money_value(text: str):
+    if not text:
+        return None
+    text = re.sub(r"\[\d+\]", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text or None
+
+
+def _parse_wikipedia_infobox_value(wiki_url: str, field_name: str):
+    if not wiki_url:
+        return None
+    try:
+        response = fetch_wikipedia_page(wiki_url)
+    except Exception:
+        return None
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    infobox = soup.find("table", class_=re.compile(r"infobox", re.I))
+    if not infobox:
+        return None
+
+    for row in infobox.select("tr"):
+        header = row.find("th")
+        if not header:
+            continue
+        if header.get_text(" ", strip=True).strip().lower() == field_name.lower():
+            cell = row.find("td")
+            if not cell:
+                continue
+            return _clean_money_value(cell.get_text(" ", strip=True))
+    return None
+
+
+def _parse_wikipedia_box_office(wiki_url: str):
+    return _parse_wikipedia_infobox_value(wiki_url, "Box office")
+
+
+def _parse_wikipedia_budget(wiki_url: str):
+    return _parse_wikipedia_infobox_value(wiki_url, "Budget")
+
+
 def parse_wikipedia_0_percent_page():
     response = fetch_wikipedia_page(WIKIPEDIA_RT_0_URL)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -165,6 +206,8 @@ def parse_wikipedia_0_percent_page():
                 "description": f"Listed on Wikipedia as a Rotten Tomatoes 0% film. Reviews recorded: {reviews}.",
                 "poster": None,
                 "wiki_url": wiki_url,
+                "box_office": _parse_wikipedia_box_office(wiki_url),
+                "budget": _parse_wikipedia_budget(wiki_url),
                 "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                 "preview_url": build_youtube_search_url(f"{title} trailer"),
                 "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
@@ -223,6 +266,8 @@ def parse_wikipedia_worst_films_page(url: str, max_score: int = 70):
                 "description": description,
                 "poster": None,
                 "wiki_url": wiki_url,
+                "box_office": _parse_wikipedia_box_office(wiki_url),
+                "budget": _parse_wikipedia_budget(wiki_url),
                 "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                 "preview_url": build_youtube_search_url(f"{title} trailer"),
                 "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
@@ -261,6 +306,8 @@ def load_curated_movies(max_score: int = 70):
             "description": m.get("description", ""),
             "poster": m.get("poster"),
             "wiki_url": m.get("wiki_url"),
+            "box_office": m.get("box_office"),
+            "budget": m.get("budget"),
             "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
             "preview_url": build_youtube_search_url(f"{title} trailer"),
             "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
@@ -321,6 +368,12 @@ def parse_razzie_worst_picture_page():
                         "description": f"Golden Raspberry Award (Razzie) Worst Picture winner with a {rt}% Rotten Tomatoes score.",
                         "poster": None,
                         "wiki_url": f"https://en.wikipedia.org{href}",
+                        "box_office": _parse_wikipedia_box_office(
+                            f"https://en.wikipedia.org{href}"
+                        ),
+                        "budget": _parse_wikipedia_budget(
+                            f"https://en.wikipedia.org{href}"
+                        ),
                         "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                         "preview_url": build_youtube_search_url(f"{title} trailer"),
                         "alt_preview_url": build_dailymotion_search_url(
@@ -387,6 +440,8 @@ def parse_imdb_bottom_100(max_score: int = 70):
                     "description": f"Listed on IMDb Bottom 100{f' (IMDb rating: {rating_val}/10)' if rating_val else ''}.",
                     "poster": None,
                     "wiki_url": None,
+                    "box_office": None,
+                    "budget": None,
                     "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                     "preview_url": build_youtube_search_url(f"{title} trailer"),
                     "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
@@ -420,6 +475,8 @@ def parse_imdb_bottom_100(max_score: int = 70):
                     "description": "Listed on IMDb Bottom 100.",
                     "poster": None,
                     "wiki_url": None,
+                    "box_office": None,
+                    "budget": None,
                     "rotten_tomatoes_url": build_rotten_tomatoes_search_url(title),
                     "preview_url": build_youtube_search_url(f"{title} trailer"),
                     "alt_preview_url": build_dailymotion_search_url(f"{title} trailer"),
