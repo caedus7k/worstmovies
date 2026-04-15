@@ -16,6 +16,7 @@ const TAG_META = {
     'razzie-winner': { label: 'Razzie winner', emoji: '🏆' },
     'b-movie': { label: 'B movie', emoji: '🎬' },
     'neil-breen': { label: 'Neil Breen', emoji: '📼' },
+    'tommy-wiseau': { label: 'Tommy Wiseau', emoji: '🎥' },
 };
 
 const escapeHtml = (text) =>
